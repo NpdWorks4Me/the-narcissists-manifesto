@@ -13,6 +13,18 @@ import { discoverFeeds, fetchFeed } from "./adapters/feed.js";
 import { harvestMedia } from "./adapters/media.js";
 import { discoverTools } from "./adapters/toolDiscovery.js";
 import { searchFreesound, freesoundToAsset } from "./adapters/freesound.js";
+import { searchPexels, pexelsToAsset } from "./adapters/pexels.js";
+import dotenv from "dotenv";
+import { existsSync } from "fs";
+import { join } from "path";
+// Load .env from vault root so FREESOUND_API_TOKEN / PEXELS_API_KEY are available
+try {
+  const _cwd = process.cwd();
+  const _vaultRoot = _cwd.endsWith("05 Backend") ? _cwd.slice(0, -"05 Backend".length).replace(/\/$/, "") || "." : _cwd;
+  const _envPath = join(_vaultRoot, ".env");
+  if (existsSync(_envPath)) dotenv.config({ path: _envPath });
+  else dotenv.config();
+} catch {}
 import { existsSync, mkdirSync, writeFileSync } from "fs";
 import { join, extname, basename } from "path";
 
@@ -268,10 +280,10 @@ export async function runResearchOneShot(
     }
   } catch {}
 
-  // Freesound — high-value audio for media spectrum (when FREESOUND_API_KEY set, per user request)
-  // Even without key, we log hint; when time comes, user sets key and gets CC0 audio — try for every idea that has media query
+  // Freesound — high-value audio for media spectrum (when FREESOUND_API_TOKEN/KEY set, per user request)
   const hasMediaQuery = oneShotQueries.some((q) => q.includes("media") || q.includes("audio"));
-  if (hasMediaQuery || idea.toLowerCase().includes("audio") || idea.toLowerCase().includes("sound") || process.env.FREESOUND_API_KEY) {
+  const hasFreesoundKey = !!(process.env.FREESOUND_API_KEY || process.env.FREESOUND_API_TOKEN || process.env.FS_CLIENT_ID);
+  if (hasMediaQuery || idea.toLowerCase().includes("audio") || idea.toLowerCase().includes("sound") || hasFreesoundKey) {
     try {
       const freesounds = await searchFreesound(idea, 3);
       for (const fs of freesounds) {
@@ -281,8 +293,25 @@ export async function runResearchOneShot(
         allAssets.push(asset);
       }
       if (freesounds.length > 0) console.log(`[freesound] +${freesounds.length} audio assets`);
-      else if (process.env.FREESOUND_API_KEY) console.log(`[freesound] 0 results for "${idea}"`);
-    } catch {}
+      else if (hasFreesoundKey) console.log(`[freesound] 0 results for "${idea}" — try broader term`);
+      else console.log(`[freesound] No FREESOUND_API_TOKEN set — skipping audio (set in .env to enable)`);
+    } catch (e) { console.log(`[freesound] error ${e}`); }
+  }
+
+  // Pexels — high-quality stock photos for media spectrum (when PEXELS_API_KEY set)
+  const hasPexelsKey = !!process.env.PEXELS_API_KEY;
+  if (hasMediaQuery || hasPexelsKey) {
+    try {
+      const pexels = await searchPexels(idea, 3);
+      for (const px of pexels) {
+        const asset = pexelsToAsset(px, idea);
+        if (seenUrls.has(asset.sourceUrl) || allAssets.some((a) => a.sourceUrl === asset.sourceUrl)) continue;
+        seenUrls.add(asset.sourceUrl);
+        allAssets.push(asset);
+      }
+      if (pexels.length > 0) console.log(`[pexels] +${pexels.length} image assets`);
+      else if (hasPexelsKey) console.log(`[pexels] 0 results for "${idea}"`);
+    } catch (e) { console.log(`[pexels] error ${e}`); }
   }
 
   // === STANDARD: Download assets locally (media, archives, pages) ===

@@ -9,6 +9,9 @@ tags:
   - auto/generated
   - auto/research
   - auto/spectrum
+  - category/feed
+  - category/feeds
+  - category/media
   - category/page
   - category/pages
   - category/rare
@@ -20,6 +23,7 @@ tags:
   - domain/example
   - domain/fierceembodiment
   - domain/github
+  - domain/therapybypro
   - extreme
   - generated/2026
   - generated/2026-08-31
@@ -35,8 +39,8 @@ aliases: []
 resume_point:
   last_explored: '2026-08-31'
   current_thought: >-
-    Loneliness and longing Fierce Embodiment Home About Bodywork Sessions
-    Workshops + Offerings Resource
+    Four Stories of Loneliness Across the Lifespan This article — and everything
+    on this site — is funde
   next_step: Explore extreme loneliness and longing — review top assets
 content_potential:
   suggested_format: essay
@@ -162,3 +166,63 @@ SPECTRUM for "extreme loneliness and longing" → 14 assets (rare:4 media:0 tool
 - Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, whe — [c4b2723f6140](https://fierceembodiment.com/longing/)
 - I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings — [c4b2723f6140](https://fierceembodiment.com/longing/)
 - --> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nos — [e264ec1789c6](https://confessions.peonymagazine.com/read-anonymous-confessions/)
+
+## Research Update — 2026-08-31
+
+SPECTRUM for "extreme loneliness and longing" → 20 assets (rare:3 media:6 tools:7) | Tags: #auto/generated #auto/research #auto/spectrum #category/feed #category/feeds #category/media #category/page #category/pages #category/rare #category/tool #category/tools #domain/aspirehealthtoolkit #domain/bondedpath #domain/companionwise #domain/example #domain/fierceembodiment #domain/github #domain/therapybypro #extreme #generated/2026 #generated/2026-08-31 #idea/extreme-loneliness-and #loneliness #longing #manifesto #research #spectrum #update #vault/narcissism
+
+- Four Stories of Loneliness Across the Lifespan This article — and everything on this site — is funded by readers like you — [c1038b04754b](https://greatergood.berkeley.edu/article/item/four_stories_of_loneliness_across_the_lifespan)
+- - 
+
+
+	
+Experiencing Extreme Loneliness: Reasons and Solutions 
+
+	
+- 
+	
+	
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+
+- 
+
+- 
+
+- 
+
+
+- 
+
+
+
+
+
+
+	[Saltar al contenido](https://diariopsicologico.com/en/extremely-lonely/#main)
+
+	
+	
+	
+
+	
+
+
+
+
+
+ — [3d703539cdf4](https://diariopsicologico.com/en/extremely-lonely/)
+- Seriously, loneliness can hit you hard, even when life seems perfectly fine from the outside — [3d703539cdf4](https://diariopsicologico.com/en/extremely-lonely/)

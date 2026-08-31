@@ -14,8 +14,19 @@ export interface FreesoundResult {
   username: string;
 }
 
+import dotenv from "dotenv";
+import { join } from "path";
+import { existsSync } from "fs";
+// Load .env from vault root (parent of 05 Backend) if not already loaded
+try {
+  const vaultRoot = process.cwd().endsWith("05 Backend") ? join(process.cwd(), "..") : process.cwd();
+  const envPath = join(vaultRoot, ".env");
+  if (existsSync(envPath)) dotenv.config({ path: envPath });
+  else dotenv.config();
+} catch {}
+
 export async function searchFreesound(query: string, limit = 3): Promise<FreesoundResult[]> {
-  const apiKey = (process.env.FREESOUND_API_KEY || "").trim();
+  const apiKey = (process.env.FREESOUND_API_KEY || process.env.FREESOUND_API_TOKEN || process.env.FS_CLIENT_ID || "").trim();
   if (!apiKey) {
     // No API key — return empty, pipeline will skip
     // We still log for user to know

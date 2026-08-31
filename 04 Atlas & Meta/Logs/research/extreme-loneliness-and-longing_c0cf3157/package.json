@@ -1,0 +1,866 @@
+{
+  "researchId": "c0cf3157",
+  "query": "ONE-SHOT SPECTRUM: extreme loneliness and longing | extreme loneliness and longing lived experience personal story raw confessional | extreme loneliness and longing history archive rare forgotten vintage obscure abandoned | extreme loneliness and longing tools programs software templates resources open source | extreme loneliness and longing media assets images audio video archive | extreme loneliness and longing theory concept framework model rare idea | extreme loneliness and longing criticism counter perspective deconstruction | extreme loneliness and longing step by step guide framework how to system",
+  "idea": "extreme loneliness and longing",
+  "slug": "extreme-loneliness-and-longing",
+  "createdAt": "2026-08-31T20:50:18.287Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180
+  },
+  "counts": {
+    "sourcesSearched": 11,
+    "pagesFetched": 6,
+    "domains": 5,
+    "archiveQueries": 0,
+    "totalAssets": 20,
+    "uniqueAssets": 20,
+    "byCategory": {
+      "rare": 3,
+      "media": 6,
+      "tools": 7,
+      "feeds": 2,
+      "pages": 2
+    },
+    "media": 6,
+    "tools": 7,
+    "rare": 3
+  },
+  "ranked": [
+    {
+      "assetId": "pex_11544373",
+      "sourceUrl": "https://images.pexels.com/photos/11544373/pexels-photo-11544373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "title": "[IMAGE] A lone person walking across an expansive, sunlit field in S — Pexels (Anna Pechuro)",
+      "snippet": "Pexels stock photo — A lone person walking across an expansive, sunlit field in Saint Petersburg, Russia.",
+      "domain": "pexels.com",
+      "score": 0.66,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "pexels CC",
+        "query: extreme loneliness and longing",
+        "downloaded 32526 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_11544373_pexels-photo-1154437.jpeg"
+      ],
+      "contentPreview": "https://www.pexels.com/photo/a-man-walking-on-the-field-11544373/",
+      "rightsClassification": "CLEARLY_REUSABLE",
+      "rightsConfidence": 0.85,
+      "category": "media",
+      "type": "image",
+      "photographer": "Anna Pechuro",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_11544373_pexels-photo-1154437.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 32526,
+      "needsRender": false
+    },
+    {
+      "assetId": "pex_8329215",
+      "sourceUrl": "https://images.pexels.com/photos/8329215/pexels-photo-8329215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "title": "[IMAGE] A blurred black and white photo of a man alone on a curved j — Pexels (Leo Arslan)",
+      "snippet": "Pexels stock photo — A blurred black and white photo of a man alone on a curved jetty over a lake, creating a moody atmos",
+      "domain": "pexels.com",
+      "score": 0.66,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "pexels CC",
+        "query: extreme loneliness and longing",
+        "downloaded 23404 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_8329215_pexels-photo-8329215.jpeg"
+      ],
+      "contentPreview": "https://www.pexels.com/photo/blurred-black-and-white-photograph-of-a-man-standing-on-a-jetty-8329215/",
+      "rightsClassification": "CLEARLY_REUSABLE",
+      "rightsConfidence": 0.85,
+      "category": "media",
+      "type": "image",
+      "photographer": "Leo Arslan",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_8329215_pexels-photo-8329215.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 23404,
+      "needsRender": false
+    },
+    {
+      "assetId": "pex_10622525",
+      "sourceUrl": "https://images.pexels.com/photos/10622525/pexels-photo-10622525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "title": "[IMAGE] Black and white silhouette of a woman standing in a snowy, w — Pexels (Ruslan  Kireev)",
+      "snippet": "Pexels stock photo — Black and white silhouette of a woman standing in a snowy, winter landscape, creating a moody and dr",
+      "domain": "pexels.com",
+      "score": 0.66,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "pexels CC",
+        "query: extreme loneliness and longing",
+        "downloaded 22236 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_10622525_pexels-photo-1062252.jpeg"
+      ],
+      "contentPreview": "https://www.pexels.com/photo/silhouette-of-woman-in-winter-landscape-10622525/",
+      "rightsClassification": "CLEARLY_REUSABLE",
+      "rightsConfidence": 0.85,
+      "category": "media",
+      "type": "image",
+      "photographer": "Ruslan  Kireev",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_10622525_pexels-photo-1062252.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 22236,
+      "needsRender": false
+    }
+  ],
+  "referenceCandidates": [
+    {
+      "assetId": "568dc620a4b6",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software",
+      "title": "[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "bb8412394407",
+      "sourceUrl": "https://github.com/JordanMagnuson/Loneliness",
+      "title": "[TOOL] https://github.com/JordanMagnuson/Loneliness",
+      "snippet": "",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "84ddc64b601f",
+      "sourceUrl": "https://github.com/VilteBaltra/loneliness-mediation",
+      "title": "[TOOL] https://github.com/VilteBaltra/loneliness-mediation",
+      "snippet": "",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "fce7f22a8de1",
+      "sourceUrl": "https://github.com/lyip12/loneliness",
+      "title": "[TOOL] https://github.com/lyip12/loneliness",
+      "snippet": "",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "d7354fd1a8ec",
+      "sourceUrl": "https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "title": "[TOOL] https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "snippet": "",
+      "domain": "therapybypro.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "6765f5897969",
+      "sourceUrl": "https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "title": "[TOOL] https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "snippet": "",
+      "domain": "www.carepatron.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "c1038b04754b",
+      "sourceUrl": "https://greatergood.berkeley.edu/article/item/four_stories_of_loneliness_across_the_lifespan",
+      "title": "Four Stories of Loneliness Across the Lifespan - Greater Good",
+      "snippet": "In my",
+      "domain": "greatergood.berkeley.edu",
+      "score": 0.6325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 102840 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/c1038b04754b_four_stories_of_lone.html"
+      ],
+      "contentPreview": "Four Stories of Loneliness Across the Lifespan This article — and everything on this site — is funded by readers like you. Become a subscribing member today. Help us continue to bring “the science of a meaningful life” to you and to millions around the globe. Give Now SKIP TO: Header | Log in | Register | Navigation | Main Content | Footer Greater Good Science Center • Magazine • In Action • In Education Sign up for our newsletters tag --> Greater Good Magazine Donate Log in Register Become a Member nav menu Topics Mind &amp; Body Relationships Workplace Parenting &amp; Family Education MORE... Quizzes Purpose in Life Happiness at Work Social Capital Connection to Humanity Altruism Gratitude Emotional Intelligence MORE... Videos Bridging Differences for Teens and Parents Greater Good Books",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/c1038b04754b_four_stories_of_lone.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 102840,
+      "needsRender": false
+    },
+    {
+      "assetId": "3d703539cdf4",
+      "sourceUrl": "https://diariopsicologico.com/en/extremely-lonely/",
+      "title": "Experiencing Extreme Loneliness: Reasons and Solutions",
+      "snippet": "Feeling extremely lonely can be overwhelming, leaving you isolated and yearning for connection. It often brings sadness, emptiness, and a",
+      "domain": "diariopsicologico.com",
+      "score": 0.63,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 95702 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/3d703539cdf4_extremely-lonely.html"
+      ],
+      "contentPreview": "- \n\n\n\t\nExperiencing Extreme Loneliness: Reasons and Solutions \n\n\t\n- \n\t\n\t\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n- \n\n- \n\n- \n\n\n- \n\n\n\n\n\n\n\t[Saltar al contenido](https://diariopsicologico.com/en/extremely-lonely/#main)\n\n\t\n\t\n\t\n\n\t\n\n\n\n\n\n\n\t\n\n\n\n\n\n\n\n\n\n\t\n\n\nPublicado en [Emotions](https://diariopsicologico.com/en/category/emotions/) \n\n\n\n\t\n\n![Experiencing Extreme Loneliness: Reasons and Solutions](https://diariopsicologico.com/en/wp-content/uploads/2026/04/cbc6cf5bf989ac17aeeb810a93e629bb.jpg) \n\nHey, you know that feeling when you&rsquo;re surrounded by people but still feel totally alone? Yeah, it&rsquo;s a bummer. Seriously, loneliness can hit you hard, even when life seems perfectly fine from the outside. \n\nSo what&rsquo;s up with that? Why does it happen? \n\nAnd here&rsquo;s the kicker: it&rsquo;s not just ab",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/3d703539cdf4_extremely-lonely.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 95702,
+      "needsRender": false
+    },
+    {
+      "assetId": "4c2c669f2b88",
+      "sourceUrl": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "snippet": "As I mentioned before,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.56,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 29126 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/4c2c669f2b88_1366579.html"
+      ],
+      "contentPreview": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care. For someone to get to know me, for someone to ask me for a change “how are you doing?” Anyone relate? I feel as though I am filled with a void, there is an emptiness that lingers and never leaves me. I have no friends to talk to, sometimes acquaintances, but never truly a friend. I am always someone in the shadows. I’d give *anything* to just sit down with someone and have a meaningful conversation with someone about anything. I pretend all the time that I know what I am doing, that I am content and happy, but I am far from that. I don’t even know who I am anymore. However, I feel like I’m used to the em",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/4c2c669f2b88_1366579.html",
+      "contentType": "text/html",
+      "bytes": 29126,
+      "needsRender": false
+    },
+    {
+      "assetId": "c852e8a5f6c5",
+      "sourceUrl": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cropped-diario-psicologico.jpg",
+      "title": "[MEDIA:image] Diario psicologico",
+      "snippet": "Media from diariopsicologico.com — Diario psicologico",
+      "domain": "diariopsicologico.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://diariopsicologico.com/en/extremely-lonely/",
+        "downloaded 9913 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/c852e8a5f6c5_cropped-diario-psico.jpg"
+      ],
+      "contentPreview": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cropped-diario-psicologico.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/c852e8a5f6c5_cropped-diario-psico.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 9913,
+      "needsRender": false
+    },
+    {
+      "assetId": "2c08d5234816",
+      "sourceUrl": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cbc6cf5bf989ac17aeeb810a93e629bb.jpg",
+      "title": "[MEDIA:image] Experiencing Extreme Loneliness: Reasons and Solutions",
+      "snippet": "Media from diariopsicologico.com — Experiencing Extreme Loneliness: Reasons and Solutions",
+      "domain": "diariopsicologico.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://diariopsicologico.com/en/extremely-lonely/",
+        "downloaded 8446 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/2c08d5234816_cbc6cf5bf989ac17aeeb.jpg"
+      ],
+      "contentPreview": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cbc6cf5bf989ac17aeeb810a93e629bb.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/2c08d5234816_cbc6cf5bf989ac17aeeb.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 8446,
+      "needsRender": false
+    },
+    {
+      "assetId": "94a61d84798b",
+      "sourceUrl": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/1968403a773c164efbc1e3785b7f86fe-120x120.jpg",
+      "title": "[MEDIA:image] Signs You Are Extremely Jealous and How to Cope",
+      "snippet": "Media from diariopsicologico.com — Signs You Are Extremely Jealous and How to Cope",
+      "domain": "diariopsicologico.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://diariopsicologico.com/en/extremely-lonely/",
+        "downloaded 4333 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/94a61d84798b_1968403a773c164efbc1.jpg"
+      ],
+      "contentPreview": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/1968403a773c164efbc1e3785b7f86fe-120x120.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/94a61d84798b_1968403a773c164efbc1.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 4333,
+      "needsRender": false
+    },
+    {
+      "assetId": "737713bd5c36",
+      "sourceUrl": "https://diariopsicologico.com/en/zzzquil-side-effects/",
+      "title": "[FEED] ZzzQuil Side Effects: What You Need to Know",
+      "snippet": "",
+      "domain": "diariopsicologico.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://diariopsicologico.com/en/feed/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "da3fe22bbadc",
+      "sourceUrl": "https://diariopsicologico.com/en/zolpidem-addiction/",
+      "title": "[FEED] Zolpidem Addiction: Risks, Symptoms, and Recovery Paths",
+      "snippet": "",
+      "domain": "diariopsicologico.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://diariopsicologico.com/en/feed/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "5155ba457099",
+      "sourceUrl": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "title": "Complicated feelings of guilt, loneliness and longing. - Raw Confessions",
+      "snippet": "Complicated feelings of guilt,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.5325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Complicated feelings of guilt, loneliness and longing. | Raw Confessions Raw Confessions Log In Sign Up Complicated feelings of guilt, loneliness and longing. Today was my second-ever therapy session. Once again, I withheld information from my therapist, so all we did was talk about interior design for 45 minutes. After the session, I immediately spiraled and cried, feeling dissatisfied and guilty. I wish my therapist had pried the information out of me, but maybe she has something else in mind. Anyway, during my spiral, I panicked and realized I had no one to talk to about it. The only person I felt would understand and be able to provide useful feedback is basically going no-contact with me right now since he has his own internal struggles. I wouldn’t want to put this all on him anyway. ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "a3df873dca57",
+      "sourceUrl": "https://www.taylorfrancis.com/books/edit/10.4324/9780203157213/loneliness-longing-brent-willock-lori-bohm-rebecca-coleman-curtis",
+      "title": "Loneliness and Longing | Conscious and Unconscious Aspects | Brent Wil",
+      "snippet": "We all experience",
+      "domain": "www.taylorfrancis.com",
+      "score": 0.5125000000000001,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Loneliness and Longing | Conscious and Unconscious Aspects | Brent Wil Skip to main content Taylor &amp; Francis Group Logo Policies Policies Privacy Policy Terms &amp; Conditions Cookie Policy Accessibility Journals Journals Taylor &amp; Francis Online Corporate Corporate Taylor &amp; Francis Group Help &amp; Contact Help &amp; Contact Students/Researchers Librarians/Institutions Connect with us Registered in England &amp; Wales No. 3099067 5 Howick Place | London | SW1P 1WG © 2025 Informa UK Limited Back to Top",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "c61d11a4a305",
+      "sourceUrl": "https://parade.com/living/signs-of-deep-loneliness-according-to-psychologists",
+      "title": "14 Signs of &#x27;Deep Loneliness&#x27; To Look Out For - Parade",
+      "snippet": "These are 14 telltale signs of deep",
+      "domain": "parade.com",
+      "score": 0.4600000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "<html lang=\"en\"><head><title>parade.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMAfeAQsVpU4RAAYWinUw==','hsh':'2AC20A4365547ED96AE26618B66966','t':'fe','qp':'','s':41010,'e':'561d085e4533c84a7823ff506a610230f13bd40e70a890e0bf6e9b2f6000e85ad6230ae8cba2e3f937988ad1e3c2b28d','host':'geo.captcha-delivery.com','cookie':'HdrGMrRSfBPASYnYBJGgqbPB0m~ha0rBdPZGZpYysLgCuhzcQBbfyZw36txyEFxw6g7zwVfEKTH2T8YIQDlXuruGgPez732o9yjE0cSBQ5jQ6n0NBZnapilovrLm5bKd'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/c.js\"></script></body></html>",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    }
+  ],
+  "all_assets": [
+    {
+      "assetId": "568dc620a4b6",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software",
+      "title": "[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "bb8412394407",
+      "sourceUrl": "https://github.com/JordanMagnuson/Loneliness",
+      "title": "[TOOL] https://github.com/JordanMagnuson/Loneliness",
+      "snippet": "",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "84ddc64b601f",
+      "sourceUrl": "https://github.com/VilteBaltra/loneliness-mediation",
+      "title": "[TOOL] https://github.com/VilteBaltra/loneliness-mediation",
+      "snippet": "",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "fce7f22a8de1",
+      "sourceUrl": "https://github.com/lyip12/loneliness",
+      "title": "[TOOL] https://github.com/lyip12/loneliness",
+      "snippet": "",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "d7354fd1a8ec",
+      "sourceUrl": "https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "title": "[TOOL] https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "snippet": "",
+      "domain": "therapybypro.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "6765f5897969",
+      "sourceUrl": "https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "title": "[TOOL] https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "snippet": "",
+      "domain": "www.carepatron.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "pex_11544373",
+      "sourceUrl": "https://images.pexels.com/photos/11544373/pexels-photo-11544373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "title": "[IMAGE] A lone person walking across an expansive, sunlit field in S — Pexels (Anna Pechuro)",
+      "snippet": "Pexels stock photo — A lone person walking across an expansive, sunlit field in Saint Petersburg, Russia.",
+      "domain": "pexels.com",
+      "score": 0.66,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "pexels CC",
+        "query: extreme loneliness and longing",
+        "downloaded 32526 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_11544373_pexels-photo-1154437.jpeg"
+      ],
+      "contentPreview": "https://www.pexels.com/photo/a-man-walking-on-the-field-11544373/",
+      "rightsClassification": "CLEARLY_REUSABLE",
+      "rightsConfidence": 0.85,
+      "category": "media",
+      "type": "image",
+      "photographer": "Anna Pechuro",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_11544373_pexels-photo-1154437.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 32526,
+      "needsRender": false
+    },
+    {
+      "assetId": "pex_8329215",
+      "sourceUrl": "https://images.pexels.com/photos/8329215/pexels-photo-8329215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "title": "[IMAGE] A blurred black and white photo of a man alone on a curved j — Pexels (Leo Arslan)",
+      "snippet": "Pexels stock photo — A blurred black and white photo of a man alone on a curved jetty over a lake, creating a moody atmos",
+      "domain": "pexels.com",
+      "score": 0.66,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "pexels CC",
+        "query: extreme loneliness and longing",
+        "downloaded 23404 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_8329215_pexels-photo-8329215.jpeg"
+      ],
+      "contentPreview": "https://www.pexels.com/photo/blurred-black-and-white-photograph-of-a-man-standing-on-a-jetty-8329215/",
+      "rightsClassification": "CLEARLY_REUSABLE",
+      "rightsConfidence": 0.85,
+      "category": "media",
+      "type": "image",
+      "photographer": "Leo Arslan",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_8329215_pexels-photo-8329215.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 23404,
+      "needsRender": false
+    },
+    {
+      "assetId": "pex_10622525",
+      "sourceUrl": "https://images.pexels.com/photos/10622525/pexels-photo-10622525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "title": "[IMAGE] Black and white silhouette of a woman standing in a snowy, w — Pexels (Ruslan  Kireev)",
+      "snippet": "Pexels stock photo — Black and white silhouette of a woman standing in a snowy, winter landscape, creating a moody and dr",
+      "domain": "pexels.com",
+      "score": 0.66,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "pexels CC",
+        "query: extreme loneliness and longing",
+        "downloaded 22236 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_10622525_pexels-photo-1062252.jpeg"
+      ],
+      "contentPreview": "https://www.pexels.com/photo/silhouette-of-woman-in-winter-landscape-10622525/",
+      "rightsClassification": "CLEARLY_REUSABLE",
+      "rightsConfidence": 0.85,
+      "category": "media",
+      "type": "image",
+      "photographer": "Ruslan  Kireev",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/pex_10622525_pexels-photo-1062252.jpeg",
+      "contentType": "image/jpeg",
+      "bytes": 22236,
+      "needsRender": false
+    },
+    {
+      "assetId": "c1038b04754b",
+      "sourceUrl": "https://greatergood.berkeley.edu/article/item/four_stories_of_loneliness_across_the_lifespan",
+      "title": "Four Stories of Loneliness Across the Lifespan - Greater Good",
+      "snippet": "In my",
+      "domain": "greatergood.berkeley.edu",
+      "score": 0.6325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 102840 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/c1038b04754b_four_stories_of_lone.html"
+      ],
+      "contentPreview": "Four Stories of Loneliness Across the Lifespan This article — and everything on this site — is funded by readers like you. Become a subscribing member today. Help us continue to bring “the science of a meaningful life” to you and to millions around the globe. Give Now SKIP TO: Header | Log in | Register | Navigation | Main Content | Footer Greater Good Science Center • Magazine • In Action • In Education Sign up for our newsletters tag --> Greater Good Magazine Donate Log in Register Become a Member nav menu Topics Mind &amp; Body Relationships Workplace Parenting &amp; Family Education MORE... Quizzes Purpose in Life Happiness at Work Social Capital Connection to Humanity Altruism Gratitude Emotional Intelligence MORE... Videos Bridging Differences for Teens and Parents Greater Good Books",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/c1038b04754b_four_stories_of_lone.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 102840,
+      "needsRender": false
+    },
+    {
+      "assetId": "3d703539cdf4",
+      "sourceUrl": "https://diariopsicologico.com/en/extremely-lonely/",
+      "title": "Experiencing Extreme Loneliness: Reasons and Solutions",
+      "snippet": "Feeling extremely lonely can be overwhelming, leaving you isolated and yearning for connection. It often brings sadness, emptiness, and a",
+      "domain": "diariopsicologico.com",
+      "score": 0.63,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 95702 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/3d703539cdf4_extremely-lonely.html"
+      ],
+      "contentPreview": "- \n\n\n\t\nExperiencing Extreme Loneliness: Reasons and Solutions \n\n\t\n- \n\t\n\t\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n- \n\n- \n\n- \n\n\n- \n\n\n\n\n\n\n\t[Saltar al contenido](https://diariopsicologico.com/en/extremely-lonely/#main)\n\n\t\n\t\n\t\n\n\t\n\n\n\n\n\n\n\t\n\n\n\n\n\n\n\n\n\n\t\n\n\nPublicado en [Emotions](https://diariopsicologico.com/en/category/emotions/) \n\n\n\n\t\n\n![Experiencing Extreme Loneliness: Reasons and Solutions](https://diariopsicologico.com/en/wp-content/uploads/2026/04/cbc6cf5bf989ac17aeeb810a93e629bb.jpg) \n\nHey, you know that feeling when you&rsquo;re surrounded by people but still feel totally alone? Yeah, it&rsquo;s a bummer. Seriously, loneliness can hit you hard, even when life seems perfectly fine from the outside. \n\nSo what&rsquo;s up with that? Why does it happen? \n\nAnd here&rsquo;s the kicker: it&rsquo;s not just ab",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/3d703539cdf4_extremely-lonely.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 95702,
+      "needsRender": false
+    },
+    {
+      "assetId": "4c2c669f2b88",
+      "sourceUrl": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "snippet": "As I mentioned before,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.56,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 29126 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/4c2c669f2b88_1366579.html"
+      ],
+      "contentPreview": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care. For someone to get to know me, for someone to ask me for a change “how are you doing?” Anyone relate? I feel as though I am filled with a void, there is an emptiness that lingers and never leaves me. I have no friends to talk to, sometimes acquaintances, but never truly a friend. I am always someone in the shadows. I’d give *anything* to just sit down with someone and have a meaningful conversation with someone about anything. I pretend all the time that I know what I am doing, that I am content and happy, but I am far from that. I don’t even know who I am anymore. However, I feel like I’m used to the em",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/pages/4c2c669f2b88_1366579.html",
+      "contentType": "text/html",
+      "bytes": 29126,
+      "needsRender": false
+    },
+    {
+      "assetId": "c852e8a5f6c5",
+      "sourceUrl": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cropped-diario-psicologico.jpg",
+      "title": "[MEDIA:image] Diario psicologico",
+      "snippet": "Media from diariopsicologico.com — Diario psicologico",
+      "domain": "diariopsicologico.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://diariopsicologico.com/en/extremely-lonely/",
+        "downloaded 9913 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/c852e8a5f6c5_cropped-diario-psico.jpg"
+      ],
+      "contentPreview": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cropped-diario-psicologico.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/c852e8a5f6c5_cropped-diario-psico.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 9913,
+      "needsRender": false
+    },
+    {
+      "assetId": "2c08d5234816",
+      "sourceUrl": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cbc6cf5bf989ac17aeeb810a93e629bb.jpg",
+      "title": "[MEDIA:image] Experiencing Extreme Loneliness: Reasons and Solutions",
+      "snippet": "Media from diariopsicologico.com — Experiencing Extreme Loneliness: Reasons and Solutions",
+      "domain": "diariopsicologico.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://diariopsicologico.com/en/extremely-lonely/",
+        "downloaded 8446 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/2c08d5234816_cbc6cf5bf989ac17aeeb.jpg"
+      ],
+      "contentPreview": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/cbc6cf5bf989ac17aeeb810a93e629bb.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/2c08d5234816_cbc6cf5bf989ac17aeeb.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 8446,
+      "needsRender": false
+    },
+    {
+      "assetId": "94a61d84798b",
+      "sourceUrl": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/1968403a773c164efbc1e3785b7f86fe-120x120.jpg",
+      "title": "[MEDIA:image] Signs You Are Extremely Jealous and How to Cope",
+      "snippet": "Media from diariopsicologico.com — Signs You Are Extremely Jealous and How to Cope",
+      "domain": "diariopsicologico.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://diariopsicologico.com/en/extremely-lonely/",
+        "downloaded 4333 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/94a61d84798b_1968403a773c164efbc1.jpg"
+      ],
+      "contentPreview": "https://diariopsicologico.com/en/wp-content/uploads/2026/04/1968403a773c164efbc1e3785b7f86fe-120x120.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_c0cf3157/assets/media/94a61d84798b_1968403a773c164efbc1.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 4333,
+      "needsRender": false
+    },
+    {
+      "assetId": "737713bd5c36",
+      "sourceUrl": "https://diariopsicologico.com/en/zzzquil-side-effects/",
+      "title": "[FEED] ZzzQuil Side Effects: What You Need to Know",
+      "snippet": "",
+      "domain": "diariopsicologico.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://diariopsicologico.com/en/feed/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "da3fe22bbadc",
+      "sourceUrl": "https://diariopsicologico.com/en/zolpidem-addiction/",
+      "title": "[FEED] Zolpidem Addiction: Risks, Symptoms, and Recovery Paths",
+      "snippet": "",
+      "domain": "diariopsicologico.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://diariopsicologico.com/en/feed/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "5155ba457099",
+      "sourceUrl": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "title": "Complicated feelings of guilt, loneliness and longing. - Raw Confessions",
+      "snippet": "Complicated feelings of guilt,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.5325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Complicated feelings of guilt, loneliness and longing. | Raw Confessions Raw Confessions Log In Sign Up Complicated feelings of guilt, loneliness and longing. Today was my second-ever therapy session. Once again, I withheld information from my therapist, so all we did was talk about interior design for 45 minutes. After the session, I immediately spiraled and cried, feeling dissatisfied and guilty. I wish my therapist had pried the information out of me, but maybe she has something else in mind. Anyway, during my spiral, I panicked and realized I had no one to talk to about it. The only person I felt would understand and be able to provide useful feedback is basically going no-contact with me right now since he has his own internal struggles. I wouldn’t want to put this all on him anyway. ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "a3df873dca57",
+      "sourceUrl": "https://www.taylorfrancis.com/books/edit/10.4324/9780203157213/loneliness-longing-brent-willock-lori-bohm-rebecca-coleman-curtis",
+      "title": "Loneliness and Longing | Conscious and Unconscious Aspects | Brent Wil",
+      "snippet": "We all experience",
+      "domain": "www.taylorfrancis.com",
+      "score": 0.5125000000000001,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Loneliness and Longing | Conscious and Unconscious Aspects | Brent Wil Skip to main content Taylor &amp; Francis Group Logo Policies Policies Privacy Policy Terms &amp; Conditions Cookie Policy Accessibility Journals Journals Taylor &amp; Francis Online Corporate Corporate Taylor &amp; Francis Group Help &amp; Contact Help &amp; Contact Students/Researchers Librarians/Institutions Connect with us Registered in England &amp; Wales No. 3099067 5 Howick Place | London | SW1P 1WG © 2025 Informa UK Limited Back to Top",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "c61d11a4a305",
+      "sourceUrl": "https://parade.com/living/signs-of-deep-loneliness-according-to-psychologists",
+      "title": "14 Signs of &#x27;Deep Loneliness&#x27; To Look Out For - Parade",
+      "snippet": "These are 14 telltale signs of deep",
+      "domain": "parade.com",
+      "score": 0.4600000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "<html lang=\"en\"><head><title>parade.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMAfeAQsVpU4RAAYWinUw==','hsh':'2AC20A4365547ED96AE26618B66966','t':'fe','qp':'','s':41010,'e':'561d085e4533c84a7823ff506a610230f13bd40e70a890e0bf6e9b2f6000e85ad6230ae8cba2e3f937988ad1e3c2b28d','host':'geo.captcha-delivery.com','cookie':'HdrGMrRSfBPASYnYBJGgqbPB0m~ha0rBdPZGZpYysLgCuhzcQBbfyZw36txyEFxw6g7zwVfEKTH2T8YIQDlXuruGgPez732o9yjE0cSBQ5jQ6n0NBZnapilovrLm5bKd'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/c.js\"></script></body></html>",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    }
+  ],
+  "one_shot_queries": [
+    "extreme loneliness and longing",
+    "extreme loneliness and longing lived experience personal story raw confessional",
+    "extreme loneliness and longing history archive rare forgotten vintage obscure abandoned",
+    "extreme loneliness and longing tools programs software templates resources open source",
+    "extreme loneliness and longing media assets images audio video archive",
+    "extreme loneliness and longing theory concept framework model rare idea",
+    "extreme loneliness and longing criticism counter perspective deconstruction",
+    "extreme loneliness and longing step by step guide framework how to system"
+  ],
+  "auto_tags": [
+    "auto/generated",
+    "auto/research",
+    "auto/spectrum",
+    "category/feed",
+    "category/feeds",
+    "category/media",
+    "category/page",
+    "category/pages",
+    "category/rare",
+    "category/tool",
+    "category/tools",
+    "domain/example",
+    "domain/github",
+    "domain/therapybypro",
+    "extreme",
+    "generated/2026",
+    "generated/2026-08-31",
+    "idea/extreme-loneliness-and",
+    "log",
+    "loneliness",
+    "longing",
+    "manifesto",
+    "research-log"
+  ]
+}
