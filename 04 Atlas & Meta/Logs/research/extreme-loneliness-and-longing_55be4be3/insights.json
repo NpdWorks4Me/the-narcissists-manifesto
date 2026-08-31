@@ -1,5 +1,5 @@
 {
-  "researchId": "378375c1",
+  "researchId": "55be4be3",
   "baseQuery": "extreme loneliness and longing",
   "oneShotQueries": [
     "extreme loneliness and longing",
@@ -11,8 +11,8 @@
     "extreme loneliness and longing criticism counter perspective deconstruction",
     "extreme loneliness and longing step by step guide framework how to system"
   ],
-  "generatedAt": "2026-08-31T19:43:56.315Z",
-  "summary": "SPECTRUM for 'extreme loneliness and longing' → 18 assets across 7 domains (rare:3 media:1 tools:8 feeds:4 pages:2) Top 0.75 archiveQueries:2",
+  "generatedAt": "2026-08-31T20:36:49.865Z",
+  "summary": "SPECTRUM for 'extreme loneliness and longing' → 14 assets across 7 domains (rare:4 media:0 tools:9 feeds:0 pages:1) Top 0.75 archiveQueries:2",
   "claims": [
     {
       "claim": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, whe",
@@ -27,19 +27,37 @@
       "category": "rare"
     },
     {
+      "claim": "--> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nos",
+      "source": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "assetId": "e264ec1789c6",
+      "category": "rare"
+    },
+    {
       "claim": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care",
       "source": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
       "assetId": "4c2c669f2b88",
       "category": "rare"
+    },
+    {
+      "claim": "Complicated feelings of guilt, loneliness and longing",
+      "source": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "assetId": "5155ba457099",
+      "category": "tool"
+    },
+    {
+      "claim": "| Raw Confessions Raw Confessions Log In Sign Up Complicated feelings of guilt, loneliness and longing",
+      "source": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "assetId": "5155ba457099",
+      "category": "tool"
     }
   ],
   "patterns": [
     "bondedpath.com",
-    "psychkit.org",
-    "www.loneliness.tools",
+    "aspirehealthtoolkit.com",
+    "companionwise.com",
     "github.com",
-    "example.com",
-    "fierceembodiment.com"
+    "md8-habibullah.github.io",
+    "therapybypro.com"
   ],
   "counterpoints": [
     {
@@ -49,19 +67,21 @@
       "category": "rare"
     },
     {
-      "title": "A Perpetual State of Loneliness - Raw Confessions",
-      "source": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "source": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
       "reason": "rare",
       "category": "rare"
     },
     {
-      "title": "[MEDIA:image] track.php?image=log.png",
-      "source": "https://yesiconfess.com/track.php?image=log.png",
-      "reason": "media",
-      "category": "media"
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "source": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "reason": "rare",
+      "category": "rare"
     }
   ],
-  "gaps": [],
+  "gaps": [
+    "No media assets harvested — try idea with visual component or increase maxMedia"
+  ],
   "nextQueries": [
     "extreme loneliness and longing case study deep dive",
     "extreme loneliness and longing forgotten rare archive",
@@ -69,11 +89,11 @@
     "extreme loneliness and longing media collection"
   ],
   "byCategory": {
-    "rare": 3,
-    "media": 1,
-    "tools": 8,
-    "feeds": 4,
-    "pages": 2
+    "rare": 4,
+    "media": 0,
+    "tools": 9,
+    "feeds": 0,
+    "pages": 1
   },
   "topAssets": [
     {
@@ -85,79 +105,78 @@
       "localPath": null
     },
     {
-      "title": "[TOOL] Connection Planner: An Interactive Tool to Combat Loneliness",
-      "url": "https://psychkit.org/combat-loneliness-tool/",
-      "score": 0.75,
-      "rights": "REFERENCE_ONLY",
-      "category": "tool",
-      "localPath": null
-    },
-    {
       "title": "[TOOL] Loneliness Toolkit",
-      "url": "https://www.loneliness.tools/",
+      "url": "https://aspirehealthtoolkit.com/loneliness-toolkit",
       "score": 0.75,
       "rights": "REFERENCE_ONLY",
       "category": "tool",
       "localPath": null
     },
     {
-      "title": "[TOOL] GitHub - Gkamatam-25/algorithmic-loneliness-detector: Modeling social ...",
-      "url": "https://github.com/Gkamatam-25/algorithmic-loneliness-detector",
+      "title": "[TOOL] AI Companion Apps for Loneliness — Pros and Cons",
+      "url": "https://companionwise.com/guides/ai-companion-apps-for-loneliness-pros-cons/",
       "score": 0.75,
       "rights": "REFERENCE_ONLY",
       "category": "tool",
       "localPath": null
     },
     {
-      "title": "[TOOL] GitHub - JoostdeWinter/ai-context-valence-loneliness: Python pipeline ...",
-      "url": "https://github.com/JoostdeWinter/ai-context-valence-loneliness",
+      "title": "[TOOL] loneliness · GitHub Topics · GitHub",
+      "url": "https://github.com/topics/loneliness",
       "score": 0.75,
       "rights": "REFERENCE_ONLY",
       "category": "tool",
       "localPath": null
     },
     {
-      "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism a",
-      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
+      "title": "[TOOL] 280+ Ultimate Open-Source Repositories: The Developer&#x27;s Curated Guid",
+      "url": "https://md8-habibullah.github.io/top-github-repos-list/",
+      "score": 0.75,
+      "rights": "REFERENCE_ONLY",
+      "category": "tool",
+      "localPath": null
+    },
+    {
+      "title": "[TOOL] https://therapybypro.com/products/100-loneliness-questions-pdf-templates-",
+      "url": "https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
       "score": 0.75,
       "rights": "REFERENCE_ONLY",
       "category": "tool",
       "localPath": null
     }
   ],
-  "mediaAssets": [
-    {
-      "url": "https://yesiconfess.com/track.php?image=log.png",
-      "title": "[MEDIA:image] track.php?image=log.png",
-      "type": "image"
-    }
-  ],
+  "mediaAssets": [],
   "toolAssets": [
     {
       "url": "https://bondedpath.com/lists/best-loneliness-support-apps-2026/",
       "title": "[TOOL] 8 Best Loneliness Support Apps &amp; Resources in 2026 — Ranked"
     },
     {
-      "url": "https://psychkit.org/combat-loneliness-tool/",
-      "title": "[TOOL] Connection Planner: An Interactive Tool to Combat Loneliness"
-    },
-    {
-      "url": "https://www.loneliness.tools/",
+      "url": "https://aspirehealthtoolkit.com/loneliness-toolkit",
       "title": "[TOOL] Loneliness Toolkit"
     },
     {
-      "url": "https://github.com/Gkamatam-25/algorithmic-loneliness-detector",
-      "title": "[TOOL] GitHub - Gkamatam-25/algorithmic-loneliness-detector: Modeling social ..."
+      "url": "https://companionwise.com/guides/ai-companion-apps-for-loneliness-pros-cons/",
+      "title": "[TOOL] AI Companion Apps for Loneliness — Pros and Cons"
     },
     {
-      "url": "https://github.com/JoostdeWinter/ai-context-valence-loneliness",
-      "title": "[TOOL] GitHub - JoostdeWinter/ai-context-valence-loneliness: Python pipeline ..."
+      "url": "https://github.com/topics/loneliness",
+      "title": "[TOOL] loneliness · GitHub Topics · GitHub"
+    },
+    {
+      "url": "https://md8-habibullah.github.io/top-github-repos-list/",
+      "title": "[TOOL] 280+ Ultimate Open-Source Repositories: The Developer&#x27;s Curated Guide ..."
     }
   ],
   "rareAssets": [
     {
       "url": "https://fierceembodiment.com/longing/",
       "title": "Loneliness and longing - Fierce Embodiment",
+      "archiveUrl": null
+    },
+    {
+      "url": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
       "archiveUrl": null
     },
     {
@@ -170,5 +189,27 @@
       "title": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
       "archiveUrl": null
     }
+  ],
+  "auto_tags": [
+    "auto/generated",
+    "auto/research",
+    "auto/spectrum",
+    "category/page",
+    "category/pages",
+    "category/rare",
+    "category/tool",
+    "category/tools",
+    "domain/aspirehealthtoolkit",
+    "domain/bondedpath",
+    "domain/companionwise",
+    "extreme",
+    "generated/2026",
+    "generated/2026-08-31",
+    "idea/extreme-loneliness-and",
+    "log",
+    "loneliness",
+    "longing",
+    "manifesto",
+    "research-log"
   ]
 }

@@ -233,7 +233,7 @@ ${atomicTags.map((t) => `#${t}`).join(" ")}
           if (!src.content.includes(`[[${title}]]`)) {
             try {
               const parsedSrc = matter(readFileSync(src.path, "utf-8"));
-              const srcTags = autoTag({ idea: title, baseTags: parsedSrc.data.tags || [], extraTags: ["atomic-link", slugify(title)] });
+              const srcTags = autoTag({ idea: title, baseTags: parsedSrc.data.tags || [], extraTags: ["atomic-link", title] });
               const mergedSrcTags = [...new Set([...(parsedSrc.data.tags || []), ...srcTags])].slice(0, 15);
               parsedSrc.data.tags = mergedSrcTags;
               parsedSrc.data.updated = todayISO();

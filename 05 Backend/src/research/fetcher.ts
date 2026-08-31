@@ -4,6 +4,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync, statSync } from "fs";
 import { join } from "path";
 import { createHash } from "crypto";
+import { htmlToCleanMarkdown } from "./adapters/crawl4ai.js";
 
 export interface FetchResult {
   url: string;
@@ -65,15 +66,30 @@ export class Fetcher {
       clearTimeout(timeout);
       const raw = await res.text();
       let content = raw;
-      // Light extraction: strip scripts/styles, then text
-      content = raw
-        .replace(/<script[\s\S]*?<\/script>/gi, " ")
-        .replace(/<style[\s\S]*?<\/style>/gi, " ")
-        .replace(/<[^>]+>/g, " ")
-        .replace(/\s+/g, " ")
-        .trim()
-        .slice(0, 8000);
-      if (!content || content.length < 200) content = raw.slice(0, 8000);
+      // Crawl4AI-like clean Markdown (agent-centric, strips clutter)
+      try {
+        content = htmlToCleanMarkdown(raw, url);
+        // If clean markdown is too short, fallback to simple strip
+        if (!content || content.length < 200) {
+          content = raw
+            .replace(/<script[\s\S]*?<\/script>/gi, " ")
+            .replace(/<style[\s\S]*?<\/style>/gi, " ")
+            .replace(/<[^>]+>/g, " ")
+            .replace(/\s+/g, " ")
+            .trim()
+            .slice(0, 8000);
+        }
+        if (!content || content.length < 200) content = raw.slice(0, 8000);
+      } catch {
+        content = raw
+          .replace(/<script[\s\S]*?<\/script>/gi, " ")
+          .replace(/<style[\s\S]*?<\/style>/gi, " ")
+          .replace(/<[^>]+>/g, " ")
+          .replace(/\s+/g, " ")
+          .trim()
+          .slice(0, 8000);
+        if (!content || content.length < 200) content = raw.slice(0, 8000);
+      }
 
       // Cache write
       try {

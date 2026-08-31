@@ -1,9 +1,9 @@
 {
-  "researchId": "378375c1",
+  "researchId": "55be4be3",
   "query": "ONE-SHOT SPECTRUM: extreme loneliness and longing | extreme loneliness and longing lived experience personal story raw confessional | extreme loneliness and longing history archive rare forgotten vintage obscure abandoned | extreme loneliness and longing tools programs software templates resources open source | extreme loneliness and longing media assets images audio video archive | extreme loneliness and longing theory concept framework model rare idea | extreme loneliness and longing criticism counter perspective deconstruction | extreme loneliness and longing step by step guide framework how to system",
   "idea": "extreme loneliness and longing",
   "slug": "extreme-loneliness-and-longing",
-  "createdAt": "2026-08-31T19:43:56.320Z",
+  "createdAt": "2026-08-31T20:36:49.867Z",
   "budgets": {
     "maxPages": 24,
     "maxDomains": 30,
@@ -15,22 +15,22 @@
     "maxRuntimeSeconds": 180
   },
   "counts": {
-    "sourcesSearched": 12,
+    "sourcesSearched": 8,
     "pagesFetched": 8,
     "domains": 7,
     "archiveQueries": 2,
-    "totalAssets": 18,
-    "uniqueAssets": 18,
+    "totalAssets": 14,
+    "uniqueAssets": 14,
     "byCategory": {
-      "rare": 3,
-      "media": 1,
-      "tools": 8,
-      "feeds": 4,
-      "pages": 2
+      "rare": 4,
+      "media": 0,
+      "tools": 9,
+      "feeds": 0,
+      "pages": 1
     },
-    "media": 1,
-    "tools": 8,
-    "rare": 3
+    "media": 0,
+    "tools": 9,
+    "rare": 4
   },
   "ranked": [],
   "referenceCandidates": [
@@ -52,43 +52,43 @@
       "category": "tool"
     },
     {
-      "assetId": "af54f3067acb",
-      "sourceUrl": "https://psychkit.org/combat-loneliness-tool/",
-      "title": "[TOOL] Connection Planner: An Interactive Tool to Combat Loneliness",
-      "snippet": "Feeling lonely? Use our free, interactive Connection Planner to take one small, concrete step toward building social connection. A simple",
-      "domain": "psychkit.org",
-      "score": 0.75,
-      "relevanceScore": 0.7,
-      "evidence": [
-        "tool discovery",
-        "score 0.75"
-      ],
-      "contentPreview": "Feeling lonely? Use our free, interactive Connection Planner to take one small, concrete step toward building social connection. A simple",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "tool"
-    },
-    {
-      "assetId": "54c03b5d5cf4",
-      "sourceUrl": "https://www.loneliness.tools/",
+      "assetId": "f9748a994a1e",
+      "sourceUrl": "https://aspirehealthtoolkit.com/loneliness-toolkit",
       "title": "[TOOL] Loneliness Toolkit",
-      "snippet": "Luckily, you can prevent and overcome",
-      "domain": "www.loneliness.tools",
+      "snippet": "Find comfort with our online self-help",
+      "domain": "aspirehealthtoolkit.com",
       "score": 0.75,
       "relevanceScore": 0.7,
       "evidence": [
         "tool discovery",
         "score 0.75"
       ],
-      "contentPreview": "Luckily, you can prevent and overcome",
+      "contentPreview": "Find comfort with our online self-help",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.3,
       "category": "tool"
     },
     {
-      "assetId": "b1d5cbfbaee0",
-      "sourceUrl": "https://github.com/Gkamatam-25/algorithmic-loneliness-detector",
-      "title": "[TOOL] GitHub - Gkamatam-25/algorithmic-loneliness-detector: Modeling social ...",
+      "assetId": "a03a7f0fe7f5",
+      "sourceUrl": "https://companionwise.com/guides/ai-companion-apps-for-loneliness-pros-cons/",
+      "title": "[TOOL] AI Companion Apps for Loneliness — Pros and Cons",
+      "snippet": "Harvard research shows AI companions reduce",
+      "domain": "companionwise.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Harvard research shows AI companions reduce",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "145e4cddbdf6",
+      "sourceUrl": "https://github.com/topics/loneliness",
+      "title": "[TOOL] loneliness · GitHub Topics · GitHub",
       "snippet": "Algorithmic",
       "domain": "github.com",
       "score": 0.75,
@@ -103,35 +103,52 @@
       "category": "tool"
     },
     {
-      "assetId": "d203af2cc384",
-      "sourceUrl": "https://github.com/JoostdeWinter/ai-context-valence-loneliness",
-      "title": "[TOOL] GitHub - JoostdeWinter/ai-context-valence-loneliness: Python pipeline ...",
-      "snippet": "ai-context-valence-",
-      "domain": "github.com",
+      "assetId": "ef96ad7ddabb",
+      "sourceUrl": "https://md8-habibullah.github.io/top-github-repos-list/",
+      "title": "[TOOL] 280+ Ultimate Open-Source Repositories: The Developer&#x27;s Curated Guide ...",
+      "snippet": "A curated list of top",
+      "domain": "md8-habibullah.github.io",
       "score": 0.75,
       "relevanceScore": 0.7,
       "evidence": [
         "tool discovery",
         "score 0.75"
       ],
-      "contentPreview": "ai-context-valence-",
+      "contentPreview": "A curated list of top",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.3,
       "category": "tool"
     },
     {
-      "assetId": "8d840fa658eb",
-      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
-      "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo",
-      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
-      "domain": "example.com",
+      "assetId": "d7354fd1a8ec",
+      "sourceUrl": "https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "title": "[TOOL] https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "snippet": "",
+      "domain": "therapybypro.com",
       "score": 0.75,
       "relevanceScore": 0.7,
       "evidence": [
         "tool discovery",
         "score 0.75"
       ],
-      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "6765f5897969",
+      "sourceUrl": "https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "title": "[TOOL] https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "snippet": "",
+      "domain": "www.carepatron.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.3,
       "category": "tool"
@@ -146,16 +163,40 @@
       "relevanceScore": 1,
       "evidence": [
         "no license evidence",
-        "rare term boost"
+        "rare term boost",
+        "downloaded 92781 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/c4b2723f6140_longing.html"
       ],
       "contentPreview": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, when I had first entered this world of mind-body, I had a closing meeting with one of my teachers. I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings. I was also anxious, because that&#8217;s how I always was, as I incessantly looked for that key. I sat down across from him with my barely-contained emotions, only to hear this: “Marcela,” he said, in his thick Israeli accent, “all your life, you will struggle to find intimacy with yourself.” That’s it. Meeting over. He had deftly gut-punched my loneliness, and so I squeezed my un-m",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.2,
       "category": "rare",
       "archiveUrl": null,
-      "localPath": null,
-      "contentType": null,
-      "bytes": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/c4b2723f6140_longing.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 92781,
+      "needsRender": false
+    },
+    {
+      "assetId": "e264ec1789c6",
+      "sourceUrl": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "snippet": "Read anonymous confessions from women about love, marriage, motherhood, anxiety,",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0.5949999999999999,
+      "relevanceScore": 0.8999999999999999,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 136820 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/e264ec1789c6_read-anonymous-confe.html"
+      ],
+      "contentPreview": "--> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nostalgia Loneliness Grief Heartbreak Regret Abandonment Emptiness Love, Desire &amp; Power Desire Longing Craving Intimacy Fantasy Jealousy Control Power Infidelity Marriage, Motherhood &amp; Family Marriage Motherhood Resentment Divorce Toxic Family Invisible Labor The Self &amp; Becoming Identity Self-Worth Healing Reinvention Awakening Forgiveness Validation Escape The Mind &amp; Emotional States Burnout Anxiety Numbness Rage Fear Depression People Pleasing Financial Pressure Body Image Read Confessions Submit a Confession Return to Peony Search for: Confessions of the Fem",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/e264ec1789c6_read-anonymous-confe.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 136820,
       "needsRender": false
     },
     {
@@ -168,104 +209,18 @@
       "relevanceScore": 0.8,
       "evidence": [
         "no license evidence",
-        "rare term boost"
+        "rare term boost",
+        "downloaded 29126 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/4c2c669f2b88_1366579.html"
       ],
       "contentPreview": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care. For someone to get to know me, for someone to ask me for a change “how are you doing?” Anyone relate? I feel as though I am filled with a void, there is an emptiness that lingers and never leaves me. I have no friends to talk to, sometimes acquaintances, but never truly a friend. I am always someone in the shadows. I’d give *anything* to just sit down with someone and have a meaningful conversation with someone about anything. I pretend all the time that I know what I am doing, that I am content and happy, but I am far from that. I don’t even know who I am anymore. However, I feel like I’m used to the em",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.2,
       "category": "rare",
       "archiveUrl": null,
-      "localPath": null,
-      "contentType": null,
-      "bytes": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/4c2c669f2b88_1366579.html",
+      "contentType": "text/html",
+      "bytes": 29126,
       "needsRender": false
-    },
-    {
-      "assetId": "81c4fa9bb980",
-      "sourceUrl": "https://yesiconfess.com/track.php?image=log.png",
-      "title": "[MEDIA:image] track.php?image=log.png",
-      "snippet": "Media from yesiconfess.com — ",
-      "domain": "yesiconfess.com",
-      "score": 0.55,
-      "relevanceScore": 0.5,
-      "evidence": [
-        "media harvest",
-        "from https://yesiconfess.com/about-us/",
-        "needs_render: HTML-as-image, use Playwright screenshot"
-      ],
-      "contentPreview": "https://yesiconfess.com/track.php?image=log.png",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.25,
-      "category": "media",
-      "type": "image",
-      "localPath": null,
-      "contentType": "text/html; charset=UTF-8",
-      "bytes": null,
-      "needsRender": true
-    },
-    {
-      "assetId": "3e2be4bada2a",
-      "sourceUrl": "https://yesiconfess.com/love-confessions/my-pregnant-wife-cheated-while-i-was-away-and-i-told-her-to-keep-going/",
-      "title": "[FEED] My Pregnant Wife Cheated While I Was Away And I Told Her To Keep Going",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
-    },
-    {
-      "assetId": "9d46b18d7df0",
-      "sourceUrl": "https://yesiconfess.com/love-confessions/my-stepmom-taught-me-about-sex-when-i-was-13-and-now-i-cant-have-normal-relationships/",
-      "title": "[FEED] My Stepmom Taught Me About Sex When I Was 13 And Now I Can&#8217;t Have Normal Relationships",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
-    },
-    {
-      "assetId": "7c399e7cbbf1",
-      "sourceUrl": "https://yesiconfess.com/adult-confessions/i-love-anal-sex-and-dont-understand-why-other-women-hate-it/#comment-5207",
-      "title": "[FEED] Comment on I Love Anal Sex And Don&#8217;t Understand Why Other Women Hate It by Wendy",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/comments/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
-    },
-    {
-      "assetId": "ff12e532e37f",
-      "sourceUrl": "https://yesiconfess.com/home-family-confessions/sucked-dads-cock-at-gloryhole-unknowingly/#comment-5206",
-      "title": "[FEED] Comment on Sucked Dad&#8217;s Cock At Gloryhole Unknowingly by scott",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/comments/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
     },
     {
       "assetId": "5155ba457099",
@@ -328,34 +283,18 @@
       "relevanceScore": 0.3,
       "evidence": [
         "no license evidence",
-        "rare term boost"
+        "rare term boost",
+        "downloaded 1872 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/a144f1c40178_file.html"
       ],
       "contentPreview": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine Javascript is required for this site. Consider enabling Javascript or upgrading to a modern browser.",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.2,
       "category": "rare",
       "archiveUrl": null,
-      "localPath": null,
-      "contentType": null,
-      "bytes": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/a144f1c40178_file.html",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 1872,
       "needsRender": false
-    },
-    {
-      "assetId": "66070c90a2d5",
-      "sourceUrl": "https://yesiconfess.com/about-us/",
-      "title": "About Us - Yes, I Confess",
-      "snippet": "By sharing your confessions and stories anonymously, you can release your feelings and emotions and discuss them with others who may be going through similar",
-      "domain": "yesiconfess.com",
-      "score": 0.3575,
-      "relevanceScore": 0.44999999999999996,
-      "evidence": [
-        "no license evidence"
-      ],
-      "contentPreview": "About Us - Yes, I Confess Yes, I Confess Love Hate Family My Life Religion Adult &#038; Intimate Misc. Search Search for: Search Menu Yes, I Confess You are here: Home About Us About Us Welcome to Yes I Confess, a trusted platform for individuals to share their confessions and real-life stories in a safe and anonymous environment. Our website offers a wide range of categories to choose from, including Love, Hate, Family, Religion, Animal, Adult &amp; Intimate, My Life and Miscellaneous, which allows for a diverse range of confessions and stories to be shared. We understand the importance of privacy and anonymity, so we have taken every measure to ensure that your identity remains protected when you share your story with us. We believe that every story is important and deserves to be heard.",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.2,
-      "category": "page",
-      "archiveUrl": null
     }
   ],
   "all_assets": [
@@ -377,43 +316,43 @@
       "category": "tool"
     },
     {
-      "assetId": "af54f3067acb",
-      "sourceUrl": "https://psychkit.org/combat-loneliness-tool/",
-      "title": "[TOOL] Connection Planner: An Interactive Tool to Combat Loneliness",
-      "snippet": "Feeling lonely? Use our free, interactive Connection Planner to take one small, concrete step toward building social connection. A simple",
-      "domain": "psychkit.org",
-      "score": 0.75,
-      "relevanceScore": 0.7,
-      "evidence": [
-        "tool discovery",
-        "score 0.75"
-      ],
-      "contentPreview": "Feeling lonely? Use our free, interactive Connection Planner to take one small, concrete step toward building social connection. A simple",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "tool"
-    },
-    {
-      "assetId": "54c03b5d5cf4",
-      "sourceUrl": "https://www.loneliness.tools/",
+      "assetId": "f9748a994a1e",
+      "sourceUrl": "https://aspirehealthtoolkit.com/loneliness-toolkit",
       "title": "[TOOL] Loneliness Toolkit",
-      "snippet": "Luckily, you can prevent and overcome",
-      "domain": "www.loneliness.tools",
+      "snippet": "Find comfort with our online self-help",
+      "domain": "aspirehealthtoolkit.com",
       "score": 0.75,
       "relevanceScore": 0.7,
       "evidence": [
         "tool discovery",
         "score 0.75"
       ],
-      "contentPreview": "Luckily, you can prevent and overcome",
+      "contentPreview": "Find comfort with our online self-help",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.3,
       "category": "tool"
     },
     {
-      "assetId": "b1d5cbfbaee0",
-      "sourceUrl": "https://github.com/Gkamatam-25/algorithmic-loneliness-detector",
-      "title": "[TOOL] GitHub - Gkamatam-25/algorithmic-loneliness-detector: Modeling social ...",
+      "assetId": "a03a7f0fe7f5",
+      "sourceUrl": "https://companionwise.com/guides/ai-companion-apps-for-loneliness-pros-cons/",
+      "title": "[TOOL] AI Companion Apps for Loneliness — Pros and Cons",
+      "snippet": "Harvard research shows AI companions reduce",
+      "domain": "companionwise.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Harvard research shows AI companions reduce",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "145e4cddbdf6",
+      "sourceUrl": "https://github.com/topics/loneliness",
+      "title": "[TOOL] loneliness · GitHub Topics · GitHub",
       "snippet": "Algorithmic",
       "domain": "github.com",
       "score": 0.75,
@@ -428,35 +367,52 @@
       "category": "tool"
     },
     {
-      "assetId": "d203af2cc384",
-      "sourceUrl": "https://github.com/JoostdeWinter/ai-context-valence-loneliness",
-      "title": "[TOOL] GitHub - JoostdeWinter/ai-context-valence-loneliness: Python pipeline ...",
-      "snippet": "ai-context-valence-",
-      "domain": "github.com",
+      "assetId": "ef96ad7ddabb",
+      "sourceUrl": "https://md8-habibullah.github.io/top-github-repos-list/",
+      "title": "[TOOL] 280+ Ultimate Open-Source Repositories: The Developer&#x27;s Curated Guide ...",
+      "snippet": "A curated list of top",
+      "domain": "md8-habibullah.github.io",
       "score": 0.75,
       "relevanceScore": 0.7,
       "evidence": [
         "tool discovery",
         "score 0.75"
       ],
-      "contentPreview": "ai-context-valence-",
+      "contentPreview": "A curated list of top",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.3,
       "category": "tool"
     },
     {
-      "assetId": "8d840fa658eb",
-      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
-      "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo",
-      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
-      "domain": "example.com",
+      "assetId": "d7354fd1a8ec",
+      "sourceUrl": "https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "title": "[TOOL] https://therapybypro.com/products/100-loneliness-questions-pdf-templates-bundle/",
+      "snippet": "",
+      "domain": "therapybypro.com",
       "score": 0.75,
       "relevanceScore": 0.7,
       "evidence": [
         "tool discovery",
         "score 0.75"
       ],
-      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "6765f5897969",
+      "sourceUrl": "https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "title": "[TOOL] https://www.carepatron.com/templates/chronic-loneliness-test/",
+      "snippet": "",
+      "domain": "www.carepatron.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.3,
       "category": "tool"
@@ -471,16 +427,40 @@
       "relevanceScore": 1,
       "evidence": [
         "no license evidence",
-        "rare term boost"
+        "rare term boost",
+        "downloaded 92781 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/c4b2723f6140_longing.html"
       ],
       "contentPreview": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, when I had first entered this world of mind-body, I had a closing meeting with one of my teachers. I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings. I was also anxious, because that&#8217;s how I always was, as I incessantly looked for that key. I sat down across from him with my barely-contained emotions, only to hear this: “Marcela,” he said, in his thick Israeli accent, “all your life, you will struggle to find intimacy with yourself.” That’s it. Meeting over. He had deftly gut-punched my loneliness, and so I squeezed my un-m",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.2,
       "category": "rare",
       "archiveUrl": null,
-      "localPath": null,
-      "contentType": null,
-      "bytes": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/c4b2723f6140_longing.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 92781,
+      "needsRender": false
+    },
+    {
+      "assetId": "e264ec1789c6",
+      "sourceUrl": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "snippet": "Read anonymous confessions from women about love, marriage, motherhood, anxiety,",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0.5949999999999999,
+      "relevanceScore": 0.8999999999999999,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 136820 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/e264ec1789c6_read-anonymous-confe.html"
+      ],
+      "contentPreview": "--> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nostalgia Loneliness Grief Heartbreak Regret Abandonment Emptiness Love, Desire &amp; Power Desire Longing Craving Intimacy Fantasy Jealousy Control Power Infidelity Marriage, Motherhood &amp; Family Marriage Motherhood Resentment Divorce Toxic Family Invisible Labor The Self &amp; Becoming Identity Self-Worth Healing Reinvention Awakening Forgiveness Validation Escape The Mind &amp; Emotional States Burnout Anxiety Numbness Rage Fear Depression People Pleasing Financial Pressure Body Image Read Confessions Submit a Confession Return to Peony Search for: Confessions of the Fem",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/e264ec1789c6_read-anonymous-confe.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 136820,
       "needsRender": false
     },
     {
@@ -493,104 +473,18 @@
       "relevanceScore": 0.8,
       "evidence": [
         "no license evidence",
-        "rare term boost"
+        "rare term boost",
+        "downloaded 29126 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/4c2c669f2b88_1366579.html"
       ],
       "contentPreview": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care. For someone to get to know me, for someone to ask me for a change “how are you doing?” Anyone relate? I feel as though I am filled with a void, there is an emptiness that lingers and never leaves me. I have no friends to talk to, sometimes acquaintances, but never truly a friend. I am always someone in the shadows. I’d give *anything* to just sit down with someone and have a meaningful conversation with someone about anything. I pretend all the time that I know what I am doing, that I am content and happy, but I am far from that. I don’t even know who I am anymore. However, I feel like I’m used to the em",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.2,
       "category": "rare",
       "archiveUrl": null,
-      "localPath": null,
-      "contentType": null,
-      "bytes": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/4c2c669f2b88_1366579.html",
+      "contentType": "text/html",
+      "bytes": 29126,
       "needsRender": false
-    },
-    {
-      "assetId": "81c4fa9bb980",
-      "sourceUrl": "https://yesiconfess.com/track.php?image=log.png",
-      "title": "[MEDIA:image] track.php?image=log.png",
-      "snippet": "Media from yesiconfess.com — ",
-      "domain": "yesiconfess.com",
-      "score": 0.55,
-      "relevanceScore": 0.5,
-      "evidence": [
-        "media harvest",
-        "from https://yesiconfess.com/about-us/",
-        "needs_render: HTML-as-image, use Playwright screenshot"
-      ],
-      "contentPreview": "https://yesiconfess.com/track.php?image=log.png",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.25,
-      "category": "media",
-      "type": "image",
-      "localPath": null,
-      "contentType": "text/html; charset=UTF-8",
-      "bytes": null,
-      "needsRender": true
-    },
-    {
-      "assetId": "3e2be4bada2a",
-      "sourceUrl": "https://yesiconfess.com/love-confessions/my-pregnant-wife-cheated-while-i-was-away-and-i-told-her-to-keep-going/",
-      "title": "[FEED] My Pregnant Wife Cheated While I Was Away And I Told Her To Keep Going",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
-    },
-    {
-      "assetId": "9d46b18d7df0",
-      "sourceUrl": "https://yesiconfess.com/love-confessions/my-stepmom-taught-me-about-sex-when-i-was-13-and-now-i-cant-have-normal-relationships/",
-      "title": "[FEED] My Stepmom Taught Me About Sex When I Was 13 And Now I Can&#8217;t Have Normal Relationships",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
-    },
-    {
-      "assetId": "7c399e7cbbf1",
-      "sourceUrl": "https://yesiconfess.com/adult-confessions/i-love-anal-sex-and-dont-understand-why-other-women-hate-it/#comment-5207",
-      "title": "[FEED] Comment on I Love Anal Sex And Don&#8217;t Understand Why Other Women Hate It by Wendy",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/comments/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
-    },
-    {
-      "assetId": "ff12e532e37f",
-      "sourceUrl": "https://yesiconfess.com/home-family-confessions/sucked-dads-cock-at-gloryhole-unknowingly/#comment-5206",
-      "title": "[FEED] Comment on Sucked Dad&#8217;s Cock At Gloryhole Unknowingly by scott",
-      "snippet": "",
-      "domain": "yesiconfess.com",
-      "score": 0.58,
-      "relevanceScore": 0.6,
-      "evidence": [
-        "from feed https://yesiconfess.com/comments/feed/"
-      ],
-      "contentPreview": "",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.3,
-      "category": "feed"
     },
     {
       "assetId": "5155ba457099",
@@ -653,34 +547,18 @@
       "relevanceScore": 0.3,
       "evidence": [
         "no license evidence",
-        "rare term boost"
+        "rare term boost",
+        "downloaded 1872 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/a144f1c40178_file.html"
       ],
       "contentPreview": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine Javascript is required for this site. Consider enabling Javascript or upgrading to a modern browser.",
       "rightsClassification": "REFERENCE_ONLY",
       "rightsConfidence": 0.2,
       "category": "rare",
       "archiveUrl": null,
-      "localPath": null,
-      "contentType": null,
-      "bytes": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_55be4be3/assets/pages/a144f1c40178_file.html",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 1872,
       "needsRender": false
-    },
-    {
-      "assetId": "66070c90a2d5",
-      "sourceUrl": "https://yesiconfess.com/about-us/",
-      "title": "About Us - Yes, I Confess",
-      "snippet": "By sharing your confessions and stories anonymously, you can release your feelings and emotions and discuss them with others who may be going through similar",
-      "domain": "yesiconfess.com",
-      "score": 0.3575,
-      "relevanceScore": 0.44999999999999996,
-      "evidence": [
-        "no license evidence"
-      ],
-      "contentPreview": "About Us - Yes, I Confess Yes, I Confess Love Hate Family My Life Religion Adult &#038; Intimate Misc. Search Search for: Search Menu Yes, I Confess You are here: Home About Us About Us Welcome to Yes I Confess, a trusted platform for individuals to share their confessions and real-life stories in a safe and anonymous environment. Our website offers a wide range of categories to choose from, including Love, Hate, Family, Religion, Animal, Adult &amp; Intimate, My Life and Miscellaneous, which allows for a diverse range of confessions and stories to be shared. We understand the importance of privacy and anonymity, so we have taken every measure to ensure that your identity remains protected when you share your story with us. We believe that every story is important and deserves to be heard.",
-      "rightsClassification": "REFERENCE_ONLY",
-      "rightsConfidence": 0.2,
-      "category": "page",
-      "archiveUrl": null
     }
   ],
   "one_shot_queries": [
@@ -692,5 +570,27 @@
     "extreme loneliness and longing theory concept framework model rare idea",
     "extreme loneliness and longing criticism counter perspective deconstruction",
     "extreme loneliness and longing step by step guide framework how to system"
+  ],
+  "auto_tags": [
+    "auto/generated",
+    "auto/research",
+    "auto/spectrum",
+    "category/page",
+    "category/pages",
+    "category/rare",
+    "category/tool",
+    "category/tools",
+    "domain/aspirehealthtoolkit",
+    "domain/bondedpath",
+    "domain/companionwise",
+    "extreme",
+    "generated/2026",
+    "generated/2026-08-31",
+    "idea/extreme-loneliness-and",
+    "log",
+    "loneliness",
+    "longing",
+    "manifesto",
+    "research-log"
   ]
 }

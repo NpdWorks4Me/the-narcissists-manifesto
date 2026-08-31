@@ -6,6 +6,7 @@ import { existsSync, mkdirSync, writeFileSync, readFileSync } from "fs";
 import { join, basename } from "path";
 import matter from "gray-matter";
 import { autoTag, mergeTags } from "../vault/lib/tagging.js";
+import { enrichWithVaultLinks } from "../vault/lib/autoLinker.js";
 
 function slugify(s: string): string {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 50) || "research";
@@ -84,6 +85,20 @@ export function writeHyperfixation(
   };
 
   const byCat = insights.byCategory || {};
+  // Auto-link vault topics in the body (from prospect's vault auto-linker)
+  const vaultEnriched = (() => {
+    try {
+      const rawForLinking = assets.map((a) => a.title + " " + a.snippet).join(" ").slice(0, 5000);
+      const { relatedTopics } = enrichWithVaultLinks(vaultRoot, rawForLinking + " " + idea);
+      if (relatedTopics.length > 0) {
+        // Add related topics as extra tags
+        const linkTags = relatedTopics.slice(0, 5).map((t) => `vault/${t.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`);
+        generatedTags.push(...linkTags);
+      }
+      return relatedTopics;
+    } catch { return []; }
+  })();
+
   const mediaAssets = (assets as any[]).filter((a) => a.category === "media").slice(0, 3);
   const toolAssets = (assets as any[]).filter((a) => a.category === "tool").slice(0, 3);
   const rareAssets = (assets as any[]).filter((a) => a.category === "rare" || a.category === "archive").slice(0, 3);

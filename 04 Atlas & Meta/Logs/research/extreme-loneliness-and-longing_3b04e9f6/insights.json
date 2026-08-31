@@ -1,5 +1,5 @@
 {
-  "researchId": "38b9084b",
+  "researchId": "3b04e9f6",
   "baseQuery": "extreme loneliness and longing",
   "oneShotQueries": [
     "extreme loneliness and longing",
@@ -11,8 +11,8 @@
     "extreme loneliness and longing criticism counter perspective deconstruction",
     "extreme loneliness and longing step by step guide framework how to system"
   ],
-  "generatedAt": "2026-08-31T19:59:57.844Z",
-  "summary": "SPECTRUM for 'extreme loneliness and longing' → 13 assets across 6 domains (rare:7 media:0 tools:5 feeds:0 pages:1) Top 0.75 archiveQueries:2",
+  "generatedAt": "2026-08-31T20:34:45.095Z",
+  "summary": "SPECTRUM for 'extreme loneliness and longing' → 11 assets across 5 domains (rare:3 media:0 tools:7 feeds:0 pages:1) Top 0.75 archiveQueries:0",
   "claims": [
     {
       "claim": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, whe",
@@ -53,8 +53,8 @@
   ],
   "patterns": [
     "example.com",
+    "github.com",
     "fierceembodiment.com",
-    "web.archive.org",
     "confessions.peonymagazine.com",
     "www.rawconfessions.com",
     "www.verywellmind.com"
@@ -89,9 +89,9 @@
     "extreme loneliness and longing media collection"
   ],
   "byCategory": {
-    "rare": 7,
+    "rare": 3,
     "media": 0,
-    "tools": 5,
+    "tools": 7,
     "feeds": 0,
     "pages": 1
   },
@@ -105,8 +105,24 @@
       "localPath": null
     },
     {
-      "title": "[TOOL] extreme loneliness and longing github open source — Narcissism as Perform",
-      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source",
+      "title": "[TOOL] https://github.com/JordanMagnuson/Loneliness",
+      "url": "https://github.com/JordanMagnuson/Loneliness",
+      "score": 0.75,
+      "rights": "REFERENCE_ONLY",
+      "category": "tool",
+      "localPath": null
+    },
+    {
+      "title": "[TOOL] https://github.com/VilteBaltra/loneliness-mediation",
+      "url": "https://github.com/VilteBaltra/loneliness-mediation",
+      "score": 0.75,
+      "rights": "REFERENCE_ONLY",
+      "category": "tool",
+      "localPath": null
+    },
+    {
+      "title": "[TOOL] https://github.com/lyip12/loneliness",
+      "url": "https://github.com/lyip12/loneliness",
       "score": 0.75,
       "rights": "REFERENCE_ONLY",
       "category": "tool",
@@ -126,23 +142,7 @@
       "score": 0.63,
       "rights": "REFERENCE_ONLY",
       "category": "rare",
-      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/c4b2723f6140_longing.html"
-    },
-    {
-      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movi",
-      "url": "http://web.archive.org/web/20260831050118/https://archive.org/",
-      "score": 0.62,
-      "rights": "REFERENCE_ONLY",
-      "category": "archive",
-      "localPath": null
-    },
-    {
-      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movi",
-      "url": "http://web.archive.org/web/20260831052005/https://archive.org/search",
-      "score": 0.62,
-      "rights": "REFERENCE_ONLY",
-      "category": "archive",
-      "localPath": null
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_3b04e9f6/assets/pages/c4b2723f6140_longing.html"
     }
   ],
   "mediaAssets": [],
@@ -152,20 +152,20 @@
       "title": "[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam"
     },
     {
-      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source",
-      "title": "[TOOL] extreme loneliness and longing github open source — Narcissism as Performance — "
+      "url": "https://github.com/JordanMagnuson/Loneliness",
+      "title": "[TOOL] https://github.com/JordanMagnuson/Loneliness"
+    },
+    {
+      "url": "https://github.com/VilteBaltra/loneliness-mediation",
+      "title": "[TOOL] https://github.com/VilteBaltra/loneliness-mediation"
+    },
+    {
+      "url": "https://github.com/lyip12/loneliness",
+      "title": "[TOOL] https://github.com/lyip12/loneliness"
     },
     {
       "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
       "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo"
-    },
-    {
-      "url": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
-      "title": "Complicated feelings of guilt, loneliness and longing. - Raw Confessions"
-    },
-    {
-      "url": "https://www.verywellmind.com/understanding-chronic-loneliness-8705582",
-      "title": "Understanding Chronic Loneliness - Verywell Mind"
     }
   ],
   "rareAssets": [
@@ -173,14 +173,6 @@
       "url": "https://fierceembodiment.com/longing/",
       "title": "Loneliness and longing - Fierce Embodiment",
       "archiveUrl": null
-    },
-    {
-      "url": "http://web.archive.org/web/20260831050118/https://archive.org/",
-      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ..."
-    },
-    {
-      "url": "http://web.archive.org/web/20260831052005/https://archive.org/search",
-      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ..."
     },
     {
       "url": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
@@ -192,5 +184,27 @@
       "title": "A Perpetual State of Loneliness - Raw Confessions",
       "archiveUrl": null
     }
+  ],
+  "auto_tags": [
+    "auto/generated",
+    "auto/research",
+    "auto/spectrum",
+    "category/page",
+    "category/pages",
+    "category/rare",
+    "category/tool",
+    "category/tools",
+    "domain/example",
+    "domain/fierceembodiment",
+    "domain/github",
+    "extreme",
+    "generated/2026",
+    "generated/2026-08-31",
+    "idea/extreme-loneliness-and",
+    "log",
+    "loneliness",
+    "longing",
+    "manifesto",
+    "research-log"
   ]
 }

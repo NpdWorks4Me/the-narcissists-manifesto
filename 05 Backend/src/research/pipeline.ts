@@ -12,6 +12,7 @@ import { checkWayback } from "./adapters/archive.js";
 import { discoverFeeds, fetchFeed } from "./adapters/feed.js";
 import { harvestMedia } from "./adapters/media.js";
 import { discoverTools } from "./adapters/toolDiscovery.js";
+import { searchFreesound, freesoundToAsset } from "./adapters/freesound.js";
 import { existsSync, mkdirSync, writeFileSync } from "fs";
 import { join, extname, basename } from "path";
 
@@ -266,6 +267,23 @@ export async function runResearchOneShot(
       });
     }
   } catch {}
+
+  // Freesound — high-value audio for media spectrum (when FREESOUND_API_KEY set, per user request)
+  // Even without key, we log hint; when time comes, user sets key and gets CC0 audio — try for every idea that has media query
+  const hasMediaQuery = oneShotQueries.some((q) => q.includes("media") || q.includes("audio"));
+  if (hasMediaQuery || idea.toLowerCase().includes("audio") || idea.toLowerCase().includes("sound") || process.env.FREESOUND_API_KEY) {
+    try {
+      const freesounds = await searchFreesound(idea, 3);
+      for (const fs of freesounds) {
+        const asset = freesoundToAsset(fs, idea);
+        if (seenUrls.has(asset.sourceUrl) || allAssets.some((a) => a.sourceUrl === asset.sourceUrl)) continue;
+        seenUrls.add(asset.sourceUrl);
+        allAssets.push(asset);
+      }
+      if (freesounds.length > 0) console.log(`[freesound] +${freesounds.length} audio assets`);
+      else if (process.env.FREESOUND_API_KEY) console.log(`[freesound] 0 results for "${idea}"`);
+    } catch {}
+  }
 
   // === STANDARD: Download assets locally (media, archives, pages) ===
   // Create log dir early for downloads

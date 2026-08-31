@@ -1,14 +1,36 @@
 ---
-id: 20260831195957-2og6
+id: 20260831203445-81nw
 title: extreme loneliness and longing
 type: hyperfixation
 status: active
 created: '2026-08-31'
 updated: '2026-08-31'
 tags:
+  - auto/generated
+  - auto/research
+  - auto/spectrum
+  - category/page
+  - category/pages
+  - category/rare
+  - category/tool
+  - category/tools
+  - domain/aspirehealthtoolkit
+  - domain/bondedpath
+  - domain/companionwise
+  - domain/example
+  - domain/fierceembodiment
+  - domain/github
   - extreme
+  - generated/2026
+  - generated/2026-08-31
+  - idea/extreme-loneliness-and
   - loneliness
   - longing
+  - manifesto
+  - research
+  - spectrum
+  - update
+  - vault/narcissism
 aliases: []
 resume_point:
   last_explored: '2026-08-31'
@@ -22,7 +44,9 @@ content_potential:
 ---
 # extreme loneliness and longing
 
-> SPECTRUM research for "extreme loneliness and longing" — 8 queries, 13 assets (rare:7 media:0 tools:5 pages:1)
+> SPECTRUM research for "extreme loneliness and longing" — 8 queries, 11 assets (rare:3 media:0 tools:7 pages:1)
+
+#auto/generated #auto/research #auto/spectrum #category/page #category/pages #category/rare #category/tool #category/tools #domain/example #domain/fierceembodiment #domain/github #extreme #generated/2026 #generated/2026-08-31 #idea/extreme-loneliness-and #loneliness #longing #manifesto #research #spectrum #vault/narcissism
 
 ## Research Question
 
@@ -58,12 +82,6 @@ content_potential:
 - **Preview:** These are 14 telltale signs of deep
 - **Evidence:** https://parade.com/living/signs-of-deep-loneliness-according-to-psychologists
 
-#### Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...
-- **URL:** https://archive.org/ → Archive: http://web.archive.org/web/20260831050118/https://archive.org/
-- **Score:** 0.39 / relevance 0.30 (rare)
-- **Preview:** Internet
-- **Evidence:** https://archive.org/
-
 
 ### Media Assets (images/audio/video)
 
@@ -72,14 +90,14 @@ _No media harvested — try visual variant_
 ### Tools & Programs
 
 - [[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam](https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software) — example.com — score 0.75
-- [[TOOL] extreme loneliness and longing github open source — Narcissism as Performance — ](https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source) — example.com — score 0.75
-- [[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo](https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download) — example.com — score 0.75
+- [[TOOL] https://github.com/JordanMagnuson/Loneliness](https://github.com/JordanMagnuson/Loneliness) — github.com — score 0.75
+- [[TOOL] https://github.com/VilteBaltra/loneliness-mediation](https://github.com/VilteBaltra/loneliness-mediation) — github.com — score 0.75
 
 ### Rare / Forgotten / Archival
 
 - [Loneliness and longing - Fierce Embodiment](https://fierceembodiment.com/longing/)  — fierceembodiment.com
-- [[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...](http://web.archive.org/web/20260831050118/https://archive.org/)  — web.archive.org
-- [[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...](http://web.archive.org/web/20260831052005/https://archive.org/search)  — web.archive.org
+- [Read Anonymous Confessions | Real Stories From Women Worldwide](https://confessions.peonymagazine.com/read-anonymous-confessions/)  — confessions.peonymagazine.com
+- [A Perpetual State of Loneliness - Raw Confessions](https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579)  — www.rawconfessions.com
 
 ## Synthesis — Spectrum Insights
 
@@ -94,7 +112,7 @@ _No media harvested — try visual variant_
 
 ### Patterns
 
-Domains: example.com, fierceembodiment.com, web.archive.org, confessions.peonymagazine.com, www.rawconfessions.com, www.verywellmind.com | By category: rare 7, media 0, tools 5
+Domains: example.com, github.com, fierceembodiment.com, confessions.peonymagazine.com, www.rawconfessions.com, www.verywellmind.com | By category: rare 3, media 0, tools 7
 
 ### Gaps
 
@@ -106,20 +124,20 @@ Domains: example.com, fierceembodiment.com, web.archive.org, confessions.peonyma
 
 ## Connections
 
-- Related: [[example.com]], [[example.com]], [[example.com]]
+- Related: [[example.com]], [[github.com]], [[github.com]]
 
 ## Top Assets (SPECTRUM ranked)
 
 1. [[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam](https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software) — score 0.75 — example.com (tool)
    - Example demo for narcissism manifesto — performance, audience capture, and validation loops.
-2. [[TOOL] extreme loneliness and longing github open source — Narcissism as Performance — ](https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source) — score 0.75 — example.com (tool)
+2. [[TOOL] https://github.com/JordanMagnuson/Loneliness](https://github.com/JordanMagnuson/Loneliness) — score 0.75 — github.com (tool)
+   - 
+3. [[TOOL] https://github.com/VilteBaltra/loneliness-mediation](https://github.com/VilteBaltra/loneliness-mediation) — score 0.75 — github.com (tool)
+   - 
+4. [[TOOL] https://github.com/lyip12/loneliness](https://github.com/lyip12/loneliness) — score 0.75 — github.com (tool)
+   - 
+5. [[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo](https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download) — score 0.75 — example.com (tool)
    - Example demo for narcissism manifesto — performance, audience capture, and validation loops.
-3. [[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo](https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download) — score 0.75 — example.com (tool)
-   - Example demo for narcissism manifesto — performance, audience capture, and validation loops.
-4. [Loneliness and longing - Fierce Embodiment](https://fierceembodiment.com/longing/) — score 0.63 — fierceembodiment.com (rare)
-   - Intro
-5. [[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...](http://web.archive.org/web/20260831050118/https://archive.org/) — score 0.62 — web.archive.org (archive)
-   - Archived snapshot 20260831050118 of https://archive.org/
 
 ## Resume Point
 
@@ -132,4 +150,15 @@ Domains: example.com, fierceembodiment.com, web.archive.org, confessions.peonyma
 ## Agent Insights
 
 > Generated by manifesto research engine 2026-08-31 — review and refine in your own voice.
-> Related atomic: [[Narcissism]]
+
+---
+
+#auto/generated #auto/research #auto/spectrum #category/page #category/pages #category/rare #category/tool #category/tools #domain/example #domain/fierceembodiment #domain/github #extreme #generated/2026 #generated/2026-08-31 #idea/extreme-loneliness-and #loneliness #longing #manifesto #research #spectrum #vault/narcissism
+
+## Research Update — 2026-08-31
+
+SPECTRUM for "extreme loneliness and longing" → 14 assets (rare:4 media:0 tools:9) | Tags: #auto/generated #auto/research #auto/spectrum #category/page #category/pages #category/rare #category/tool #category/tools #domain/aspirehealthtoolkit #domain/bondedpath #domain/companionwise #domain/example #domain/fierceembodiment #domain/github #extreme #generated/2026 #generated/2026-08-31 #idea/extreme-loneliness-and #loneliness #longing #manifesto #research #spectrum #update #vault/narcissism
+
+- Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, whe — [c4b2723f6140](https://fierceembodiment.com/longing/)
+- I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings — [c4b2723f6140](https://fierceembodiment.com/longing/)
+- --> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nos — [e264ec1789c6](https://confessions.peonymagazine.com/read-anonymous-confessions/)

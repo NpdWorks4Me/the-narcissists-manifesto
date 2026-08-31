@@ -131,8 +131,17 @@ async function searchBrave(query: string, limit = 5): Promise<SearchResult[]> {
   return results.slice(0, limit);
 }
 
-// Public spectrum search with fallback chain
+import { searchSearXNG } from "./adapters/searxng.js";
+
+// Public spectrum search with fallback chain — SearXNG first only if SEARXNG_URL is explicitly set
 export async function searchWithFallback(query: string, limit = 5): Promise<SearchResult[]> {
+  // Try SearXNG only if user has self-hosted instance (env var) — public instances are spare, not primary
+  if (process.env.SEARXNG_URL) {
+    try {
+      const searx = await searchSearXNG(query, limit);
+      if (searx.length > 0) return searx;
+    } catch {}
+  }
   const engines: Array<(q: string, l: number) => Promise<SearchResult[]>> = [searchDuckDuckGo, searchBing, searchBrave];
   let lastError: any = null;
   for (const engine of engines) {
