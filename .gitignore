@@ -1,0 +1,41 @@
+# Dependencies
+05 Backend/node_modules/
+node_modules/
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/hotkeys.json
+
+# Logs and cache (keep structure, ignore content)
+04 Atlas & Meta/Logs/research/.cache/
+04 Atlas & Meta/Logs/research/**/assets/**
+04 Atlas & Meta/Logs/research/**/*.html
+04 Atlas & Meta/Logs/*.log
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Research engine cache (content-brain)
+research-engine/.cache/
+research-engine/research.db
+research-engine/output/
+research-engine/logs/
+research-engine/.cache/
+
+# Env
+.env
+.env.local
+
+# Build
+05 Backend/dist/
+dist/

@@ -1,0 +1,568 @@
+{
+  "researchId": "38b9084b",
+  "query": "ONE-SHOT SPECTRUM: extreme loneliness and longing | extreme loneliness and longing lived experience personal story raw confessional | extreme loneliness and longing history archive rare forgotten vintage obscure abandoned | extreme loneliness and longing tools programs software templates resources open source | extreme loneliness and longing media assets images audio video archive | extreme loneliness and longing theory concept framework model rare idea | extreme loneliness and longing criticism counter perspective deconstruction | extreme loneliness and longing step by step guide framework how to system",
+  "idea": "extreme loneliness and longing",
+  "slug": "extreme-loneliness-and-longing",
+  "createdAt": "2026-08-31T19:59:57.848Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180
+  },
+  "counts": {
+    "sourcesSearched": 10,
+    "pagesFetched": 8,
+    "domains": 6,
+    "archiveQueries": 2,
+    "totalAssets": 13,
+    "uniqueAssets": 13,
+    "byCategory": {
+      "rare": 7,
+      "media": 0,
+      "tools": 5,
+      "feeds": 0,
+      "pages": 1
+    },
+    "media": 0,
+    "tools": 5,
+    "rare": 7
+  },
+  "ranked": [],
+  "referenceCandidates": [
+    {
+      "assetId": "568dc620a4b6",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software",
+      "title": "[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "cdecfe9848a4",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source",
+      "title": "[TOOL] extreme loneliness and longing github open source — Narcissism as Performance — ",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "8d840fa658eb",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
+      "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "c4b2723f6140",
+      "sourceUrl": "https://fierceembodiment.com/longing/",
+      "title": "Loneliness and longing - Fierce Embodiment",
+      "snippet": "Intro",
+      "domain": "fierceembodiment.com",
+      "score": 0.63,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 92781 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/c4b2723f6140_longing.html"
+      ],
+      "contentPreview": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, when I had first entered this world of mind-body, I had a closing meeting with one of my teachers. I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings. I was also anxious, because that&#8217;s how I always was, as I incessantly looked for that key. I sat down across from him with my barely-contained emotions, only to hear this: “Marcela,” he said, in his thick Israeli accent, “all your life, you will struggle to find intimacy with yourself.” That’s it. Meeting over. He had deftly gut-punched my loneliness, and so I squeezed my un-m",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/c4b2723f6140_longing.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 92781,
+      "needsRender": false
+    },
+    {
+      "assetId": "c586f3a69035",
+      "sourceUrl": "http://web.archive.org/web/20260831050118/https://archive.org/",
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "Archived snapshot 20260831050118 of https://archive.org/",
+      "domain": "web.archive.org",
+      "score": 0.62,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "wayback 20260831050118"
+      ],
+      "contentPreview": "Archived version of https://archive.org/",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "archive",
+      "rarityScore": 0.8,
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "39be37f5b355",
+      "sourceUrl": "http://web.archive.org/web/20260831052005/https://archive.org/search",
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "Archived snapshot 20260831052005 of https://archive.org/search",
+      "domain": "web.archive.org",
+      "score": 0.62,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "wayback 20260831052005"
+      ],
+      "contentPreview": "Archived version of https://archive.org/search",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "archive",
+      "rarityScore": 0.8,
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "e264ec1789c6",
+      "sourceUrl": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "snippet": "Read anonymous confessions from women about love, marriage, motherhood, anxiety,",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0.5949999999999999,
+      "relevanceScore": 0.8999999999999999,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 136820 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/e264ec1789c6_read-anonymous-confe.html"
+      ],
+      "contentPreview": "--> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nostalgia Loneliness Grief Heartbreak Regret Abandonment Emptiness Love, Desire &amp; Power Desire Longing Craving Intimacy Fantasy Jealousy Control Power Infidelity Marriage, Motherhood &amp; Family Marriage Motherhood Resentment Divorce Toxic Family Invisible Labor The Self &amp; Becoming Identity Self-Worth Healing Reinvention Awakening Forgiveness Validation Escape The Mind &amp; Emotional States Burnout Anxiety Numbness Rage Fear Depression People Pleasing Financial Pressure Body Image Read Confessions Submit a Confession Return to Peony Search for: Confessions of the Fem",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/e264ec1789c6_read-anonymous-confe.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 136820,
+      "needsRender": false
+    },
+    {
+      "assetId": "4c2c669f2b88",
+      "sourceUrl": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "snippet": "As I mentioned before,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.56,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 29126 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/4c2c669f2b88_1366579.html"
+      ],
+      "contentPreview": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care. For someone to get to know me, for someone to ask me for a change “how are you doing?” Anyone relate? I feel as though I am filled with a void, there is an emptiness that lingers and never leaves me. I have no friends to talk to, sometimes acquaintances, but never truly a friend. I am always someone in the shadows. I’d give *anything* to just sit down with someone and have a meaningful conversation with someone about anything. I pretend all the time that I know what I am doing, that I am content and happy, but I am far from that. I don’t even know who I am anymore. However, I feel like I’m used to the em",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/4c2c669f2b88_1366579.html",
+      "contentType": "text/html",
+      "bytes": 29126,
+      "needsRender": false
+    },
+    {
+      "assetId": "5155ba457099",
+      "sourceUrl": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "title": "Complicated feelings of guilt, loneliness and longing. - Raw Confessions",
+      "snippet": "Complicated feelings of guilt,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.5325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Complicated feelings of guilt, loneliness and longing. | Raw Confessions Raw Confessions Log In Sign Up Complicated feelings of guilt, loneliness and longing. Today was my second-ever therapy session. Once again, I withheld information from my therapist, so all we did was talk about interior design for 45 minutes. After the session, I immediately spiraled and cried, feeling dissatisfied and guilty. I wish my therapist had pried the information out of me, but maybe she has something else in mind. Anyway, during my spiral, I panicked and realized I had no one to talk to about it. The only person I felt would understand and be able to provide useful feedback is basically going no-contact with me right now since he has his own internal struggles. I wouldn’t want to put this all on him anyway. ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "df0a405522b9",
+      "sourceUrl": "https://www.verywellmind.com/understanding-chronic-loneliness-8705582",
+      "title": "Understanding Chronic Loneliness - Verywell Mind",
+      "snippet": "Chronic",
+      "domain": "www.verywellmind.com",
+      "score": 0.48000000000000004,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "--> Understanding Chronic Loneliness ​ Skip to content Verywell Mind Search Please fill out this field. Newsletters Sweepstakes Search Please fill out this field. Conditions A-Z Conditions A-Z Addiction Depression ADHD Anxiety Bipolar Disorder PTSD View All Therapy Therapy Therapy Center When To See a Therapist Types of Therapy Best Online Therapy Best Couples Therapy View All Living Well Living Well Managing Stress Meditation Sleep and Dreaming Understanding Emotions Self-Improvement View All Relationships Relationships Healthy Relationships Dating Intimacy View All Psychology Psychology Theories Student Resources Personality Types View All Trending Trending Quizzes Guided Meditations Verywell Mind Insights 2024 Verywell Mind 25 Mental Health in the Classroom View All About Us About Us Ed",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "c61d11a4a305",
+      "sourceUrl": "https://parade.com/living/signs-of-deep-loneliness-according-to-psychologists",
+      "title": "14 Signs of &#x27;Deep Loneliness&#x27; To Look Out For - Parade",
+      "snippet": "These are 14 telltale signs of deep",
+      "domain": "parade.com",
+      "score": 0.4600000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "<html lang=\"en\"><head><title>parade.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMAfeAQsVpU4RAAYWinUw==','hsh':'2AC20A4365547ED96AE26618B66966','t':'fe','qp':'','s':41010,'e':'561d085e4533c84a7823ff506a610230f13bd40e70a890e0bf6e9b2f6000e85ad6230ae8cba2e3f937988ad1e3c2b28d','host':'geo.captcha-delivery.com','cookie':'HdrGMrRSfBPASYnYBJGgqbPB0m~ha0rBdPZGZpYysLgCuhzcQBbfyZw36txyEFxw6g7zwVfEKTH2T8YIQDlXuruGgPez732o9yjE0cSBQ5jQ6n0NBZnapilovrLm5bKd'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/c.js\"></script></body></html>",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "c321c7f2be84",
+      "sourceUrl": "https://archive.org/",
+      "title": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "Internet",
+      "domain": "archive.org",
+      "score": 0.38500000000000006,
+      "relevanceScore": 0.3,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "archive 20260831050118"
+      ],
+      "contentPreview": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine Javascript is required for this site. Consider enabling Javascript or upgrading to a modern browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": "http://web.archive.org/web/20260831050118/https://archive.org/",
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "d458ca7a4457",
+      "sourceUrl": "https://archive.org/search",
+      "title": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "To begin searching, enter a search term in the box above and hit &quot;Go&quot;.",
+      "domain": "archive.org",
+      "score": 0.38500000000000006,
+      "relevanceScore": 0.3,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "archive 20260831052005"
+      ],
+      "contentPreview": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine Javascript is required for this site. Consider enabling Javascript or upgrading to a modern browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": "http://web.archive.org/web/20260831052005/https://archive.org/search",
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    }
+  ],
+  "all_assets": [
+    {
+      "assetId": "568dc620a4b6",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software",
+      "title": "[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "cdecfe9848a4",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source",
+      "title": "[TOOL] extreme loneliness and longing github open source — Narcissism as Performance — ",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "8d840fa658eb",
+      "sourceUrl": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
+      "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "c4b2723f6140",
+      "sourceUrl": "https://fierceembodiment.com/longing/",
+      "title": "Loneliness and longing - Fierce Embodiment",
+      "snippet": "Intro",
+      "domain": "fierceembodiment.com",
+      "score": 0.63,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 92781 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/c4b2723f6140_longing.html"
+      ],
+      "contentPreview": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, when I had first entered this world of mind-body, I had a closing meeting with one of my teachers. I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings. I was also anxious, because that&#8217;s how I always was, as I incessantly looked for that key. I sat down across from him with my barely-contained emotions, only to hear this: “Marcela,” he said, in his thick Israeli accent, “all your life, you will struggle to find intimacy with yourself.” That’s it. Meeting over. He had deftly gut-punched my loneliness, and so I squeezed my un-m",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/c4b2723f6140_longing.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 92781,
+      "needsRender": false
+    },
+    {
+      "assetId": "c586f3a69035",
+      "sourceUrl": "http://web.archive.org/web/20260831050118/https://archive.org/",
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "Archived snapshot 20260831050118 of https://archive.org/",
+      "domain": "web.archive.org",
+      "score": 0.62,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "wayback 20260831050118"
+      ],
+      "contentPreview": "Archived version of https://archive.org/",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "archive",
+      "rarityScore": 0.8,
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "39be37f5b355",
+      "sourceUrl": "http://web.archive.org/web/20260831052005/https://archive.org/search",
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "Archived snapshot 20260831052005 of https://archive.org/search",
+      "domain": "web.archive.org",
+      "score": 0.62,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "wayback 20260831052005"
+      ],
+      "contentPreview": "Archived version of https://archive.org/search",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "archive",
+      "rarityScore": 0.8,
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "e264ec1789c6",
+      "sourceUrl": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "snippet": "Read anonymous confessions from women about love, marriage, motherhood, anxiety,",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0.5949999999999999,
+      "relevanceScore": 0.8999999999999999,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 136820 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/e264ec1789c6_read-anonymous-confe.html"
+      ],
+      "contentPreview": "--> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nostalgia Loneliness Grief Heartbreak Regret Abandonment Emptiness Love, Desire &amp; Power Desire Longing Craving Intimacy Fantasy Jealousy Control Power Infidelity Marriage, Motherhood &amp; Family Marriage Motherhood Resentment Divorce Toxic Family Invisible Labor The Self &amp; Becoming Identity Self-Worth Healing Reinvention Awakening Forgiveness Validation Escape The Mind &amp; Emotional States Burnout Anxiety Numbness Rage Fear Depression People Pleasing Financial Pressure Body Image Read Confessions Submit a Confession Return to Peony Search for: Confessions of the Fem",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/e264ec1789c6_read-anonymous-confe.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 136820,
+      "needsRender": false
+    },
+    {
+      "assetId": "4c2c669f2b88",
+      "sourceUrl": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "snippet": "As I mentioned before,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.56,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 29126 bytes to 04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/4c2c669f2b88_1366579.html"
+      ],
+      "contentPreview": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care. For someone to get to know me, for someone to ask me for a change “how are you doing?” Anyone relate? I feel as though I am filled with a void, there is an emptiness that lingers and never leaves me. I have no friends to talk to, sometimes acquaintances, but never truly a friend. I am always someone in the shadows. I’d give *anything* to just sit down with someone and have a meaningful conversation with someone about anything. I pretend all the time that I know what I am doing, that I am content and happy, but I am far from that. I don’t even know who I am anymore. However, I feel like I’m used to the em",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/4c2c669f2b88_1366579.html",
+      "contentType": "text/html",
+      "bytes": 29126,
+      "needsRender": false
+    },
+    {
+      "assetId": "5155ba457099",
+      "sourceUrl": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "title": "Complicated feelings of guilt, loneliness and longing. - Raw Confessions",
+      "snippet": "Complicated feelings of guilt,",
+      "domain": "www.rawconfessions.com",
+      "score": 0.5325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Complicated feelings of guilt, loneliness and longing. | Raw Confessions Raw Confessions Log In Sign Up Complicated feelings of guilt, loneliness and longing. Today was my second-ever therapy session. Once again, I withheld information from my therapist, so all we did was talk about interior design for 45 minutes. After the session, I immediately spiraled and cried, feeling dissatisfied and guilty. I wish my therapist had pried the information out of me, but maybe she has something else in mind. Anyway, during my spiral, I panicked and realized I had no one to talk to about it. The only person I felt would understand and be able to provide useful feedback is basically going no-contact with me right now since he has his own internal struggles. I wouldn’t want to put this all on him anyway. ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "df0a405522b9",
+      "sourceUrl": "https://www.verywellmind.com/understanding-chronic-loneliness-8705582",
+      "title": "Understanding Chronic Loneliness - Verywell Mind",
+      "snippet": "Chronic",
+      "domain": "www.verywellmind.com",
+      "score": 0.48000000000000004,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "--> Understanding Chronic Loneliness ​ Skip to content Verywell Mind Search Please fill out this field. Newsletters Sweepstakes Search Please fill out this field. Conditions A-Z Conditions A-Z Addiction Depression ADHD Anxiety Bipolar Disorder PTSD View All Therapy Therapy Therapy Center When To See a Therapist Types of Therapy Best Online Therapy Best Couples Therapy View All Living Well Living Well Managing Stress Meditation Sleep and Dreaming Understanding Emotions Self-Improvement View All Relationships Relationships Healthy Relationships Dating Intimacy View All Psychology Psychology Theories Student Resources Personality Types View All Trending Trending Quizzes Guided Meditations Verywell Mind Insights 2024 Verywell Mind 25 Mental Health in the Classroom View All About Us About Us Ed",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "c61d11a4a305",
+      "sourceUrl": "https://parade.com/living/signs-of-deep-loneliness-according-to-psychologists",
+      "title": "14 Signs of &#x27;Deep Loneliness&#x27; To Look Out For - Parade",
+      "snippet": "These are 14 telltale signs of deep",
+      "domain": "parade.com",
+      "score": 0.4600000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "<html lang=\"en\"><head><title>parade.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'c','cid':'AHrlqAAAAAMAfeAQsVpU4RAAYWinUw==','hsh':'2AC20A4365547ED96AE26618B66966','t':'fe','qp':'','s':41010,'e':'561d085e4533c84a7823ff506a610230f13bd40e70a890e0bf6e9b2f6000e85ad6230ae8cba2e3f937988ad1e3c2b28d','host':'geo.captcha-delivery.com','cookie':'HdrGMrRSfBPASYnYBJGgqbPB0m~ha0rBdPZGZpYysLgCuhzcQBbfyZw36txyEFxw6g7zwVfEKTH2T8YIQDlXuruGgPez732o9yjE0cSBQ5jQ6n0NBZnapilovrLm5bKd'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/c.js\"></script></body></html>",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "c321c7f2be84",
+      "sourceUrl": "https://archive.org/",
+      "title": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "Internet",
+      "domain": "archive.org",
+      "score": 0.38500000000000006,
+      "relevanceScore": 0.3,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "archive 20260831050118"
+      ],
+      "contentPreview": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine Javascript is required for this site. Consider enabling Javascript or upgrading to a modern browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": "http://web.archive.org/web/20260831050118/https://archive.org/",
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "d458ca7a4457",
+      "sourceUrl": "https://archive.org/search",
+      "title": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "snippet": "To begin searching, enter a search term in the box above and hit &quot;Go&quot;.",
+      "domain": "archive.org",
+      "score": 0.38500000000000006,
+      "relevanceScore": 0.3,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "archive 20260831052005"
+      ],
+      "contentPreview": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies, Music &amp; Wayback Machine Javascript is required for this site. Consider enabling Javascript or upgrading to a modern browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": "http://web.archive.org/web/20260831052005/https://archive.org/search",
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false
+    }
+  ],
+  "one_shot_queries": [
+    "extreme loneliness and longing",
+    "extreme loneliness and longing lived experience personal story raw confessional",
+    "extreme loneliness and longing history archive rare forgotten vintage obscure abandoned",
+    "extreme loneliness and longing tools programs software templates resources open source",
+    "extreme loneliness and longing media assets images audio video archive",
+    "extreme loneliness and longing theory concept framework model rare idea",
+    "extreme loneliness and longing criticism counter perspective deconstruction",
+    "extreme loneliness and longing step by step guide framework how to system"
+  ]
+}

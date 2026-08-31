@@ -1,0 +1,697 @@
+{
+  "researchId": "84ee9617",
+  "query": "ONE-SHOT SPECTRUM: test tagging idea | test tagging idea lived experience personal story raw confessional | test tagging idea history archive rare forgotten vintage obscure abandoned | test tagging idea tools programs software templates resources open source | test tagging idea media assets images audio video archive | test tagging idea theory concept framework model rare idea | test tagging idea criticism counter perspective deconstruction | test tagging idea step by step guide framework how to system",
+  "idea": "test tagging idea",
+  "slug": "test-tagging-idea",
+  "createdAt": "2026-08-31T20:18:40.742Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180
+  },
+  "counts": {
+    "sourcesSearched": 6,
+    "pagesFetched": 4,
+    "domains": 4,
+    "archiveQueries": 1,
+    "totalAssets": 17,
+    "uniqueAssets": 17,
+    "byCategory": {
+      "rare": 1,
+      "media": 3,
+      "tools": 10,
+      "feeds": 2,
+      "pages": 1
+    },
+    "media": 3,
+    "tools": 10,
+    "rare": 1
+  },
+  "ranked": [],
+  "referenceCandidates": [
+    {
+      "assetId": "b51033753b50",
+      "sourceUrl": "https://www.stickyminds.com/article/choosing-right-testing-tool-how-idea-t-framework-can-help",
+      "title": "[TOOL] Choosing the Right Testing Tool: How the Idea-t Framework Can Help",
+      "snippet": "The free idea-t framework provides",
+      "domain": "www.stickyminds.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "The free idea-t framework provides",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "ee83e145dd21",
+      "sourceUrl": "https://www.fincrat.com/post/startup-idea-testing-tools",
+      "title": "[TOOL] Idea Testing Tools Every Founder Should Know for Smarter Startup Decisions",
+      "snippet": "Great",
+      "domain": "www.fincrat.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Great",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "c132e3ffc355",
+      "sourceUrl": "https://gitnux.org/best/idea-sampling-software/",
+      "title": "[TOOL] Best Idea Sampling Software: 2026 Comparison - gitnux.org",
+      "snippet": "Top 10 Best",
+      "domain": "gitnux.org",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Top 10 Best",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "26f4a7789c71",
+      "sourceUrl": "https://github.com/collections/opensource-testing",
+      "title": "[TOOL] Collection: OpenSource Testing Frameworks &amp; Tools · GitHub",
+      "snippet": "Which are the best",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Which are the best",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "35e623743e13",
+      "sourceUrl": "https://www.geeksforgeeks.org/blogs/best-open-source-testing-tools-and-frameworks/",
+      "title": "[TOOL] Best Open-Source Testing Tools and Frameworks for 2025",
+      "snippet": "Browse free",
+      "domain": "www.geeksforgeeks.org",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Browse free",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "a061d5372ea1",
+      "sourceUrl": "https://testingtitbits.com/templates/",
+      "title": "[TOOL] Testing Activity Templates - Free Downloads - Rahul&#x27;s Testing Titbits",
+      "snippet": "Testing Activity",
+      "domain": "testingtitbits.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Testing Activity",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "7a486cad0472",
+      "sourceUrl": "https://www.canva.com/tags/templates/",
+      "title": "[TOOL] Free, printable, customizable tag templates | Canva",
+      "snippet": "Take your typical tags to the next level with Canva&#x27;s free, customizable tag",
+      "domain": "www.canva.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Take your typical tags to the next level with Canva&#x27;s free, customizable tag",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "e7bc2a6c2627",
+      "sourceUrl": "https://www.template.net/tags",
+      "title": "[TOOL] Free Tag Templates, Editable and Printable",
+      "snippet": "Free Tag",
+      "domain": "www.template.net",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Free Tag",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "e56967f7b9db",
+      "sourceUrl": "https://dev-tester.com/make-your-test-automation-better-with-tags/",
+      "title": "Make Your Test Automation Better With Tags - Dev Tester",
+      "snippet": "In this article, we saw a way to tag and filter",
+      "domain": "dev-tester.com",
+      "score": 0.6124999999999999,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 41443 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/pages/e56967f7b9db_make-your-test-autom.html"
+      ],
+      "contentPreview": "Make Your Test Automation Better With Tags | Dev Tester WORK WITH ME DEV TESTER ON YOUTUBE Make Your Test Automation Better With Tags Test Automation Make Your Test Automation Better With Tags Are you running your entire automated test suite all the time? Using tags will speed things up by deciding which tests to run only when you need them. Dennis Martinez I&#x27;m an automation engineer specializing in software development and DevOps living in Osaka, Japan. I&#x27;ve worked in tech since 2004 and offer freelance services to help improve your test processes. More posts by Dennis Martinez. Dennis Martinez 11 Jan 2022 &bull; 11 min read Years ago, I found myself sitting in a small conference room at the office of the startup I worked at as a software engineer. Along with me were the product",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/pages/e56967f7b9db_make-your-test-autom.html",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 41443,
+      "needsRender": false
+    },
+    {
+      "assetId": "c330e294d37e",
+      "sourceUrl": "https://dev-tester.com/content/images/2019/10/Group-2@2x-1.png",
+      "title": "[MEDIA:image] Dev Tester | Improve Your Development, QA, and DevOps Skills",
+      "snippet": "Media from dev-tester.com — Dev Tester | Improve Your Development, QA, and DevOps Skills",
+      "domain": "dev-tester.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://dev-tester.com/make-your-test-automation-better-with-tags/",
+        "downloaded 69224 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/c330e294d37e_Group-2_2x-1.png.png"
+      ],
+      "contentPreview": "https://dev-tester.com/content/images/2019/10/Group-2@2x-1.png",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/c330e294d37e_Group-2_2x-1.png.png",
+      "contentType": "image/png",
+      "bytes": 69224,
+      "needsRender": false
+    },
+    {
+      "assetId": "8a2ead69f9bc",
+      "sourceUrl": "https://dev-tester.com/content/images/size/w100/2020/02/dennis_martinez_feb_2020.jpg",
+      "title": "[MEDIA:image] Dennis Martinez",
+      "snippet": "Media from dev-tester.com — Dennis Martinez",
+      "domain": "dev-tester.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://dev-tester.com/make-your-test-automation-better-with-tags/",
+        "downloaded 2002 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/8a2ead69f9bc_dennis_martinez_feb_.jpg"
+      ],
+      "contentPreview": "https://dev-tester.com/content/images/size/w100/2020/02/dennis_martinez_feb_2020.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/8a2ead69f9bc_dennis_martinez_feb_.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 2002,
+      "needsRender": false
+    },
+    {
+      "assetId": "adad241a5ff0",
+      "sourceUrl": "https://link.springer.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "title": "[MEDIA:image] errorIcon.svg",
+      "snippet": "Media from link.springer.com — ",
+      "domain": "link.springer.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://link.springer.com/chapter/10.1007/978-1-4842-9247-1_12",
+        "downloaded 1068 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/adad241a5ff0_errorIcon.svg.svg"
+      ],
+      "contentPreview": "https://link.springer.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/adad241a5ff0_errorIcon.svg.svg",
+      "contentType": "image/svg+xml",
+      "bytes": 1068,
+      "needsRender": false
+    },
+    {
+      "assetId": "b1ec0eea2f27",
+      "sourceUrl": "https://dev-tester.com/test-driven-review-reading-the-tests-first/",
+      "title": "[FEED] https://dev-tester.com/test-driven-review-reading-the-tests-first/",
+      "snippet": "",
+      "domain": "dev-tester.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://dev-tester.com/rss/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "0a15b3de8f4e",
+      "sourceUrl": "https://dev-tester.com/the-instant-reject-list-5-rules-for-better-code-reviews/",
+      "title": "[FEED] https://dev-tester.com/the-instant-reject-list-5-rules-for-better-code-reviews/",
+      "snippet": "",
+      "domain": "dev-tester.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://dev-tester.com/rss/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "bc34b10cbae4",
+      "sourceUrl": "https://link.springer.com/chapter/10.1007/978-1-4842-9247-1_12",
+      "title": "Tagging Tests | Springer Nature Link",
+      "snippet": "When",
+      "domain": "link.springer.com",
+      "score": 0.4600000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Client Challenge JavaScript is disabled in your browser. Please enable JavaScript to proceed. A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "8f647ecb56d3",
+      "sourceUrl": "https://stackoverflow.com/questions/44294074/how-to-specify-which-tag-should-be-used-for-junit-in-intellij-idea",
+      "title": "How to specify which @Tag should be used for JUnit in IntelliJ IDEA",
+      "snippet": "Now it is possible with Intellij",
+      "domain": "stackoverflow.com",
+      "score": 0.42749999999999994,
+      "relevanceScore": 0.6499999999999999,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-nV9nkZDrdqwhHKhvs3tl2C&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "a66e63e6568f",
+      "sourceUrl": "https://www.confessyoursins.com/confessions",
+      "title": "Browse Anonymous Confessions - Real Stories, Real People",
+      "snippet": "Read thousands of anonymous confessions from real people. Explore stories about relationships, guilt, secrets, work, and more. Filter by tags and discover confessions that resonate with you.",
+      "domain": "www.confessyoursins.com",
+      "score": 0.28500000000000003,
+      "relevanceScore": 0.3,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Back online Anonymous Confessions Read stories from others—privacy protected and tastefully moderated. Popular Tags About About Us FAQ Contact Confessions Browse All Submit Confession Popular Tags Legal Privacy Policy Terms of Service Resources Crisis Support (988) International Help © 2025 ConfessYourSins.com. All rights reserved. Anonymous • Private • Safe Confessions Confess Browse Anonymous Confessions - Real Stories, Real People",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    }
+  ],
+  "all_assets": [
+    {
+      "assetId": "b51033753b50",
+      "sourceUrl": "https://www.stickyminds.com/article/choosing-right-testing-tool-how-idea-t-framework-can-help",
+      "title": "[TOOL] Choosing the Right Testing Tool: How the Idea-t Framework Can Help",
+      "snippet": "The free idea-t framework provides",
+      "domain": "www.stickyminds.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "The free idea-t framework provides",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "ee83e145dd21",
+      "sourceUrl": "https://www.fincrat.com/post/startup-idea-testing-tools",
+      "title": "[TOOL] Idea Testing Tools Every Founder Should Know for Smarter Startup Decisions",
+      "snippet": "Great",
+      "domain": "www.fincrat.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Great",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "c132e3ffc355",
+      "sourceUrl": "https://gitnux.org/best/idea-sampling-software/",
+      "title": "[TOOL] Best Idea Sampling Software: 2026 Comparison - gitnux.org",
+      "snippet": "Top 10 Best",
+      "domain": "gitnux.org",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Top 10 Best",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "26f4a7789c71",
+      "sourceUrl": "https://github.com/collections/opensource-testing",
+      "title": "[TOOL] Collection: OpenSource Testing Frameworks &amp; Tools · GitHub",
+      "snippet": "Which are the best",
+      "domain": "github.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Which are the best",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "35e623743e13",
+      "sourceUrl": "https://www.geeksforgeeks.org/blogs/best-open-source-testing-tools-and-frameworks/",
+      "title": "[TOOL] Best Open-Source Testing Tools and Frameworks for 2025",
+      "snippet": "Browse free",
+      "domain": "www.geeksforgeeks.org",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Browse free",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "a061d5372ea1",
+      "sourceUrl": "https://testingtitbits.com/templates/",
+      "title": "[TOOL] Testing Activity Templates - Free Downloads - Rahul&#x27;s Testing Titbits",
+      "snippet": "Testing Activity",
+      "domain": "testingtitbits.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Testing Activity",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "7a486cad0472",
+      "sourceUrl": "https://www.canva.com/tags/templates/",
+      "title": "[TOOL] Free, printable, customizable tag templates | Canva",
+      "snippet": "Take your typical tags to the next level with Canva&#x27;s free, customizable tag",
+      "domain": "www.canva.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Take your typical tags to the next level with Canva&#x27;s free, customizable tag",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "e7bc2a6c2627",
+      "sourceUrl": "https://www.template.net/tags",
+      "title": "[TOOL] Free Tag Templates, Editable and Printable",
+      "snippet": "Free Tag",
+      "domain": "www.template.net",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Free Tag",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "e56967f7b9db",
+      "sourceUrl": "https://dev-tester.com/make-your-test-automation-better-with-tags/",
+      "title": "Make Your Test Automation Better With Tags - Dev Tester",
+      "snippet": "In this article, we saw a way to tag and filter",
+      "domain": "dev-tester.com",
+      "score": 0.6124999999999999,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 41443 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/pages/e56967f7b9db_make-your-test-autom.html"
+      ],
+      "contentPreview": "Make Your Test Automation Better With Tags | Dev Tester WORK WITH ME DEV TESTER ON YOUTUBE Make Your Test Automation Better With Tags Test Automation Make Your Test Automation Better With Tags Are you running your entire automated test suite all the time? Using tags will speed things up by deciding which tests to run only when you need them. Dennis Martinez I&#x27;m an automation engineer specializing in software development and DevOps living in Osaka, Japan. I&#x27;ve worked in tech since 2004 and offer freelance services to help improve your test processes. More posts by Dennis Martinez. Dennis Martinez 11 Jan 2022 &bull; 11 min read Years ago, I found myself sitting in a small conference room at the office of the startup I worked at as a software engineer. Along with me were the product",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/pages/e56967f7b9db_make-your-test-autom.html",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 41443,
+      "needsRender": false
+    },
+    {
+      "assetId": "c330e294d37e",
+      "sourceUrl": "https://dev-tester.com/content/images/2019/10/Group-2@2x-1.png",
+      "title": "[MEDIA:image] Dev Tester | Improve Your Development, QA, and DevOps Skills",
+      "snippet": "Media from dev-tester.com — Dev Tester | Improve Your Development, QA, and DevOps Skills",
+      "domain": "dev-tester.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://dev-tester.com/make-your-test-automation-better-with-tags/",
+        "downloaded 69224 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/c330e294d37e_Group-2_2x-1.png.png"
+      ],
+      "contentPreview": "https://dev-tester.com/content/images/2019/10/Group-2@2x-1.png",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/c330e294d37e_Group-2_2x-1.png.png",
+      "contentType": "image/png",
+      "bytes": 69224,
+      "needsRender": false
+    },
+    {
+      "assetId": "8a2ead69f9bc",
+      "sourceUrl": "https://dev-tester.com/content/images/size/w100/2020/02/dennis_martinez_feb_2020.jpg",
+      "title": "[MEDIA:image] Dennis Martinez",
+      "snippet": "Media from dev-tester.com — Dennis Martinez",
+      "domain": "dev-tester.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://dev-tester.com/make-your-test-automation-better-with-tags/",
+        "downloaded 2002 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/8a2ead69f9bc_dennis_martinez_feb_.jpg"
+      ],
+      "contentPreview": "https://dev-tester.com/content/images/size/w100/2020/02/dennis_martinez_feb_2020.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/8a2ead69f9bc_dennis_martinez_feb_.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 2002,
+      "needsRender": false
+    },
+    {
+      "assetId": "adad241a5ff0",
+      "sourceUrl": "https://link.springer.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "title": "[MEDIA:image] errorIcon.svg",
+      "snippet": "Media from link.springer.com — ",
+      "domain": "link.springer.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://link.springer.com/chapter/10.1007/978-1-4842-9247-1_12",
+        "downloaded 1068 bytes to 04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/adad241a5ff0_errorIcon.svg.svg"
+      ],
+      "contentPreview": "https://link.springer.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/test-tagging-idea_84ee9617/assets/media/adad241a5ff0_errorIcon.svg.svg",
+      "contentType": "image/svg+xml",
+      "bytes": 1068,
+      "needsRender": false
+    },
+    {
+      "assetId": "b1ec0eea2f27",
+      "sourceUrl": "https://dev-tester.com/test-driven-review-reading-the-tests-first/",
+      "title": "[FEED] https://dev-tester.com/test-driven-review-reading-the-tests-first/",
+      "snippet": "",
+      "domain": "dev-tester.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://dev-tester.com/rss/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "0a15b3de8f4e",
+      "sourceUrl": "https://dev-tester.com/the-instant-reject-list-5-rules-for-better-code-reviews/",
+      "title": "[FEED] https://dev-tester.com/the-instant-reject-list-5-rules-for-better-code-reviews/",
+      "snippet": "",
+      "domain": "dev-tester.com",
+      "score": 0.58,
+      "relevanceScore": 0.6,
+      "evidence": [
+        "from feed https://dev-tester.com/rss/"
+      ],
+      "contentPreview": "",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "feed"
+    },
+    {
+      "assetId": "bc34b10cbae4",
+      "sourceUrl": "https://link.springer.com/chapter/10.1007/978-1-4842-9247-1_12",
+      "title": "Tagging Tests | Springer Nature Link",
+      "snippet": "When",
+      "domain": "link.springer.com",
+      "score": 0.4600000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Client Challenge JavaScript is disabled in your browser. Please enable JavaScript to proceed. A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "8f647ecb56d3",
+      "sourceUrl": "https://stackoverflow.com/questions/44294074/how-to-specify-which-tag-should-be-used-for-junit-in-intellij-idea",
+      "title": "How to specify which @Tag should be used for JUnit in IntelliJ IDEA",
+      "snippet": "Now it is possible with Intellij",
+      "domain": "stackoverflow.com",
+      "score": 0.42749999999999994,
+      "relevanceScore": 0.6499999999999999,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-nV9nkZDrdqwhHKhvs3tl2C&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    },
+    {
+      "assetId": "a66e63e6568f",
+      "sourceUrl": "https://www.confessyoursins.com/confessions",
+      "title": "Browse Anonymous Confessions - Real Stories, Real People",
+      "snippet": "Read thousands of anonymous confessions from real people. Explore stories about relationships, guilt, secrets, work, and more. Filter by tags and discover confessions that resonate with you.",
+      "domain": "www.confessyoursins.com",
+      "score": 0.28500000000000003,
+      "relevanceScore": 0.3,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Back online Anonymous Confessions Read stories from others—privacy protected and tastefully moderated. Popular Tags About About Us FAQ Contact Confessions Browse All Submit Confession Popular Tags Legal Privacy Policy Terms of Service Resources Crisis Support (988) International Help © 2025 ConfessYourSins.com. All rights reserved. Anonymous • Private • Safe Confessions Confess Browse Anonymous Confessions - Real Stories, Real People",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null
+    }
+  ],
+  "one_shot_queries": [
+    "test tagging idea",
+    "test tagging idea lived experience personal story raw confessional",
+    "test tagging idea history archive rare forgotten vintage obscure abandoned",
+    "test tagging idea tools programs software templates resources open source",
+    "test tagging idea media assets images audio video archive",
+    "test tagging idea theory concept framework model rare idea",
+    "test tagging idea criticism counter perspective deconstruction",
+    "test tagging idea step by step guide framework how to system"
+  ],
+  "auto_tags": [
+    "auto/generated",
+    "auto/research",
+    "auto/spectrum",
+    "category/feed",
+    "category/feeds",
+    "category/media",
+    "category/page",
+    "category/pages",
+    "category/rare",
+    "category/tool",
+    "category/tools",
+    "domain/fincrat",
+    "domain/gitnux",
+    "domain/stickyminds",
+    "generated/2026",
+    "generated/2026-08-31",
+    "idea",
+    "idea/test-tagging-idea",
+    "log",
+    "manifesto",
+    "research-log",
+    "tagging",
+    "test"
+  ]
+}

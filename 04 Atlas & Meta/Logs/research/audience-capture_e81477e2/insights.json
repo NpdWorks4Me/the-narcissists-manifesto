@@ -1,0 +1,86 @@
+{
+  "researchId": "e81477e2",
+  "baseQuery": "audience capture",
+  "oneShotQueries": [
+    "audience capture",
+    "audience capture lived experience personal story",
+    "audience capture history research archive",
+    "audience capture tools templates resources",
+    "audience capture criticism counter perspective",
+    "audience capture step by step guide framework"
+  ],
+  "generatedAt": "2026-08-31T19:28:55.899Z",
+  "summary": "One-shot for 'audience capture' → 3 assets across 3 domains. Top score 0.59.",
+  "claims": [
+    {
+      "claim": "Audience capture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to ed",
+      "source": "https://en.wikipedia.org/wiki/Audience_Capture",
+      "assetId": "174f65e647d2"
+    },
+    {
+      "claim": "Audience capture — Grokipedia Search ⌘K Suggest Edit Sign in Sign in Definition and Core Concepts Definition Distinctions from Related Phenomena Theoretical Foundations Historical Origins and Evolutio",
+      "source": "https://grokipedia.com/page/audience_capture",
+      "assetId": "141fada59f5e"
+    },
+    {
+      "claim": "AUDIENCE CAPTURE | Understand and Resist Audience Influence &mdash; MATT KLEIN 0 Skip to Content MATT KLEIN ZINE SPEAKING PUBLICATIONS ADVISORY SEMINARS CONTACT Open Menu Close Menu MATT KLEIN ZINE SP",
+      "source": "https://kleinkleinklein.com/audience-capture",
+      "assetId": "58fe6548a9fa"
+    },
+    {
+      "claim": "Organized by several chapters, Audience Capture analyzes the underlying social theory driving the phenomenon, the extremism it takes on, personal accounts, and conclusively, strategies to resist the p",
+      "source": "https://kleinkleinklein.com/audience-capture",
+      "assetId": "58fe6548a9fa"
+    }
+  ],
+  "patterns": [
+    "en.wikipedia.org",
+    "grokipedia.com",
+    "kleinkleinklein.com"
+  ],
+  "counterpoints": [
+    {
+      "title": "Audience capture - Wikipedia",
+      "source": "https://en.wikipedia.org/wiki/Audience_Capture",
+      "reason": "reference"
+    },
+    {
+      "title": "Audience capture — Grokipedia",
+      "source": "https://grokipedia.com/page/audience_capture",
+      "reason": "reference"
+    },
+    {
+      "title": "AUDIENCE CAPTURE | Understand and Resist Audience Influence — MATT KLEIN",
+      "source": "https://kleinkleinklein.com/audience-capture",
+      "reason": "reference"
+    }
+  ],
+  "gaps": [
+    "Low assets — try broader idea or increase maxPages"
+  ],
+  "nextQueries": [
+    "audience capture case study",
+    "audience capture tools comparison",
+    "audience capture 2024 2025 update"
+  ],
+  "topAssets": [
+    {
+      "title": "Audience capture - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Audience_Capture",
+      "score": 0.5875,
+      "rights": "REFERENCE_ONLY"
+    },
+    {
+      "title": "Audience capture — Grokipedia",
+      "url": "https://grokipedia.com/page/audience_capture",
+      "score": 0.5875,
+      "rights": "REFERENCE_ONLY"
+    },
+    {
+      "title": "AUDIENCE CAPTURE | Understand and Resist Audience Influence — MATT KLEIN",
+      "url": "https://kleinkleinklein.com/audience-capture",
+      "score": 0.5875,
+      "rights": "REFERENCE_ONLY"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "04 Atlas & Meta/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "startup_templates": [
+    ""
+  ],
+  "folder_templates": [
+    {
+      "folder": "00 Inbox",
+      "template": "04 Atlas & Meta/Templates/T_Hyperfixation.md"
+    }
+  ]
+}

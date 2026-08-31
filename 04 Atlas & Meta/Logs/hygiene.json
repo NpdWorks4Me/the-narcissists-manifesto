@@ -1,0 +1,93 @@
+{
+  "last_run": "2026-08-31T20:18:52.146Z",
+  "wip_count": 9,
+  "wip_limit": 5,
+  "orphans": [
+    "test-tagging-inbox",
+    "report",
+    "README"
+  ],
+  "broken_links": [
+    {
+      "source": "_INBOX_README",
+      "target": "links"
+    },
+    {
+      "source": "test-variable-rewards",
+      "target": "Behavioral Economics"
+    },
+    {
+      "source": "audience-capture",
+      "target": "en.wikipedia.org"
+    },
+    {
+      "source": "audience-capture",
+      "target": "grokipedia.com"
+    },
+    {
+      "source": "audience-capture",
+      "target": "kleinkleinklein.com"
+    },
+    {
+      "source": "extreme-loneliness-and-longing",
+      "target": "example.com"
+    },
+    {
+      "source": "extreme-loneliness-and-longing",
+      "target": "example.com"
+    },
+    {
+      "source": "extreme-loneliness-and-longing",
+      "target": "example.com"
+    },
+    {
+      "source": "narcissism-as-performance",
+      "target": "www.itsrachaelrose.com"
+    },
+    {
+      "source": "narcissism-as-performance",
+      "target": "www.frontiersin.org"
+    },
+    {
+      "source": "narcissism-as-performance",
+      "target": "pmc.ncbi.nlm.nih.gov"
+    },
+    {
+      "source": "test-tagging-idea",
+      "target": "www.stickyminds.com"
+    },
+    {
+      "source": "test-tagging-idea",
+      "target": "www.fincrat.com"
+    },
+    {
+      "source": "test-tagging-idea",
+      "target": "gitnux.org"
+    },
+    {
+      "source": "🏠 Command Center",
+      "target": "links"
+    },
+    {
+      "source": "SYSTEM_STATUS_REPORT",
+      "target": "Behavioral Economics"
+    },
+    {
+      "source": "SYSTEM_STATUS_REPORT",
+      "target": "SPEC — ..."
+    },
+    {
+      "source": "T_Atomic_Concept",
+      "target": "03 Content Lab/"
+    },
+    {
+      "source": "T_Hyperfixation",
+      "target": "Atomic Concepts"
+    },
+    {
+      "source": "T_Hyperfixation",
+      "target": "02 Atomic Concepts/"
+    }
+  ],
+  "stale": []
+}

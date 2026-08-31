@@ -1,0 +1,12 @@
+date,note_id,title,type,status,wip_count,orphan_count,broken_links,confidence,event
+2026-08-31,engine-a,Engine A hygiene,system,active,1,0,7,0,hygiene_scan
+2026-08-31,engine-a,Engine A hygiene,system,active,1,0,7,0,hygiene_scan
+2026-08-31,engine-b,Engine B synthesis,system,active,0,0,0,0.2,synthesis insights=0 atomics=0 specs=0
+2026-08-31,engine-b,Engine B synthesis,system,active,0,0,0,0.9,synthesis insights=0 atomics=1 specs=4
+2026-08-31,engine-b,Engine B synthesis,system,active,0,0,0,0.9,synthesis insights=12 atomics=1 specs=1
+2026-08-31,engine-a,Engine A hygiene,system,active,5,1,8,0,hygiene_scan
+2026-08-31,engine-b,Engine B synthesis,system,active,0,0,0,0.2,synthesis insights=0 atomics=0 specs=0
+2026-08-31,engine-b,Engine B synthesis,system,active,0,0,0,0.2,synthesis insights=0 atomics=0 specs=0
+2026-08-31,engine-b,Engine B synthesis,system,active,0,0,0,0.2,synthesis insights=0 atomics=0 specs=0
+2026-08-31,engine-a,Engine A hygiene,system,active,9,3,20,0,hygiene_scan
+2026-08-31,engine-b,Engine B synthesis,system,active,0,0,0,0.9,synthesis insights=5 atomics=2 specs=5

@@ -1,0 +1,196 @@
+{
+  "researchId": "38b9084b",
+  "baseQuery": "extreme loneliness and longing",
+  "oneShotQueries": [
+    "extreme loneliness and longing",
+    "extreme loneliness and longing lived experience personal story raw confessional",
+    "extreme loneliness and longing history archive rare forgotten vintage obscure abandoned",
+    "extreme loneliness and longing tools programs software templates resources open source",
+    "extreme loneliness and longing media assets images audio video archive",
+    "extreme loneliness and longing theory concept framework model rare idea",
+    "extreme loneliness and longing criticism counter perspective deconstruction",
+    "extreme loneliness and longing step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-08-31T19:59:57.844Z",
+  "summary": "SPECTRUM for 'extreme loneliness and longing' → 13 assets across 6 domains (rare:7 media:0 tools:5 feeds:0 pages:1) Top 0.75 archiveQueries:2",
+  "claims": [
+    {
+      "claim": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice Many years ago, whe",
+      "source": "https://fierceembodiment.com/longing/",
+      "assetId": "c4b2723f6140",
+      "category": "rare"
+    },
+    {
+      "claim": "I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings",
+      "source": "https://fierceembodiment.com/longing/",
+      "assetId": "c4b2723f6140",
+      "category": "rare"
+    },
+    {
+      "claim": "--> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pain of Being Human Nos",
+      "source": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "assetId": "e264ec1789c6",
+      "category": "rare"
+    },
+    {
+      "claim": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care",
+      "source": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "assetId": "4c2c669f2b88",
+      "category": "rare"
+    },
+    {
+      "claim": "Complicated feelings of guilt, loneliness and longing",
+      "source": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "assetId": "5155ba457099",
+      "category": "tool"
+    },
+    {
+      "claim": "| Raw Confessions Raw Confessions Log In Sign Up Complicated feelings of guilt, loneliness and longing",
+      "source": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "assetId": "5155ba457099",
+      "category": "tool"
+    }
+  ],
+  "patterns": [
+    "example.com",
+    "fierceembodiment.com",
+    "web.archive.org",
+    "confessions.peonymagazine.com",
+    "www.rawconfessions.com",
+    "www.verywellmind.com"
+  ],
+  "counterpoints": [
+    {
+      "title": "Loneliness and longing - Fierce Embodiment",
+      "source": "https://fierceembodiment.com/longing/",
+      "reason": "rare",
+      "category": "rare"
+    },
+    {
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "source": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "reason": "rare",
+      "category": "rare"
+    },
+    {
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "source": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "reason": "rare",
+      "category": "rare"
+    }
+  ],
+  "gaps": [
+    "No media assets harvested — try idea with visual component or increase maxMedia"
+  ],
+  "nextQueries": [
+    "extreme loneliness and longing case study deep dive",
+    "extreme loneliness and longing forgotten rare archive",
+    "extreme loneliness and longing tools comparison 2024 2025",
+    "extreme loneliness and longing media collection"
+  ],
+  "byCategory": {
+    "rare": 7,
+    "media": 0,
+    "tools": 5,
+    "feeds": 0,
+    "pages": 1
+  },
+  "topAssets": [
+    {
+      "title": "[TOOL] extreme loneliness and longing tools software — Narcissism as Performance",
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software",
+      "score": 0.75,
+      "rights": "REFERENCE_ONLY",
+      "category": "tool",
+      "localPath": null
+    },
+    {
+      "title": "[TOOL] extreme loneliness and longing github open source — Narcissism as Perform",
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source",
+      "score": 0.75,
+      "rights": "REFERENCE_ONLY",
+      "category": "tool",
+      "localPath": null
+    },
+    {
+      "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism a",
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
+      "score": 0.75,
+      "rights": "REFERENCE_ONLY",
+      "category": "tool",
+      "localPath": null
+    },
+    {
+      "title": "Loneliness and longing - Fierce Embodiment",
+      "url": "https://fierceembodiment.com/longing/",
+      "score": 0.63,
+      "rights": "REFERENCE_ONLY",
+      "category": "rare",
+      "localPath": "04 Atlas & Meta/Logs/research/extreme-loneliness-and-longing_38b9084b/assets/pages/c4b2723f6140_longing.html"
+    },
+    {
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movi",
+      "url": "http://web.archive.org/web/20260831050118/https://archive.org/",
+      "score": 0.62,
+      "rights": "REFERENCE_ONLY",
+      "category": "archive",
+      "localPath": null
+    },
+    {
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movi",
+      "url": "http://web.archive.org/web/20260831052005/https://archive.org/search",
+      "score": 0.62,
+      "rights": "REFERENCE_ONLY",
+      "category": "archive",
+      "localPath": null
+    }
+  ],
+  "mediaAssets": [],
+  "toolAssets": [
+    {
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software",
+      "title": "[TOOL] extreme loneliness and longing tools software — Narcissism as Performance — Exam"
+    },
+    {
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source",
+      "title": "[TOOL] extreme loneliness and longing github open source — Narcissism as Performance — "
+    },
+    {
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
+      "title": "[TOOL] extreme loneliness and longing template resources download — Narcissism as Perfo"
+    },
+    {
+      "url": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "title": "Complicated feelings of guilt, loneliness and longing. - Raw Confessions"
+    },
+    {
+      "url": "https://www.verywellmind.com/understanding-chronic-loneliness-8705582",
+      "title": "Understanding Chronic Loneliness - Verywell Mind"
+    }
+  ],
+  "rareAssets": [
+    {
+      "url": "https://fierceembodiment.com/longing/",
+      "title": "Loneliness and longing - Fierce Embodiment",
+      "archiveUrl": null
+    },
+    {
+      "url": "http://web.archive.org/web/20260831050118/https://archive.org/",
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ..."
+    },
+    {
+      "url": "http://web.archive.org/web/20260831052005/https://archive.org/search",
+      "title": "[ARCHIVE] Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ..."
+    },
+    {
+      "url": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "archiveUrl": null
+    },
+    {
+      "url": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "archiveUrl": null
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "researchId": "4716d9c8",
+  "query": "ONE-SHOT SPECTRUM: narcissism as performance | narcissism as performance lived experience personal story raw confessional | narcissism as performance history archive rare forgotten vintage obscure abandoned | narcissism as performance tools programs software templates resources open source | narcissism as performance media assets images audio video archive | narcissism as performance theory concept framework model rare idea | narcissism as performance criticism counter perspective deconstruction | narcissism as performance step by step guide framework how to system",
+  "idea": "narcissism as performance",
+  "slug": "narcissism-as-performance",
+  "createdAt": "2026-08-31T19:42:26.967Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180
+  },
+  "counts": {
+    "sourcesSearched": 6,
+    "pagesFetched": 6,
+    "domains": 1,
+    "archiveQueries": 3,
+    "totalAssets": 9,
+    "uniqueAssets": 9,
+    "byCategory": {
+      "rare": 6,
+      "media": 0,
+      "tools": 3,
+      "feeds": 0,
+      "pages": 0
+    },
+    "media": 0,
+    "tools": 3,
+    "rare": 6
+  },
+  "ranked": [],
+  "referenceCandidates": [
+    {
+      "assetId": "2fe183f149fe",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20software",
+      "title": "[TOOL] narcissism as performance tools software — Narcissism as Performance — Example A",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "31b620fd167e",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20github%20open%20source",
+      "title": "[TOOL] narcissism as performance github open source — Narcissism as Performance — Examp",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "b37e564d86cd",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20template%20resources%20download",
+      "title": "[TOOL] narcissism as performance template resources download — Narcissism as Performanc",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "d0d27eeb1010",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20lived%20experience%20personal%20story%20raw%20confessional",
+      "title": "narcissism as performance lived experience personal story raw confessional — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20lived%20experience%20personal%20story%20raw%20confessional\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "c5045964370f",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20history%20archive%20rare%20forgotten%20vintage%20obscure%20abandoned",
+      "title": "narcissism as performance history archive rare forgotten vintage obscure abandoned — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20history%20archive%20rare%20forgotten%20vintage%20obscure%20abandoned\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "8bcff587ec89",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20programs%20software%20templates%20resources%20open%20source",
+      "title": "narcissism as performance tools programs software templates resources open source — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20programs%20software%20templates%20resources%20open%20source\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "fb8cc3c0f70c",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20media%20assets%20images%20audio%20video%20archive",
+      "title": "narcissism as performance media assets images audio video archive — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "needs_render: HTML-as-image, use Playwright screenshot"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20media%20assets%20images%20audio%20video%20archive\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": true
+    },
+    {
+      "assetId": "b9477cfe9b2c",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20theory%20concept%20framework%20model%20rare%20idea",
+      "title": "narcissism as performance theory concept framework model rare idea — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20theory%20concept%20framework%20model%20rare%20idea\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "14d3109dfdb3",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance",
+      "title": "narcissism as performance — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.5800000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    }
+  ],
+  "all_assets": [
+    {
+      "assetId": "2fe183f149fe",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20software",
+      "title": "[TOOL] narcissism as performance tools software — Narcissism as Performance — Example A",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "31b620fd167e",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20github%20open%20source",
+      "title": "[TOOL] narcissism as performance github open source — Narcissism as Performance — Examp",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "b37e564d86cd",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20template%20resources%20download",
+      "title": "[TOOL] narcissism as performance template resources download — Narcissism as Performanc",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.75,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "tool discovery",
+        "score 0.75"
+      ],
+      "contentPreview": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "tool"
+    },
+    {
+      "assetId": "d0d27eeb1010",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20lived%20experience%20personal%20story%20raw%20confessional",
+      "title": "narcissism as performance lived experience personal story raw confessional — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20lived%20experience%20personal%20story%20raw%20confessional\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "c5045964370f",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20history%20archive%20rare%20forgotten%20vintage%20obscure%20abandoned",
+      "title": "narcissism as performance history archive rare forgotten vintage obscure abandoned — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20history%20archive%20rare%20forgotten%20vintage%20obscure%20abandoned\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "8bcff587ec89",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20programs%20software%20templates%20resources%20open%20source",
+      "title": "narcissism as performance tools programs software templates resources open source — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20programs%20software%20templates%20resources%20open%20source\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "fb8cc3c0f70c",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20media%20assets%20images%20audio%20video%20archive",
+      "title": "narcissism as performance media assets images audio video archive — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "needs_render: HTML-as-image, use Playwright screenshot"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20media%20assets%20images%20audio%20video%20archive\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": true
+    },
+    {
+      "assetId": "b9477cfe9b2c",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20theory%20concept%20framework%20model%20rare%20idea",
+      "title": "narcissism as performance theory concept framework model rare idea — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.65,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance%20theory%20concept%20framework%20model%20rare%20idea\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    },
+    {
+      "assetId": "14d3109dfdb3",
+      "sourceUrl": "https://example.com/narcissism-performance?q=narcissism%20as%20performance",
+      "title": "narcissism as performance — Narcissism as Performance — Example Archive",
+      "snippet": "Example demo for narcissism manifesto — performance, audience capture, and validation loops.",
+      "domain": "example.com",
+      "score": 0.5800000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence",
+        "rare term boost"
+      ],
+      "contentPreview": "# Demo for https://example.com/narcissism-performance?q=narcissism%20as%20performance\nNarcissism as performance and audience capture. Validation loops, mirroring, and the fragmented self. Early web archival references.\nLicense: CC BY 4.0\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": false
+    }
+  ],
+  "one_shot_queries": [
+    "narcissism as performance",
+    "narcissism as performance lived experience personal story raw confessional",
+    "narcissism as performance history archive rare forgotten vintage obscure abandoned",
+    "narcissism as performance tools programs software templates resources open source",
+    "narcissism as performance media assets images audio video archive",
+    "narcissism as performance theory concept framework model rare idea",
+    "narcissism as performance criticism counter perspective deconstruction",
+    "narcissism as performance step by step guide framework how to system"
+  ]
+}

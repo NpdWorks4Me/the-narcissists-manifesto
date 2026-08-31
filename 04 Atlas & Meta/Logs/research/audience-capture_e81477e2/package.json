@@ -1,0 +1,124 @@
+{
+  "researchId": "e81477e2",
+  "query": "ONE-SHOT: audience capture | audience capture lived experience personal story | audience capture history research archive | audience capture tools templates resources | audience capture criticism counter perspective | audience capture step by step guide framework",
+  "idea": "audience capture",
+  "slug": "audience-capture",
+  "createdAt": "2026-08-31T19:28:55.903Z",
+  "budgets": {
+    "maxPages": 12,
+    "maxDomains": 20,
+    "maxAssets": 50,
+    "maxDownloads": 30,
+    "maxRuntimeSeconds": 120
+  },
+  "counts": {
+    "sourcesSearched": 3,
+    "pagesFetched": 3,
+    "domains": 3,
+    "totalAssets": 3,
+    "uniqueAssets": 3
+  },
+  "ranked": [],
+  "referenceCandidates": [
+    {
+      "assetId": "174f65e647d2",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Audience_Capture",
+      "title": "Audience capture - Wikipedia",
+      "snippet": "Read our handpicked list of the 13 best",
+      "domain": "en.wikipedia.org",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Audience capture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents Audience capture 1 language עברית Edit links Article Talk English Read Edit View history Tools Tools move to sidebar hide Actions Read Edit View history General What links here Related changes Upload file Permanent link Page information Cite this page Get shortened URL Switch to legacy parser Print/export Download as PDF Printable version In other pr",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "141fada59f5e",
+      "sourceUrl": "https://grokipedia.com/page/audience_capture",
+      "title": "Audience capture — Grokipedia",
+      "snippet": "Meta is the king of",
+      "domain": "grokipedia.com",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Audience capture — Grokipedia Search ⌘K Suggest Edit Sign in Sign in Definition and Core Concepts Definition Distinctions from Related Phenomena Theoretical Foundations Historical Origins and Evolution Emergence of the Term Pre-Digital Precursors Rise in the Social Media Era Mechanisms Driving Audience Capture Psychological Factors Economic and Platform Incentives Feedback Loops and Algorithmic Amplification Notable Examples Influencer and YouTube Cases Podcasting and Broadcasting Instances Intellectual and Academic Examples Criticisms, Debates, and Counterarguments Arguments for Inevitability Critiques of Overemphasis on Capture Political Asymmetries in Capture Societal and Cultural Impacts Effects on Public Discourse and Polarization Implications for Media Objectivity and Bias Long-Term ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "58fe6548a9fa",
+      "sourceUrl": "https://kleinkleinklein.com/audience-capture",
+      "title": "AUDIENCE CAPTURE | Understand and Resist Audience Influence — MATT KLEIN",
+      "snippet": "Resisting",
+      "domain": "kleinkleinklein.com",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "AUDIENCE CAPTURE | Understand and Resist Audience Influence &mdash; MATT KLEIN 0 Skip to Content MATT KLEIN ZINE SPEAKING PUBLICATIONS ADVISORY SEMINARS CONTACT Open Menu Close Menu MATT KLEIN ZINE SPEAKING PUBLICATIONS ADVISORY SEMINARS CONTACT Open Menu Close Menu ZINE SPEAKING PUBLICATIONS ADVISORY SEMINARS CONTACT AUDIENCE CAPTURE AUDIENCE CAPTURE AUDIENCE CAPTURE Audience Capture is a limited printed zine exploring the dangerous, hypnotizing dynamics of online audiences and platform metrics on modern creators. Organized by several chapters, Audience Capture analyzes the underlying social theory driving the phenomenon, the extremism it takes on, personal accounts, and conclusively, strategies to resist the pull. Sold Out! Read a Preview Matt Klein has done what most forecast and insigh",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    }
+  ],
+  "all_assets": [
+    {
+      "assetId": "174f65e647d2",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Audience_Capture",
+      "title": "Audience capture - Wikipedia",
+      "snippet": "Read our handpicked list of the 13 best",
+      "domain": "en.wikipedia.org",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Audience capture - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Contribute Help Learn to edit Community portal Recent changes Upload file Special pages Search Search Appearance Donate Create account Log in Personal tools Donate Create account Log in Contents move to sidebar hide (Top) 1 See also 2 References Toggle the table of contents Audience capture 1 language עברית Edit links Article Talk English Read Edit View history Tools Tools move to sidebar hide Actions Read Edit View history General What links here Related changes Upload file Permanent link Page information Cite this page Get shortened URL Switch to legacy parser Print/export Download as PDF Printable version In other pr",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "141fada59f5e",
+      "sourceUrl": "https://grokipedia.com/page/audience_capture",
+      "title": "Audience capture — Grokipedia",
+      "snippet": "Meta is the king of",
+      "domain": "grokipedia.com",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Audience capture — Grokipedia Search ⌘K Suggest Edit Sign in Sign in Definition and Core Concepts Definition Distinctions from Related Phenomena Theoretical Foundations Historical Origins and Evolution Emergence of the Term Pre-Digital Precursors Rise in the Social Media Era Mechanisms Driving Audience Capture Psychological Factors Economic and Platform Incentives Feedback Loops and Algorithmic Amplification Notable Examples Influencer and YouTube Cases Podcasting and Broadcasting Instances Intellectual and Academic Examples Criticisms, Debates, and Counterarguments Arguments for Inevitability Critiques of Overemphasis on Capture Political Asymmetries in Capture Societal and Cultural Impacts Effects on Public Discourse and Polarization Implications for Media Objectivity and Bias Long-Term ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "58fe6548a9fa",
+      "sourceUrl": "https://kleinkleinklein.com/audience-capture",
+      "title": "AUDIENCE CAPTURE | Understand and Resist Audience Influence — MATT KLEIN",
+      "snippet": "Resisting",
+      "domain": "kleinkleinklein.com",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "AUDIENCE CAPTURE | Understand and Resist Audience Influence &mdash; MATT KLEIN 0 Skip to Content MATT KLEIN ZINE SPEAKING PUBLICATIONS ADVISORY SEMINARS CONTACT Open Menu Close Menu MATT KLEIN ZINE SPEAKING PUBLICATIONS ADVISORY SEMINARS CONTACT Open Menu Close Menu ZINE SPEAKING PUBLICATIONS ADVISORY SEMINARS CONTACT AUDIENCE CAPTURE AUDIENCE CAPTURE AUDIENCE CAPTURE Audience Capture is a limited printed zine exploring the dangerous, hypnotizing dynamics of online audiences and platform metrics on modern creators. Organized by several chapters, Audience Capture analyzes the underlying social theory driving the phenomenon, the extremism it takes on, personal accounts, and conclusively, strategies to resist the pull. Sold Out! Read a Preview Matt Klein has done what most forecast and insigh",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    }
+  ],
+  "one_shot_queries": [
+    "audience capture",
+    "audience capture lived experience personal story",
+    "audience capture history research archive",
+    "audience capture tools templates resources",
+    "audience capture criticism counter perspective",
+    "audience capture step by step guide framework"
+  ]
+}

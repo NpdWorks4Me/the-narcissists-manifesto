@@ -1,0 +1,154 @@
+{
+  "researchId": "cf201b9b",
+  "query": "ONE-SHOT: narcissism as performance | narcissism as performance lived experience personal story | narcissism as performance history research archive | narcissism as performance tools templates resources | narcissism as performance criticism counter perspective | narcissism as performance step by step guide framework",
+  "idea": "narcissism as performance",
+  "slug": "narcissism-as-performance",
+  "createdAt": "2026-08-31T19:23:53.513Z",
+  "budgets": {
+    "maxPages": 12,
+    "maxDomains": 20,
+    "maxAssets": 50,
+    "maxDownloads": 30,
+    "maxRuntimeSeconds": 120
+  },
+  "counts": {
+    "sourcesSearched": 4,
+    "pagesFetched": 4,
+    "domains": 4,
+    "totalAssets": 4,
+    "uniqueAssets": 4
+  },
+  "ranked": [],
+  "referenceCandidates": [
+    {
+      "assetId": "d85c92eb2dd4",
+      "sourceUrl": "https://www.itsrachaelrose.com/post/the-characteristics-of-narcissistic-behaviour-a-lived-experience-observational-analysis",
+      "title": "The Characteristics of Narcissistic Behaviour: A Lived Experience ...",
+      "snippet": "Telling a",
+      "domain": "www.itsrachaelrose.com",
+      "score": 0.6675000000000001,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "--> The Characteristics of Narcissistic Behaviour: A Lived Experience &amp; Observational Analysis top of page RACHAEL ROSE Her Story The Wellness Collection Meet Me In...Retreats Workshops Community More Use tab to navigate through the menu items. All Posts Reflections Poetry Research &amp; Observations Proven Techniques Search The Characteristics of Narcissistic Behaviour: A Lived Experience &amp; Observational Analysis Rachael Rose Jan 14 7 min read Updated: Jan 15 Introduction Narcissistic behaviour is often discussed in clinical literature, but its real impact is most clearly felt in intimate and relational contexts. My understanding of Narcissistic traits has come from three primary sources: Personal experience growing up with a Father whose patterns aligned with Narcissistic behavio",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "1cf1ce266a66",
+      "sourceUrl": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full",
+      "title": "Can directing self-enhancement from social to performance ... - Frontiers",
+      "snippet": "Narcissists in",
+      "domain": "www.frontiersin.org",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Frontiers | Can directing self-enhancement from social to performance settings alleviate narcissistic personality disorder? Implications from narcissism-performance research Frontiers in Psychiatry About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers&#39; impact Our annual reports Thought leadership Researcher perspectives Publishing model How we publish Open access Quality and research integrity Peer review Technology and platforms Research Topics Publish your data with FAIR² Fee policy Services Societies National consortia Institutional partnerships Collaborators More from Frontiers Frontiers Forum Frontiers Planet Prize Press office Sustainability Career opportunities Contact us All journals All articles Submit manuscript Submit data Se",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "c3bda175793d",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11133368/",
+      "title": "Linking grandiose and vulnerable narcissism to managerial work ...",
+      "snippet": "Grandiose",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Linking grandiose and vulnerable narcissism to managerial work performance, through the lens of core personality traits and social desirability - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List Use",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "42a3a5223b7a",
+      "sourceUrl": "https://link.springer.com/article/10.1365/s42681-020-00015-0",
+      "title": "Grandiose narcissism and performance in organizations ... - Springer",
+      "snippet": "Prior research has suggested that",
+      "domain": "link.springer.com",
+      "score": 0.5575000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Client Challenge JavaScript is disabled in your browser. Please enable JavaScript to proceed. A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    }
+  ],
+  "all_assets": [
+    {
+      "assetId": "d85c92eb2dd4",
+      "sourceUrl": "https://www.itsrachaelrose.com/post/the-characteristics-of-narcissistic-behaviour-a-lived-experience-observational-analysis",
+      "title": "The Characteristics of Narcissistic Behaviour: A Lived Experience ...",
+      "snippet": "Telling a",
+      "domain": "www.itsrachaelrose.com",
+      "score": 0.6675000000000001,
+      "relevanceScore": 1,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "--> The Characteristics of Narcissistic Behaviour: A Lived Experience &amp; Observational Analysis top of page RACHAEL ROSE Her Story The Wellness Collection Meet Me In...Retreats Workshops Community More Use tab to navigate through the menu items. All Posts Reflections Poetry Research &amp; Observations Proven Techniques Search The Characteristics of Narcissistic Behaviour: A Lived Experience &amp; Observational Analysis Rachael Rose Jan 14 7 min read Updated: Jan 15 Introduction Narcissistic behaviour is often discussed in clinical literature, but its real impact is most clearly felt in intimate and relational contexts. My understanding of Narcissistic traits has come from three primary sources: Personal experience growing up with a Father whose patterns aligned with Narcissistic behavio",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "1cf1ce266a66",
+      "sourceUrl": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full",
+      "title": "Can directing self-enhancement from social to performance ... - Frontiers",
+      "snippet": "Narcissists in",
+      "domain": "www.frontiersin.org",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Frontiers | Can directing self-enhancement from social to performance settings alleviate narcissistic personality disorder? Implications from narcissism-performance research Frontiers in Psychiatry About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers&#39; impact Our annual reports Thought leadership Researcher perspectives Publishing model How we publish Open access Quality and research integrity Peer review Technology and platforms Research Topics Publish your data with FAIR² Fee policy Services Societies National consortia Institutional partnerships Collaborators More from Frontiers Frontiers Forum Frontiers Planet Prize Press office Sustainability Career opportunities Contact us All journals All articles Submit manuscript Submit data Se",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "c3bda175793d",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11133368/",
+      "title": "Linking grandiose and vulnerable narcissism to managerial work ...",
+      "snippet": "Grandiose",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "score": 0.5875,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Linking grandiose and vulnerable narcissism to managerial work performance, through the lens of core personality traits and social desirability - PMC Skip to main content An official website of the United States government Here's how you know Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. Search Log in Dashboard Publications Account settings Log out Search… Search NCBI Primary site navigation Search Logged in as: Dashboard Publications Account settings Log in Search PMC Full-Text Archive Search in PMC Journal List Use",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    },
+    {
+      "assetId": "42a3a5223b7a",
+      "sourceUrl": "https://link.springer.com/article/10.1365/s42681-020-00015-0",
+      "title": "Grandiose narcissism and performance in organizations ... - Springer",
+      "snippet": "Prior research has suggested that",
+      "domain": "link.springer.com",
+      "score": 0.5575000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Client Challenge JavaScript is disabled in your browser. Please enable JavaScript to proceed. A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2
+    }
+  ],
+  "one_shot_queries": [
+    "narcissism as performance",
+    "narcissism as performance lived experience personal story",
+    "narcissism as performance history research archive",
+    "narcissism as performance tools templates resources",
+    "narcissism as performance criticism counter perspective",
+    "narcissism as performance step by step guide framework"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "the-narcissists-manifesto",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Autonomous Obsidian Vault Architect & Content Intelligence Agent — backend",
+  "scripts": {
+    "vault:setup": "tsx src/vault/provision.ts",
+    "vault:check": "tsx src/vault/health.ts",
+    "vault:engine-a": "tsx src/vault/vault-engine-a.ts",
+    "vault:engine-b": "tsx src/vault/vault-engine-b.ts",
+    "vault:daemon": "tsx src/vault/vaultd.ts",
+    "vault:report": "tsx src/vault/report.ts",
+    "vault:setup-plugins": "tsx scripts/setup-plugins.ts",
+    "research": "tsx src/research/cli.ts",
+    "research:watch": "tsx src/research/watch.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "chokidar": "^4.0.1",
+    "compromise": "^14.14.4",
+    "date-fns": "^4.1.0",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "vitest": "^3.0.0",
+    "typescript": "^5.8.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.0.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

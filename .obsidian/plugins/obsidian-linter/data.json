@@ -1,0 +1,16 @@
+{
+  "ruleConfigs": {
+    "yaml-timestamp": {
+      "enabled": false
+    },
+    "compact-yaml": {
+      "enabled": true
+    },
+    "escape-yaml-special-characters": {
+      "enabled": true
+    }
+  },
+  "settings": {
+    "ruleConfigs": {}
+  }
+}
