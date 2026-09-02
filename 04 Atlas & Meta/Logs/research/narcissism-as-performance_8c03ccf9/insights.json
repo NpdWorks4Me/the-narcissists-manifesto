@@ -1,0 +1,96 @@
+{
+  "researchId": "8c03ccf9",
+  "baseQuery": "narcissism as performance",
+  "oneShotQueries": [
+    "narcissism as performance",
+    "narcissism as performance lived experience personal story raw confessional",
+    "narcissism as performance history archive rare forgotten vintage obscure abandoned",
+    "narcissism as performance tools programs software templates resources open source",
+    "narcissism as performance media assets images audio video archive",
+    "narcissism as performance theory concept framework model rare idea",
+    "narcissism as performance criticism counter perspective deconstruction",
+    "narcissism as performance step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-09-01T00:54:11.462Z",
+  "summary": "25-min SPECTRUM for 'narcissism as performance' → 45 usable+review assets (web:26 yt:25 board:2) across 14 domains transcripts:25 stories:1",
+  "claims": [
+    {
+      "claim": "History of narcissism - Wikipedia \n\n- \n\n\n\n- \n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n[Jump to content](https://en.wikipedia.org/wiki/History_of_narcissism#bodyContent)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "source": "https://en.wikipedia.org/wiki/History_of_narcissism",
+      "assetId": "86fa29b57de2",
+      "category": "rare"
+    }
+  ],
+  "patterns": [
+    "readingswithhope.com",
+    "en.wikipedia.org",
+    "www.scribd.com",
+    "github.com",
+    "sourceforge.net"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "narcissism as performance case study",
+    "narcissism as performance rare archive",
+    "narcissism as performance tools comparison"
+  ],
+  "byCategory": {
+    "rare": 5,
+    "media": 3,
+    "feed": 2,
+    "tool": 7,
+    "page": 2,
+    "transcript": 25,
+    "story": 1
+  },
+  "verificationSummary": {
+    "total": 52,
+    "usable": 1,
+    "needsReview": 45,
+    "reject": 7
+  },
+  "topAssets": [
+    {
+      "title": "Stories of Personal Transformation From Narcissists in Recovery",
+      "url": "https://readingswithhope.com/stories-of-personal-transformation-from-narcissists-in-recovery/",
+      "score": 0.56,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "History of narcissism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_narcissism",
+      "score": 0.56,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "History and Evolution of Narcissism | PDF | Narcissism | Self Esteem",
+      "url": "https://www.scribd.com/document/261236597/A-Brief-History-of-Narcissism",
+      "score": 0.54,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Readings With Hope",
+      "url": "https://readingswithhope.com/wp-content/uploads/2025/07/READINGS-WITH-HOPE.png",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Stories of Personal Transformation From Narcissists in Recovery",
+      "url": "https://readingswithhope.com/wp-content/uploads/2025/06/5-1-1000x1500.jpg",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] errorIcon.svg",
+      "url": "https://www.scribd.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    }
+  ]
+}

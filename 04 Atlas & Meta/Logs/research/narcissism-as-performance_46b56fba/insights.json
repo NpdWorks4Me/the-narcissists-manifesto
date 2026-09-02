@@ -1,0 +1,120 @@
+{
+  "researchId": "46b56fba",
+  "baseQuery": "narcissism as performance",
+  "oneShotQueries": [
+    "narcissism as performance",
+    "narcissism as performance lived experience personal story raw confessional",
+    "narcissism as performance history archive rare forgotten vintage obscure abandoned",
+    "narcissism as performance tools programs software templates resources open source",
+    "narcissism as performance media assets images audio video archive",
+    "narcissism as performance theory concept framework model rare idea",
+    "narcissism as performance criticism counter perspective deconstruction",
+    "narcissism as performance step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-09-01T01:01:39.515Z",
+  "summary": "10-min SPECTRUM (3m min) for 'narcissism as performance' → 44 usable+review assets (web:20 yt:25 board:6) across 13 domains transcripts:25 stories:5",
+  "claims": [
+    {
+      "claim": "https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/angel_small-24px.png",
+      "source": "https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/angel_small-24px.png",
+      "assetId": "98a99fc69907",
+      "category": "media"
+    },
+    {
+      "claim": "- \n\n\n- Self-realization of my possible narcissism | Raw Confessions \n\n- \n\n- \n\n\n# Self-realization of my possible narcissism\n\n\n\nMy wife have been arguing a lot lately and it's mostly about my behavior ",
+      "source": "https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/621349",
+      "assetId": "30635fe34c79",
+      "category": "tool"
+    },
+    {
+      "claim": "Frontiers | Can directing self-enhancement from social to performance settings alleviate narcissistic personality disorder",
+      "source": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full",
+      "assetId": "1cf1ce266a66",
+      "category": "tool"
+    },
+    {
+      "claim": "Implications from narcissism-performance research Frontiers in Psychiatry About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers&#39; impact Our annual",
+      "source": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full",
+      "assetId": "1cf1ce266a66",
+      "category": "tool"
+    },
+    {
+      "claim": "- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n\n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n- \n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n",
+      "source": "https://github.com/DominiqueMakowski/NarcissismShortScale",
+      "assetId": "7671c2e75d71",
+      "category": "tool"
+    }
+  ],
+  "patterns": [
+    "www.scribd.com",
+    "www.rawconfessions.com",
+    "archive.org",
+    "github.com",
+    "sourceforge.net",
+    "www.researchgate.net"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "narcissism as performance case study",
+    "narcissism as performance rare archive",
+    "narcissism as performance tools comparison"
+  ],
+  "byCategory": {
+    "rare": 4,
+    "media": 2,
+    "tool": 5,
+    "page": 3,
+    "transcript": 25,
+    "story": 5
+  },
+  "verificationSummary": {
+    "total": 50,
+    "usable": 0,
+    "needsReview": 44,
+    "reject": 6
+  },
+  "topAssets": [
+    {
+      "title": "History and Evolution of Narcissism | PDF | Narcissism | Self Esteem",
+      "url": "https://www.scribd.com/document/261236597/A-Brief-History-of-Narcissism",
+      "score": 0.54,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Site Logo",
+      "url": "https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/angel_small-24px.png",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Site Logo",
+      "url": "https://www.rawconfessions.com/devil_small-24px.png",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "Internet Archive: Digital Library of Free &amp; Borrowable Texts, Movies ...",
+      "url": "https://archive.org/",
+      "score": 0.5075,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "Self-realization of my possible narcissism - Raw Confessions",
+      "url": "https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/621349",
+      "score": 0.5325,
+      "category": "tool",
+      "usable": false
+    },
+    {
+      "title": "GitHub - jwaterslynch/ceo-promotional-style-toolkit: Open research ...",
+      "url": "https://github.com/jwaterslynch/ceo-promotional-style-toolkit",
+      "score": 0.49,
+      "category": "rare",
+      "usable": false
+    }
+  ]
+}

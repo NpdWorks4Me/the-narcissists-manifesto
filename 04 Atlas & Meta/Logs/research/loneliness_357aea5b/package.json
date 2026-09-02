@@ -1,0 +1,408 @@
+{
+  "researchId": "357aea5b",
+  "query": "25MIN SPECTRUM: loneliness | loneliness lived experience personal story raw confessional | loneliness history archive rare forgotten vintage obscure abandoned | loneliness tools programs software templates resources open source | loneliness media assets images audio video archive | loneliness theory concept framework model rare idea | loneliness criticism counter perspective deconstruction | loneliness step by step guide framework how to system",
+  "idea": "loneliness",
+  "slug": "loneliness",
+  "createdAt": "2026-08-31T21:16:51.939Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180,
+    "maxPlaylistVideos": 25,
+    "maxTranscripts": 20,
+    "maxBoardAssets": 12,
+    "youtubeTimeoutMs": 8000
+  },
+  "counts": {
+    "totalAssets": 5,
+    "byCategory": {
+      "rare": 1,
+      "tool": 2,
+      "story": 2
+    },
+    "verification": {
+      "total": 14,
+      "usable": 0,
+      "needsReview": 5,
+      "reject": 9
+    },
+    "youtube": 0,
+    "board": 3
+  },
+  "all_assets": [
+    {
+      "assetId": "e123fbe4e07f",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Loneliness",
+      "title": "Loneliness - Wikipedia",
+      "snippet": "Learn what",
+      "domain": "en.wikipedia.org",
+      "score": 0.5075,
+      "relevanceScore": 0.6499999999999999,
+      "evidence": [
+        "no license evidence",
+        "rare term boost",
+        "downloaded 759258 bytes to 04 Atlas & Meta/Logs/research/loneliness_8cd1eeee/assets/pages/e123fbe4e07f_Loneliness.html"
+      ],
+      "contentPreview": "Loneliness - Wikipedia \n\n- \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n[Jump to content](https://en.wikipedia.org/wiki/Loneliness#bodyContent)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Wikipedia, the free encyclopedia \n\n\n\n\nUnpleasant emotional response to social or physical isolation \n- \n- \n\n\n- \n\n\n![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Thoma_Loneliness.jpg/250px-Thoma_Loneliness.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail) Loneliness by [Hans Thoma](https://en.wikipedia.org/wiki/Hans_Thoma) ([National Museum in Warsaw](https://en.wikipedia.org/wiki/National_Museum_in_Warsaw)) \n\n- \n- \n- Part of [a series](https://en.wikipedia.org/wiki/Category:Emotions) on [Emotions](https://en.wikipedia.org/wiki/Emotion) ![](https:/",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "rare",
+      "archiveUrl": null,
+      "localPath": "04 Atlas & Meta/Logs/research/loneliness_8cd1eeee/assets/pages/e123fbe4e07f_Loneliness.html",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 759258,
+      "needsRender": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5475,
+        "reasons": [
+          "relevance 0.65",
+          "short 54 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "faec0c5a4745",
+      "sourceUrl": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it",
+      "title": "What is Causing Our Epidemic of Loneliness and How Can We Fix It?",
+      "snippet": "What does it feel like to be lonely? In the surgeon general&#x27;s advisory,",
+      "domain": "www.gse.harvard.edu",
+      "score": 0.42749999999999994,
+      "relevanceScore": 0.6499999999999999,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\nWhat is Causing Our Epidemic of Loneliness and How Can We Fix It? | Harvard Graduate School of Education \n\n\n- \n\n- \n\n- \n\n- \n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\t\n\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\n\t\n\n# What is Causing Our Epidemic of Loneliness and How Can We Fix It? \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nU.S. surgeon general Vivek Murthy placed a spotlight on America’s problem with loneliness when he declared the issue an epidemic in the spring of 2023. Murthy explained, in a [letter that introduced an urgent advisory](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf), that loneliness is far more than “just a bad feeling” and represents a major public health risk for both individuals and society. Murthy also pointed out that, although many people grew lonelier during ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "short 112 words < 120",
+          "needsReview 0.43"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "d19815585bbc",
+      "sourceUrl": "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/",
+      "title": "What is loneliness? | Tips for everyday living | Mind",
+      "snippet": "Mind explains what",
+      "domain": "www.mind.org.uk",
+      "score": 0.42749999999999994,
+      "relevanceScore": 0.6499999999999999,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-75CCMr2vZREanqfeU8Y1eP&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "short 38 words < 120",
+          "needsReview 0.43"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "board_loneliness",
+      "sourceUrl": "https://confessions.peonymagazine.com/tag/loneliness/",
+      "title": "Loneliness Confessions | Anonymous Stories About Loneliness",
+      "snippet": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nLoneliness Confessions | Anonymous Stories About Loneliness \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\r\n\r\n![](https://www.facebo",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0,
+      "relevanceScore": 0,
+      "evidence": [
+        "authenticity 0.25",
+        "wordCount 190",
+        "clean"
+      ],
+      "contentPreview": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nLoneliness Confessions | Anonymous Stories About Loneliness \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n![woodland clothing](https://imagedelivery.net/n-5SRUnr9eToR30Nvb62XA/43aa015d-fa37-4768-f403-b936b4b00100/w=1024) \n\n\n\n\n\n\n\n\n\n\n# \nTag: Loneliness \n\n\n\nAnonymous confessions about loneliness, isolation, emotional disconnection, and the search for meaningful connection.\n\n\n\n\n\n\n\n\n\r\n\r\n\t\n\nSorry, no confessions found for your query.\n\n\r\n\r\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\n© 2026 Peony Magazine. All rights reserved.\n\n\n\n\n\n\n\t\n\n\n\n\n\n\n\n\n\n\n",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "story",
+      "wordCount": 190,
+      "authenticity": 0.25263157894736843,
+      "isSpam": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 190",
+          "needsReview 0.00"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "board_agazinecom",
+      "sourceUrl": "https://confessions.peonymagazine.com/",
+      "title": "Anonymous Women&#x27;s Confessions | Confessions of the Female Mind",
+      "snippet": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nAnonymous Women&#039;s Confessions | Confessions of the Female Mind \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n- \n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0,
+      "relevanceScore": 0,
+      "evidence": [
+        "authenticity 0.59",
+        "wordCount 553",
+        "spam_flag"
+      ],
+      "contentPreview": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nAnonymous Women&#039;s Confessions | Confessions of the Female Mind \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n- \n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n![woodland clothing](https://imagedelivery.net/n-5SRUnr9eToR30Nvb62XA/43aa015d-fa37-4768-f403-b936b4b00100/w=1024) \n\n\n\n\n\n\n\n\n\n\n\n# CONFESSIONS \nof the FEMALE MIND \n\n![Anonymous Women's Confessions](https://peonymagazine.com/cdn-cgi/image/format=auto,quality=85,fit=scale-down/wp-content/uploads/2026/05/confession-divider.png)\n## THE SECRETS WE CARRY. THE TRUTHS WE HIDE.\n\n\n\nA private ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "story",
+      "wordCount": 553,
+      "authenticity": 0.5897830018083183,
+      "isSpam": true,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "usable": false
+    }
+  ],
+  "one_shot_queries": [
+    "loneliness",
+    "loneliness lived experience personal story raw confessional",
+    "loneliness history archive rare forgotten vintage obscure abandoned",
+    "loneliness tools programs software templates resources open source",
+    "loneliness media assets images audio video archive",
+    "loneliness theory concept framework model rare idea",
+    "loneliness criticism counter perspective deconstruction",
+    "loneliness step by step guide framework how to system"
+  ],
+  "verification": [
+    {
+      "assetId": "a688f118b803",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "9f5a9dae8c68",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "c55c33f9010c",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "fs_638154",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.68,
+        "reasons": [
+          "relevance 0.75",
+          "short 1 words < 120",
+          "reject 0.68"
+        ]
+      }
+    },
+    {
+      "assetId": "fs_113076",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.68,
+        "reasons": [
+          "relevance 0.75",
+          "short 1 words < 120",
+          "reject 0.68"
+        ]
+      }
+    },
+    {
+      "assetId": "fs_685320",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.68,
+        "reasons": [
+          "relevance 0.75",
+          "short 1 words < 120",
+          "reject 0.68"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_35303674",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_5479425",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_31183417",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "e123fbe4e07f",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5475,
+        "reasons": [
+          "relevance 0.65",
+          "short 54 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "faec0c5a4745",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "short 112 words < 120",
+          "needsReview 0.43"
+        ]
+      }
+    },
+    {
+      "assetId": "d19815585bbc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "short 38 words < 120",
+          "needsReview 0.43"
+        ]
+      }
+    },
+    {
+      "assetId": "board_loneliness",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 190",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_agazinecom",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    }
+  ]
+}

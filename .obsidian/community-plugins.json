@@ -3,6 +3,9 @@
   "templater-obsidian",
   "obsidian-tasks",
   "obsidian-tracker",
+  "obsidian-kanban",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot",
+  "obsidian-meta-bind-plugin"
 ]

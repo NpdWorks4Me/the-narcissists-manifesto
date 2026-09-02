@@ -1,0 +1,1184 @@
+{
+  "verification": [
+    {
+      "assetId": "05d620b272d7",
+      "url": "https://journals.sagepub.com/doi/10.1177/23743735211060812",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 2 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_32762789",
+      "url": "https://images.pexels.com/photos/32762789/pexels-photo-32762789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_7231792",
+      "url": "https://images.pexels.com/photos/7231792/pexels-photo-7231792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_3692595",
+      "url": "https://images.pexels.com/photos/3692595/pexels-photo-3692595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "909d23a82dd8",
+      "url": "https://neurolaunch.com/limorant-behavior/",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.67,
+        "reasons": [
+          "relevance 1.00",
+          "short 100 words < 120",
+          "usable 0.67 >= 0.58"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/pages/909d23a82dd8_limorant-behavior.html",
+      "verified": true
+    },
+    {
+      "assetId": "ab6f6cbff0a6",
+      "url": "https://traumaorhealing.substack.com/p/emotional-obsession-or-true-love",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.67,
+        "reasons": [
+          "relevance 1.00",
+          "short 68 words < 120",
+          "needsReview 0.67"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/pages/ab6f6cbff0a6_emotional-obsession-.html",
+      "verified": true
+    },
+    {
+      "assetId": "82f42a80c7dd",
+      "url": "https://www.psychologytoday.com/us/blog/the-neurodivergent-therapist/202501/limerence-attachment-styles-and-recovery",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6525,
+        "reasons": [
+          "relevance 0.95",
+          "short 58 words < 120",
+          "needsReview 0.65"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "30bad1389808",
+      "url": "http://web.archive.org/web/20260502070846/https://link.springer.com/article/10.1007/s11896-024-09674-x",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/archives/30bad1389808_s11896-024-09674-x.html",
+      "verified": true
+    },
+    {
+      "assetId": "2f5a5deba8ae",
+      "url": "http://web.archive.org/web/20251015050652/https://neurolaunch.com/limerent-object-psychology/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "2895079cdf68",
+      "url": "https://theazb.com/limerence-gains-attention-as-social-media-fuels-obsessive-romantic-fixation/",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6349999999999999,
+        "reasons": [
+          "relevance 0.90",
+          "short 111 words < 120",
+          "usable 0.63 >= 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "7404ddff6e3c",
+      "url": "https://neurolaunch.com/limerent-object-psychology/",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6349999999999999,
+        "reasons": [
+          "relevance 0.90",
+          "short 95 words < 120",
+          "usable 0.63 >= 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "02272b159da1",
+      "url": "https://neurolaunch.com/wp-content/uploads/2026/07/logo-light@2x.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/02272b159da1_logo-light_2x.png.png",
+      "verified": true
+    },
+    {
+      "assetId": "44ea603f6644",
+      "url": "https://neurolaunch.com/wp-content/uploads/2024/07/limerence-ocd-understanding-the-overlap-between-obsessive-love-and-obsessive-compulsive-disorder-1024x701.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/44ea603f6644_limerence-ocd-unders.png",
+      "verified": true
+    },
+    {
+      "assetId": "48347ea1d0b3",
+      "url": "https://neurolaunch.com/wp-content/uploads/2024/09/limerent-behavior-understanding-obsessive-romantic-attraction-1024x585.webp",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/48347ea1d0b3_limerent-behavior-un.webp",
+      "verified": true
+    },
+    {
+      "assetId": "72561c7f8f8b",
+      "url": "https://www.simplypsychology.com/icons/brain.svg?dpl=dpl_HPLb2LBL6RninE9kJfocUgtrohvF",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/72561c7f8f8b_brain.svg.svg",
+      "verified": true
+    },
+    {
+      "assetId": "56a8877dbeb2",
+      "url": "https://www.simplypsychology.com/icons/search.svg?dpl=dpl_HPLb2LBL6RninE9kJfocUgtrohvF",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/56a8877dbeb2_search.svg.svg",
+      "verified": true
+    },
+    {
+      "assetId": "40c39a25c824",
+      "url": "https://www.simplypsychology.com/icons/menu.svg?dpl=dpl_HPLb2LBL6RninE9kJfocUgtrohvF",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/40c39a25c824_menu.svg.svg",
+      "verified": true
+    },
+    {
+      "assetId": "2c7a630bbe2d",
+      "url": "https://substackcdn.com/image/fetch/$s_!tALN!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f37a586-bec0-4f06-81da-f66e5a861e9a_200x200.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/2c7a630bbe2d_https_3A_2F_2Fsubsta.png",
+      "verified": true
+    },
+    {
+      "assetId": "646bcf22b456",
+      "url": "https://substackcdn.com/image/fetch/$s_!tALN!,w_36,h_36,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f37a586-bec0-4f06-81da-f66e5a861e9a_200x200.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/646bcf22b456_https_3A_2F_2Fsubsta.png",
+      "verified": true
+    },
+    {
+      "assetId": "50a5f0b46e49",
+      "url": "https://substackcdn.com/image/fetch/$s_!77NT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96764b12-bdb5-4638-804f-104b570b5607_875x1312.jpeg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/50a5f0b46e49_https_3A_2F_2Fsubsta.jpeg",
+      "verified": true
+    },
+    {
+      "assetId": "f2e8ce62839a",
+      "url": "https://effn3gv3wph.exactdn.com/wp-content/uploads/2022/05/logo-2.png?strip=all",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/f2e8ce62839a_logo-2.png.png",
+      "verified": true
+    },
+    {
+      "assetId": "02bc8b62f025",
+      "url": "https://effn3gv3wph.exactdn.com/wp-content/uploads/2024/04/medical-team.png?strip=all&fit=512%2C512",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/02bc8b62f025_medical-team.png.png",
+      "verified": true
+    },
+    {
+      "assetId": "adad241a5ff0",
+      "url": "https://link.springer.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_42b9ef49/assets/media/adad241a5ff0_errorIcon.svg.svg",
+      "verified": true
+    },
+    {
+      "assetId": "0da8341cf89f",
+      "url": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-06/2026-07.png.jpg?itok=DlKFbn6e",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "921d4d136532",
+      "url": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-04/2026-05.png.jpg?itok=0bF8jd5M",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "e816edf44f53",
+      "url": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-03/psychology-today-magazine-2026-03.jpg?itok=6L88mQwU",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "1b7fd9e556df",
+      "url": "https://theazb.com/wp-content/uploads/2026/08/cropped-Screenshot-2026-08-08-054927-1-1-1-1-1-1-2.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "28f2f156d567",
+      "url": "https://neurolaunch.com/wp-content/uploads/2024/09/limerent-object-psychology-unveiling-the-science-of-intense-romantic-attraction-1024x585.webp",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "66983e030c7a",
+      "url": "https://traumaorhealing.substack.com/p/8-quiet-habits-that-make-people-like",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "d2086c19eaf7",
+      "url": "https://traumaorhealing.substack.com/p/12-hidden-trauma-responses-you-think",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "84d203f99616",
+      "url": "https://montarebehavioralhealth.com/blog/quiet-bpd/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "d8a7b1756b30",
+      "url": "https://montarebehavioralhealth.com/blog/bpd-favorite-person/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "8660cb730cef",
+      "url": "https://neurolaunch.com/limerence-ocd/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "relevance 1.00",
+          "short 96 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "9dd83a3a387e",
+      "url": "https://link.springer.com/article/10.1007/s11896-024-09674-x",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5275,
+        "reasons": [
+          "relevance 0.65",
+          "short 51 words < 120",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "9527125c03f5",
+      "url": "https://www.simplypsychology.com/articles/limerence-obsessive-infatuation",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5149999999999999,
+        "reasons": [
+          "relevance 0.90",
+          "short 86 words < 120",
+          "needsReview 0.51"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "b91171755d6e",
+      "url": "https://montarebehavioralhealth.com/blog/limerence/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5149999999999999,
+        "reasons": [
+          "relevance 0.90",
+          "short 49 words < 120",
+          "needsReview 0.51"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "bafefe8baa96",
+      "url": "https://www.ocdontario.com/ocd-and-anxiety-clinic-of-ontario-blog/clinical-observations-on-limerence-new-subtypes-and-treatment-considerations",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5,
+        "reasons": [
+          "relevance 0.70",
+          "short 9 words < 120",
+          "needsReview 0.50"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "0b6514bb6c9f",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0001691826008449",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.44749999999999995,
+        "reasons": [
+          "relevance 0.65",
+          "short 41 words < 120",
+          "needsReview 0.45"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "fb56fc719ce2",
+      "url": "https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.3375,
+        "reasons": [
+          "low relevance 0.45 < 0.52",
+          "short 18 words < 120",
+          "low technical 0.34",
+          "needsReview 0.34"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "yt_qATGve1_k6M",
+      "url": "https://www.youtube.com/watch?v=qATGve1_k6M",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 0.78",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_qATGve1_k6M.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_q1kj8o1CC-U",
+      "url": "https://www.youtube.com/watch?v=q1kj8o1CC-U",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_q1kj8o1CC-U.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_u6IkFOoZNm0",
+      "url": "https://www.youtube.com/watch?v=u6IkFOoZNm0",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_u6IkFOoZNm0.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_zjJY-d3WMNI",
+      "url": "https://www.youtube.com/watch?v=zjJY-d3WMNI",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_zjJY-d3WMNI.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_Enjcx2uSwho",
+      "url": "https://www.youtube.com/watch?v=Enjcx2uSwho",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_Enjcx2uSwho.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_tHhzuDxRci0",
+      "url": "https://www.youtube.com/watch?v=tHhzuDxRci0",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_tHhzuDxRci0.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_VJdKWBh4FzY",
+      "url": "https://www.youtube.com/watch?v=VJdKWBh4FzY",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_VJdKWBh4FzY.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_dRLGALrRa9k",
+      "url": "https://www.youtube.com/watch?v=dRLGALrRa9k",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_dRLGALrRa9k.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_8dffFlGB-Fc",
+      "url": "https://www.youtube.com/watch?v=8dffFlGB-Fc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_8dffFlGB-Fc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_N7PeDEzAzsc",
+      "url": "https://www.youtube.com/watch?v=N7PeDEzAzsc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_N7PeDEzAzsc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_JkyBqlINfeI",
+      "url": "https://www.youtube.com/watch?v=JkyBqlINfeI",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_JkyBqlINfeI.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_hKO6UjRAZ7M",
+      "url": "https://www.youtube.com/watch?v=hKO6UjRAZ7M",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_hKO6UjRAZ7M.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_l7xhxKpXx0E",
+      "url": "https://www.youtube.com/watch?v=l7xhxKpXx0E",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_l7xhxKpXx0E.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_MO5oQnmqyeo",
+      "url": "https://www.youtube.com/watch?v=MO5oQnmqyeo",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_MO5oQnmqyeo.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_9me2RXHCyUQ",
+      "url": "https://www.youtube.com/watch?v=9me2RXHCyUQ",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_9me2RXHCyUQ.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_uwAiOWsHp9I",
+      "url": "https://www.youtube.com/watch?v=uwAiOWsHp9I",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_uwAiOWsHp9I.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_eV1gB3-dE_8",
+      "url": "https://www.youtube.com/watch?v=eV1gB3-dE_8",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_eV1gB3-dE_8.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_XmoWschonlc",
+      "url": "https://www.youtube.com/watch?v=XmoWschonlc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_XmoWschonlc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_82nfSr9N2xg",
+      "url": "https://www.youtube.com/watch?v=82nfSr9N2xg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_82nfSr9N2xg.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_9H0Eep4spmM",
+      "url": "https://www.youtube.com/watch?v=9H0Eep4spmM",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 0.81",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_9H0Eep4spmM.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_FZra3_S4bak",
+      "url": "https://www.youtube.com/watch?v=FZra3_S4bak",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_FZra3_S4bak.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_urQzJIu3Li4",
+      "url": "https://www.youtube.com/watch?v=urQzJIu3Li4",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_urQzJIu3Li4.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_ZPf6rr7DT7w",
+      "url": "https://www.youtube.com/watch?v=ZPf6rr7DT7w",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "low transcript coverage 0.40",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_ZPf6rr7DT7w.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_soQ1NazxMyc",
+      "url": "https://www.youtube.com/watch?v=soQ1NazxMyc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_soQ1NazxMyc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_nMb4uke-vvA",
+      "url": "https://www.youtube.com/watch?v=nMb4uke-vvA",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/transcripts/yt_nMb4uke-vvA.txt",
+      "verified": true
+    },
+    {
+      "assetId": "board_sad1754739",
+      "url": "https://www.rawconfessions.com/confession/seeing-people-have-fun-have-a-good-relationship-with-their-fathers-makes-me-sad/1754739",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.06,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 470",
+          "needsReview 0.06"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/stories/board_sad1754739.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_stity419963",
+      "url": "https://www.rawconfessions.com/confession/wife-wants-me-in-chastity/419963",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 125",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/stories/board_stity419963.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_emotionally",
+      "url": "https://www.reddit.com/r/confession/comments/a98ovy/i_enjoy_hurting_people_emotionally/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 244",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/stories/board_emotionally.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_tingpeople",
+      "url": "https://www.reddit.com/r/CPTSD/comments/10gaha3/why_do_i_like_the_idea_of_hurting_people/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 244",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/stories/board_tingpeople.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_mypartner",
+      "url": "https://www.reddit.com/r/Advice/comments/1jbq8qc/why_do_i_enjoy_hurting_my_partner/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 244",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_f2d00f7b/assets/stories/board_mypartner.md",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "total": 69,
+    "usable": 3,
+    "needsReview": 65,
+    "reject": 4
+  }
+}

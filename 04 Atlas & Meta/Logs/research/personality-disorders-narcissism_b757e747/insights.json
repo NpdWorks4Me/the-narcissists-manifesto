@@ -1,0 +1,113 @@
+{
+  "researchId": "b757e747",
+  "baseQuery": "personality disorders narcissism",
+  "oneShotQueries": [
+    "personality disorders narcissism",
+    "personality disorders narcissism lived experience personal story raw confessional",
+    "personality disorders narcissism history archive rare forgotten vintage obscure abandoned",
+    "personality disorders narcissism tools programs software templates resources open source",
+    "personality disorders narcissism media assets images audio video archive",
+    "personality disorders narcissism theory concept framework model rare idea",
+    "personality disorders narcissism criticism counter perspective deconstruction",
+    "personality disorders narcissism step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-08-31T22:57:38.948Z",
+  "summary": "25-min SPECTRUM for 'personality disorders narcissism' → 26 usable+review assets (web:32 yt:0 board:3) across 18 domains stories:3",
+  "claims": [
+    {
+      "claim": "A Brief History of Narcissistic Personality Disorder | Psychology Today \n\n\n\n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n- \n\n- \n\n- \n\n- \n\n-",
+      "source": "https://www.psychologytoday.com/us/blog/understanding-narcissism/202310/a-brief-history-of-narcissistic-personality-disorder",
+      "assetId": "eb6f85ce264d",
+      "category": "rare"
+    },
+    {
+      "claim": "- \n- \n- \n- Narcissistic Personality Disorder (NPD): A Complete Guide (2026) | Simply Psychology \n- \n- \n- \n- \n- \n- \n- \n\n\n\n\n\n\n\n\n\n\n\nShare this article \n\n\n\n\n\n\n\n\n\n\n\n![](https://www.simplypsychology.com/_ne",
+      "source": "https://www.simplypsychology.com/articles/narcissistic-personality-disorder-guide",
+      "assetId": "e0f24bf5dc17",
+      "category": "rare"
+    },
+    {
+      "claim": "- \n\n\n- \n\n- \n\n- \n\n- \n\n\nPersonality Disorders Resources | Psychology Tools \n\n\n\n\n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n- \n- \n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n# Personality Disorder",
+      "source": "https://www.psychologytools.com/professional/problems/personality-disorders",
+      "assetId": "c89728220e29",
+      "category": "rare"
+    },
+    {
+      "claim": "Archived version of https://www.researchgate.net/publication/235336676_A_Historical_Review_of_Narcissism_and_Narcissistic_Personality",
+      "source": "http://web.archive.org/web/20260325015713/https://www.researchgate.net/publication/235336676_A_Historical_Review_of_Narcissism_and_Narcissistic_Personality",
+      "assetId": "f408bde9a8ae",
+      "category": "archive"
+    }
+  ],
+  "patterns": [
+    "www.psychologytoday.com",
+    "www.simplypsychology.com",
+    "onlinelibrary.wiley.com",
+    "www.psychologytools.com",
+    "web.archive.org",
+    "www.stephenhedger.com"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "personality disorders narcissism case study",
+    "personality disorders narcissism rare archive",
+    "personality disorders narcissism tools comparison"
+  ],
+  "byCategory": {
+    "rare": 6,
+    "archive": 2,
+    "media": 8,
+    "tool": 7,
+    "story": 3
+  },
+  "verificationSummary": {
+    "total": 35,
+    "usable": 2,
+    "needsReview": 26,
+    "reject": 9
+  },
+  "topAssets": [
+    {
+      "title": "A Brief History of Narcissistic Personality Disorder",
+      "url": "https://www.psychologytoday.com/us/blog/understanding-narcissism/202310/a-brief-history-of-narcissistic-personality-disorder",
+      "score": 0.63,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "Narcissistic Personality Disorder (NPD): A Complete Guide (2026)",
+      "url": "https://www.simplypsychology.com/articles/narcissistic-personality-disorder-guide",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "A Historical Review of Narcissism and Narcissistic Personality",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781118093108.ch1",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "Personality Disorders Resources | Psychology Tools",
+      "url": "https://www.psychologytools.com/professional/problems/personality-disorders",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "[ARCHIVE] A Historical Review of Narcissism and Narcissistic Personality",
+      "url": "http://web.archive.org/web/20260325015713/https://www.researchgate.net/publication/235336676_A_Historical_Review_of_Narcissism_and_Narcissistic_Personality",
+      "score": 0.62,
+      "category": "archive",
+      "usable": false
+    },
+    {
+      "title": "[ARCHIVE] A Historical Review of Narcissism and Narcissistic Personality",
+      "url": "http://web.archive.org/web/20250328092330/https://onlinelibrary.wiley.com/doi/10.1002/9781118093108.ch1",
+      "score": 0.62,
+      "category": "archive",
+      "usable": false
+    }
+  ]
+}

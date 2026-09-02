@@ -17,9 +17,11 @@ const PLUGINS: { id: string; repo: string; version: string }[] = [
   { id: "templater-obsidian", repo: "SilentVoid13/Templater", version: "2.9.0" },
   { id: "obsidian-tasks", repo: "obsidian-tasks-group/obsidian-tasks", version: "7.18.3" },
   { id: "obsidian-tracker", repo: "pyrochlore/obsidian-tracker", version: "1.14.3" },
-  { id: "calendar", repo: "liamcain/obsidian-calendar", version: "1.5.10" },
+  { id: "obsidian-kanban", repo: "mgmeyers/obsidian-kanban", version: "1.5.3" },
   { id: "obsidian-linter", repo: "platers/obsidian-linter", version: "1.30.1" },
   { id: "obsidian-git", repo: "Vinzent03/obsidian-git", version: "2.32.0" },
+  { id: "copilot", repo: "logancyang/obsidian-copilot", version: "4.0.4" },
+  { id: "obsidian-meta-bind-plugin", repo: "mProjectsCode/obsidian-meta-bind-plugin", version: "1.5.0" },
 ];
 
 async function fetchReleaseAsset(repo: string, version: string, asset: string): Promise<Uint8Array | null> {
@@ -87,8 +89,17 @@ async function main() {
     if (!ok) anyFailed = true;
   }
 
-  // Enable plugins
-  const enabled = PLUGINS.map((p) => p.id);
+  // Enable plugins — preserve any already-enabled plugins not in PLUGINS (e.g. manually installed copilot)
+  const existingEnabled: string[] = (() => {
+    try {
+      if (existsSync(communityPluginsPath)) return JSON.parse(readFileSync(communityPluginsPath, "utf-8"));
+    } catch {}
+    return [];
+  })();
+  const enabledSet = new Set([...existingEnabled, ...PLUGINS.map((p) => p.id)]);
+  // Keep copilot if installed even if not in list
+  if (existsSync(join(pluginsDir, "copilot"))) enabledSet.add("copilot");
+  const enabled = [...enabledSet];
   writeFileSync(communityPluginsPath, JSON.stringify(enabled, null, 2), "utf-8");
   console.log(`\n✓ Wrote ${communityPluginsPath}:`);
   console.log(JSON.stringify(enabled, null, 2));

@@ -1,0 +1,13 @@
+{
+  "hook": "UserPromptSubmit",
+  "command": "npm run vault:recall -- \"$USER_PROMPT\"",
+  "description": "Bounded vault recall (max 4 notes, ~900 chars, abstain if low confidence) — opt-in via OBISIDIAN_RECALL_ENABLED=1",
+  "enabled": false,
+  "env": "OBSIDIAN_RECALL_ENABLED=1",
+  "limits": {
+    "maxNotes": 4,
+    "maxChars": 900,
+    "threshold": 0.12
+  },
+  "log": ".claude-runs/recall.log"
+}

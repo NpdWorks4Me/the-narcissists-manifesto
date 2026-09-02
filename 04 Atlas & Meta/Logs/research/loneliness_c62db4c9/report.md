@@ -1,0 +1,21 @@
+# Research Log — loneliness (25-min)
+
+**ID:** c62db4c9 | **Date:** 2026-08-31 | **Duration:** 50s
+
+**Summary:** 25-min SPECTRUM for 'loneliness' → 5 usable+review assets (web:14 yt:0 board:3) across 4 domains stories:2
+
+**Verification:** usable 0 / needsReview 5 / reject 11
+
+## Top Usable Assets
+- [rare] Loneliness - Wikipedia — https://en.wikipedia.org/wiki/Loneliness — usable:false score:0.51
+- [tool] What is Causing Our Epidemic of Loneliness and How Can We Fix It? — https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it — usable:false score:0.43
+- [tool] What is loneliness? | Tips for everyday living | Mind — https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/ — usable:false score:0.43
+- [story] Loneliness Confessions | Anonymous Stories About Loneliness — https://confessions.peonymagazine.com/tag/loneliness/ — usable:false score:0.00
+- [story] Anonymous Women&#x27;s Confessions | Confessions of the Female Mind — https://confessions.peonymagazine.com/ — usable:false score:0.00
+
+## Transcripts
+_none_
+
+## Stories
+- Loneliness Confessions | Anonymous Stories About Loneliness — 190 words, authenticity 0.25
+- Anonymous Women&#x27;s Confessions | Confessions of the Female Mind — 553 words, authenticity 0.59

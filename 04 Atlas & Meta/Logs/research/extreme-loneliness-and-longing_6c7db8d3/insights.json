@@ -1,0 +1,124 @@
+{
+  "researchId": "6c7db8d3",
+  "baseQuery": "extreme loneliness and longing",
+  "oneShotQueries": [
+    "extreme loneliness and longing",
+    "extreme loneliness and longing lived experience personal story raw confessional",
+    "extreme loneliness and longing history archive rare forgotten vintage obscure abandoned",
+    "extreme loneliness and longing tools programs software templates resources open source",
+    "extreme loneliness and longing media assets images audio video archive",
+    "extreme loneliness and longing theory concept framework model rare idea",
+    "extreme loneliness and longing criticism counter perspective deconstruction",
+    "extreme loneliness and longing step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-08-31T22:10:44.784Z",
+  "summary": "25-min SPECTRUM for 'extreme loneliness and longing' → 11 usable+review assets (web:12 yt:0 board:6) across 6 domains stories:5",
+  "claims": [
+    {
+      "claim": "Loneliness and longing Fierce Embodiment Home About Bodywork Sessions Workshops + Offerings Resources Home About Bodywork Sessions Workshops + Offerings Resources The power of longing ~ Audio practice",
+      "source": "https://fierceembodiment.com/longing/",
+      "assetId": "c4b2723f6140",
+      "category": "rare"
+    },
+    {
+      "claim": "I promptly showed up hoping he would give me a magical key to unlock and free my deepest longings",
+      "source": "https://fierceembodiment.com/longing/",
+      "assetId": "c4b2723f6140",
+      "category": "rare"
+    },
+    {
+      "claim": "--> Read Anonymous Confessions | Real Stories From Women Worldwide Search for: Home About Confessions Explore Topics The Things We Hide Secrets Shame Obsession Emotional Affair Addiction Guilt The Pai",
+      "source": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "assetId": "e264ec1789c6",
+      "category": "rare"
+    },
+    {
+      "claim": "A Perpetual State of Loneliness | Raw Confessions Raw Confessions Log In Sign Up A Perpetual State of Loneliness I feel perpetually lonely, and god I would do anything for someone to care",
+      "source": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "assetId": "4c2c669f2b88",
+      "category": "rare"
+    },
+    {
+      "claim": "Complicated feelings of guilt, loneliness and longing",
+      "source": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "assetId": "5155ba457099",
+      "category": "tool"
+    },
+    {
+      "claim": "| Raw Confessions Raw Confessions Log In Sign Up Complicated feelings of guilt, loneliness and longing",
+      "source": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "assetId": "5155ba457099",
+      "category": "tool"
+    }
+  ],
+  "patterns": [
+    "fierceembodiment.com",
+    "confessions.peonymagazine.com",
+    "www.rawconfessions.com",
+    "www.verywellmind.com",
+    "parade.com",
+    "www.reddit.com"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "extreme loneliness and longing case study",
+    "extreme loneliness and longing rare archive",
+    "extreme loneliness and longing tools comparison"
+  ],
+  "byCategory": {
+    "rare": 3,
+    "tool": 2,
+    "page": 1,
+    "story": 5
+  },
+  "verificationSummary": {
+    "total": 17,
+    "usable": 3,
+    "needsReview": 11,
+    "reject": 6
+  },
+  "topAssets": [
+    {
+      "title": "Loneliness and longing - Fierce Embodiment",
+      "url": "https://fierceembodiment.com/longing/",
+      "score": 0.63,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Read Anonymous Confessions | Real Stories From Women Worldwide",
+      "url": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "score": 0.5949999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "A Perpetual State of Loneliness - Raw Confessions",
+      "url": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "score": 0.56,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Complicated feelings of guilt, loneliness and longing. - Raw Confessions",
+      "url": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "score": 0.5325,
+      "category": "tool",
+      "usable": false
+    },
+    {
+      "title": "Understanding Chronic Loneliness - Verywell Mind",
+      "url": "https://www.verywellmind.com/understanding-chronic-loneliness-8705582",
+      "score": 0.48000000000000004,
+      "category": "tool",
+      "usable": false
+    },
+    {
+      "title": "14 Signs of &#x27;Deep Loneliness&#x27; To Look Out For - Parade",
+      "url": "https://parade.com/living/signs-of-deep-loneliness-according-to-psychologists",
+      "score": 0.4600000000000001,
+      "category": "page",
+      "usable": false
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "verification": [
+    {
+      "assetId": "c46e99f807b8",
+      "url": "https://example.com/narcissism-performance?q=personality%20disorders%20test%20tools%20software",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "8d8ea62926f5",
+      "url": "https://example.com/narcissism-performance?q=personality%20disorders%20test%20github%20open%20source",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "e30661cd4763",
+      "url": "https://example.com/narcissism-performance?q=personality%20disorders%20test%20template%20resources%20download",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_9064394",
+      "url": "https://images.pexels.com/photos/9064394/pexels-photo-9064394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_8669897",
+      "url": "https://images.pexels.com/photos/8669897/pexels-photo-8669897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_9064387",
+      "url": "https://images.pexels.com/photos/9064387/pexels-photo-9064387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "e83a96d82a18",
+      "url": "http://web.archive.org/web/20260512233610/https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "d4a835ef0128",
+      "url": "https://similarminds.com/minibarcode3.gif",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "a48640fecde3",
+      "url": "https://www.wikihow.com/images/thumb/9/93/Be-Eccentric-Step-1-Version-2.jpg/v4-460px-Be-Eccentric-Step-1-Version-2.jpg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "a7f01a686729",
+      "url": "https://www.wikihow.com/images/thumb/4/42/Narcissist_quiz.png/-crop-375-300-375px-Narcissist_quiz.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "bca5fd0e479b",
+      "url": "https://www.wikihow.com/images/thumb/0/0b/Sociopath_test.png/-crop-375-300-375px-Sociopath_test.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "fbe541241d91",
+      "url": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/angel_small-24px.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "2c20de9b7806",
+      "url": "https://www.rawconfessions.com/devil_small-24px.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "0b46ea388323",
+      "url": "https://www.wikihow.com/Personality-Disorder-Quiz",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "short 53 words < 120",
+          "needsReview 0.53"
+        ]
+      }
+    },
+    {
+      "assetId": "b3eca0b5c13d",
+      "url": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/188452",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 147",
+          "needsReview 0.53"
+        ]
+      }
+    },
+    {
+      "assetId": "5b2e93c78bf1",
+      "url": "https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "short 59 words < 120",
+          "needsReview 0.48"
+        ]
+      }
+    },
+    {
+      "assetId": "8f92c2d26e9f",
+      "url": "https://similarminds.com/personality_disorder_test.html/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4600000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 24 words < 120",
+          "needsReview 0.46"
+        ]
+      }
+    },
+    {
+      "assetId": "board_agazinecom",
+      "url": "https://confessions.peonymagazine.com/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_tagcraving",
+      "url": "https://confessions.peonymagazine.com/tag/craving/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 194",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_onAdultpdf",
+      "url": "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_The-Personality-Inventory-For-DSM-5-Full-Version-Adult.pdf",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.06,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 180",
+          "needsReview 0.06"
+        ]
+      }
+    },
+    {
+      "assetId": "board_sorderquiz",
+      "url": "https://harmonyplace.com/personality-disorder-quiz/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 509",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total": 21,
+    "usable": 0,
+    "needsReview": 15,
+    "reject": 6
+  }
+}

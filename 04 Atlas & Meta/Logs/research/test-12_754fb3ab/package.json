@@ -1,0 +1,45 @@
+{
+  "researchId": "754fb3ab",
+  "query": "25MIN SPECTRUM: test 12 | test 12 lived experience personal story raw confessional | test 12 history archive rare forgotten vintage obscure abandoned | test 12 tools programs software templates resources open source | test 12 media assets images audio video archive | test 12 theory concept framework model rare idea | test 12 criticism counter perspective deconstruction | test 12 step by step guide framework how to system",
+  "idea": "test 12",
+  "slug": "test-12",
+  "createdAt": "2026-08-31T22:42:53.867Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180,
+    "maxPlaylistVideos": 25,
+    "maxTranscripts": 20,
+    "maxBoardAssets": 12,
+    "youtubeTimeoutMs": 8000
+  },
+  "counts": {
+    "totalAssets": 0,
+    "byCategory": {},
+    "verification": {
+      "total": 0,
+      "usable": 0,
+      "needsReview": 0,
+      "reject": 0
+    },
+    "youtube": 0,
+    "board": 0
+  },
+  "all_assets": [],
+  "one_shot_queries": [
+    "test 12",
+    "test 12 lived experience personal story raw confessional",
+    "test 12 history archive rare forgotten vintage obscure abandoned",
+    "test 12 tools programs software templates resources open source",
+    "test 12 media assets images audio video archive",
+    "test 12 theory concept framework model rare idea",
+    "test 12 criticism counter perspective deconstruction",
+    "test 12 step by step guide framework how to system"
+  ],
+  "verification": []
+}

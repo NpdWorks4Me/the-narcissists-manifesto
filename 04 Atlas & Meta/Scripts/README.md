@@ -1,11 +1,17 @@
 ---
-id: "scripts-readme"
-title: "Scripts — Backend Migration"
-type: "moc"
-status: "active"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: [meta]
+id: scripts-readme
+title: Scripts — Backend Migration
+type: moc
+status: active
+created: '2026-08-31'
+updated: '2026-08-31'
+tags:
+  - meta
+freshness:
+  type: timeless
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # 04 Atlas & Meta / Scripts

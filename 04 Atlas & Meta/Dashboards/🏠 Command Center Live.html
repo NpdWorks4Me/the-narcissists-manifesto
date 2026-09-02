@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>🏠 Command Center — Live</title>
+<style>
+  :root{--bg:#0f0f12;--card:#1a1a1f;--muted:#9aa0aa;--text:#e8e8ea;--accent:#7c6cff;--accent2:#2dd4bf;--warn:#f59e0b;--ok:#10b981;--border:#2a2a32;--radius:14px}
+  @media(prefers-color-scheme:light){:root{--bg:#f6f7f9;--card:#fff;--text:#1a1a1f;--muted:#6b7280;--border:#e5e7eb}}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;background:var(--bg);color:var(--text);line-height:1.5}
+  .wrap{max-width:1100px;margin:0 auto;padding:28px 20px 40px}
+  header{display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between;margin-bottom:22px}
+  h1{font-size:26px;margin:0;letter-spacing:-0.02em}
+  .sub{color:var(--muted);font-size:13px}
+  .grid{display:grid;grid-template-columns:1.2fr .8fr;gap:16px}
+  @media(max-width:900px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:0 4px 20px rgba(0,0,0,.08)}
+  .card h2{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+  .kpi{display:flex;gap:12px;flex-wrap:wrap}
+  .kpi .pill{flex:1;min-width:140px;background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:12px}
+  .kpi .num{font-size:22px;font-weight:700}
+  .kpi .label{font-size:12px;color:var(--muted)}
+  .gauge{width:100%;height:10px;background:var(--bg);border-radius:999px;overflow:hidden;border:1px solid var(--border)}
+  .gauge>i{display:block;height:100%;background:linear-gradient(90deg,var(--ok),var(--accent));border-radius:999px}
+  .btn{display:inline-flex;align-items:center;gap:8px;background:var(--accent);color:white;border:0;border-radius:999px;padding:8px 14px;font-size:13px;font-weight:600;cursor:pointer;text-decoration:none}
+  .btn.secondary{background:var(--card);color:var(--text);border:1px solid var(--border)}
+  .btn:hover{opacity:.92}
+  .stack{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+  .note{border:1px solid var(--border);border-radius:12px;padding:12px;background:var(--bg)}
+  .note h3{margin:0 0 6px;font-size:15px}
+  .note p{margin:0;color:var(--muted);font-size:13px}
+  .meta{font-size:12px;color:var(--muted)}
+  .kanban{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+  @media(max-width:700px){.kanban{grid-template-columns:1fr}}
+  .col{background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:10px}
+  .col h3{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+  .task{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:10px;margin-bottom:8px;font-size:13px}
+  .task.done{opacity:.6;text-decoration:line-through}
+  .foot{margin-top:18px;color:var(--muted);font-size:12px}
+  a{color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>🏠 Command Center — Live</h1>
+      <div class="sub">Interactive HTML view • Vault: <code>the-narcissists-manifesto</code> • Generated 2026-09-02 • Open in Obsidian via <code>webviewer</code> or right-click → Open in browser</div>
+    </div>
+    <div class="stack">
+      <a class="btn" href="obsidian://open?vault=the-narcissists-manifesto&file=00%20Inbox%2F_INBOX_README.md">📥 Open Inbox</a>
+      <a class="btn secondary" href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FDashboards%2F%F0%9F%97%82%EF%B8%8F%20Delegation%20Board.md">🗂️ Delegation Board</a>
+      <a class="btn secondary" href="obsidian://open?vault=the-narcissists-manifesto&file=01%20Hyperfixations%2Floneliness.md">Open loneliness</a>
+    </div>
+  </header>
+
+  <div class="grid">
+    <div class="card">
+      <h2>🚨 WIP Guard</h2>
+      <div class="kpi">
+        <div class="pill"><div class="num">2 / 5</div><div class="label">Active projects</div><div class="gauge" style="margin-top:8px"><i style="width:40%"></i></div></div>
+        <div class="pill"><div class="num" style="color:var(--ok)">Healthy</div><div class="label">3 slots free • Limit 5</div></div>
+        <div class="pill"><div class="num">0</div><div class="label">Inbox needing triage</div></div>
+      </div>
+      <div class="stack">
+        <span class="meta">Updated 2026-09-02 • `npm run vault:check` → 0 errors</span>
+      </div>
+      <div style="margin-top:12px" class="meta">Live: counts `status = active` where `type = hyperfixation|content-project`. Parked demos excluded.</div>
+    </div>
+    <div class="card">
+      <h2>📊 Quick Actions (click → Obsidian)</h2>
+      <div class="stack">
+        <a class="btn" href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FTemplates%2FT_Hyperfixation.md">➕ New Hyperfixation (Templater)</a>
+        <a class="btn secondary" href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FDashboards%2F%F0%9F%93%88%20Knowledge%20Graph%20Intelligence.md">📈 KGI Report</a>
+        <a class="btn secondary" href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FSystems%2FBehavioral%20Loops%2FBehavioral%20Loops%20MOC.md">🧠 Loops MOC</a>
+      </div>
+      <div class="meta" style="margin-top:10px">HTML buttons use <code>obsidian://open?vault=...&file=...</code> — works inside Obsidian's webviewer and on desktop.</div>
+    </div>
+  </div>
+
+  <div style="height:16px"></div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>🔬 Active Hyperfixations (2)</h2>
+      <div class="note">
+        <h3><a href="obsidian://open?vault=the-narcissists-manifesto&file=01%20Hyperfixations%2Floneliness.md">loneliness</a> <span class="meta">• essay • 0.85 • updated 2026-09-01</span></h3>
+        <p><strong>Next:</strong> <em>— add 1 sentence under ## Synthesis</em> — click to open and edit inline via Meta Bind in the .md dashboard.</p>
+      </div>
+      <div style="height:10px"></div>
+      <div class="note">
+        <h3><a href="obsidian://open?vault=the-narcissists-manifesto&file=01%20Hyperfixations%2Fnarcissism-as-performance.md">narcissism-as-performance</a> <span class="meta">• guide • 0.82 • updated 2026-09-01</span></h3>
+        <p><strong>Next:</strong> <em>— add 1 note to ## Raw Capture</em></p>
+      </div>
+      <div class="meta" style="margin-top:10px">Parked demos hidden: <code>dopamine-loops</code>, <code>hook-model</code>, <code>audience-capture</code> (in <code>04/_Archive</code>).</div>
+    </div>
+    <div class="card">
+      <h2>💎 Ready Ideas (filtered: parked excluded)</h2>
+      <div class="note"><h3>loneliness</h3><p>essay 0.85 — active</p></div>
+      <div style="height:8px"></div>
+      <div class="note"><h3>narcissism-as-performance</h3><p>guide 0.82 — active</p></div>
+      <div style="height:8px"></div>
+      <div class="note"><h3>Narcissism</h3><p>newsletter 0.85 — in <code>02 Atomic Concepts</code> (now 1 file)</p></div>
+      <div class="meta" style="margin-top:8px">Generated by <code>report.ts</code> (parked filtered). Run <code>npm run vault:report</code> to refresh.</div>
+    </div>
+  </div>
+
+  <div style="height:16px"></div>
+
+  <div class="card">
+    <h2>🗂️ Delegation Board — Live Preview (3 cols, no scroll)</h2>
+    <div class="kanban">
+      <div class="col"><h3>To Do — 2</h3>
+        <div class="task">Write 1 sentence in <a href="obsidian://open?vault=the-narcissists-manifesto&file=01%20Hyperfixations%2Floneliness.md">loneliness</a> under ## Synthesis<br><span class="meta">📅 2026-09-03</span></div>
+        <div class="task">Open <a href="obsidian://open?vault=the-narcissists-manifesto&file=01%20Hyperfixations%2Fnarcissism-as-performance.md">narcissism-as-performance</a> and add 1 note to ## Raw Capture<br><span class="meta">📅 2026-09-03</span></div>
+        <div class="meta">+ click bottom of column in the .md Kanban to add a card</div>
+      </div>
+      <div class="col"><h3>Doing — 1 max</h3>
+        <div class="task"><em>drag one card here to start</em><br><span class="meta">Keep 1–2 max • Pomodoro 25m</span></div>
+      </div>
+      <div class="col"><h3>Done</h3>
+        <div class="task done">Board set up ✅ 2026-09-02</div>
+      </div>
+    </div>
+    <div class="stack">
+      <a class="btn secondary" href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FDashboards%2F%F0%9F%97%82%EF%B8%8F%20Delegation%20Board.md">Open Kanban (drag to delegate)</a>
+    </div>
+  </div>
+
+  <div style="height:16px"></div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>🕸️ Link Hygiene</h2>
+      <div class="meta">Orphans: 1 (parked <code>personality-disorders-test</code>) • Broken: 21 (mostly <code>test-variable-rewards</code> from archived demos) • Stale: 0</div>
+      <div class="stack"><a class="btn secondary" href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FLogs%2Fhygiene.json">Open hygiene.json</a><a class="btn secondary" href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FLogs%2Ftracking.csv">tracking.csv</a></div>
+    </div>
+    <div class="card">
+      <h2>⚙️ How to use this HTML</h2>
+      <div class="meta">
+        1. In Obsidian file explorer, right-click <code>🏠 Command Center Live.html</code> → <strong>Open in browser</strong> (or enable <code>Settings → Core plugins → Web viewer → ON</code> and click the file — it renders inside Obsidian).<br>
+        2. Buttons use <code>obsidian://</code> URIs — they jump back to the vault’s .md notes.<br>
+        3. This HTML is static snapshot; regenerate by re-running <code>report.ts</code> or ask me to rebuild.<br>
+        4. Dark/light auto-follows system. Print-friendly.
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">Vault: the-narcissists-manifesto • WIP 2/5 • 02 Atomic Concepts: 1 file (Narcissism) • 04 Systems: 8 loops + 3 archived demos • Kanban 3 cols • Meta Bind 1.4.15 • Generated 2026-09-02</div>
+</div>
+</body>
+</html>

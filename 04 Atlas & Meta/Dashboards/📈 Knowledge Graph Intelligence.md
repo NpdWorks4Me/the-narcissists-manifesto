@@ -4,7 +4,7 @@ title: "\U0001F4C8 Knowledge Graph Intelligence"
 type: moc
 status: active
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-02'
 tags:
   - dashboard
   - intelligence
@@ -18,24 +18,29 @@ resume_point:
 content_potential:
   suggested_format: none
   confidence_score: 0
+freshness:
+  type: timeless
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 # 📈 Knowledge Graph Intelligence
 
-> *Weekly synthesis by Engine B — emerging clusters, ready-to-build ideas, knowledge gaps. Generated 2026-08-31 (next: 2026-09-06). Run `npm run vault:report` manually anytime.*
+> *Weekly synthesis by Engine B — emerging clusters, ready-to-build ideas, knowledge gaps. Generated 2026-09-02 (next: 2026-09-06). Run `npm run vault:report` manually anytime.*
 
-**Last run:** `2026-08-31`
-**Clusters found:** 1 | **Ready ideas:** 6 | **Gaps:** 0
+**Last run:** `2026-09-02`
+**Clusters found:** 0 | **Ready ideas:** 3 | **Gaps:** 0
 
 ---
 
 ## 🧠 Emerging Conceptual Clusters
 
-1. **Cluster 1 (4 notes):** [[dopamine-loops]] · [[Variable Reward Schedules]] · [[test-variable-rewards]] · [[hook-model]]
+_No clusters yet. Create 3+ linked notes sharing a theme._
 
 ```dataview
 TABLE length(file.outlinks) as Outgoing, length(file.inlinks) as Incoming, tags as Tags
 FROM "01 Hyperfixations" OR "02 Atomic Concepts"
-WHERE length(file.inlinks) > 0 OR length(file.outlinks) > 0
+WHERE status = "active" AND (length(file.inlinks) > 0 OR length(file.outlinks) > 0)
 SORT length(file.inlinks) DESC
 LIMIT 15
 ```
@@ -44,17 +49,14 @@ LIMIT 15
 
 ## 💡 Ready-to-Build Content Ideas
 
-- [[dopamine-loops]] — newsletter (conf 0.85)
-- [[hook-model]] — guide (conf 0.82)
-- [[test-variable-rewards]] — thread (conf 0.78)
-- [[SPEC — Dopamine Loops]] — newsletter (conf 0.85)
-- [[SPEC — Hook Model]] — guide (conf 0.82)
-- [[SPEC — test variable rewards]] — thread (conf 0.78)
+- [[loneliness]] — essay (conf 0.85)
+- [[narcissism-as-performance]] — guide (conf 0.82)
+- [[Narcissism]] — newsletter (conf 0.85)
 
 ```dataview
 TABLE content_potential.suggested_format as Format, content_potential.confidence_score as Confidence
 FROM "01 Hyperfixations" OR "02 Atomic Concepts" OR "03 Content Lab"
-WHERE content_potential.confidence_score > 0.75
+WHERE status = "active" AND content_potential.confidence_score > 0.75
 SORT content_potential.confidence_score DESC
 ```
 
@@ -80,7 +82,7 @@ LIMIT 10
 searchType: frontmatter
 searchTarget: updated
 folder: 01 Hyperfixations
-startDate: 2026-07-01
+startDate: 2026-07-02
 endDate: 2026-09-06
 bar:
   title: Weekly Note Creation
@@ -94,7 +96,7 @@ bar:
 ```dataview
 LIST
 FROM "01 Hyperfixations" OR "02 Atomic Concepts"
-WHERE contains(file.text, "AGENT INSIGHT")
+WHERE status = "active" AND contains(file.text, "AGENT INSIGHT")
 SORT updated DESC
 LIMIT 10
 ```

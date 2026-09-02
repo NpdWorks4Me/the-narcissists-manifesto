@@ -40,22 +40,28 @@ const pool = [...hyper, ...atomic];
 const graph = buildGraph(pool.map((n) => ({ path: n.rel, content: n.content, stem: n.stem })));
 
 // Emerging clusters: simple connected components on graph edges (undirected)
+// Excludes parked/archived notes so demos don't pollute content clusters
 function connectedComponents(): string[][] {
+  const parked = new Set<string>();
+  for (const n of [...hyper, ...atomic, ...content]) {
+    const { data } = parseFrontmatter(n.content, n.rel);
+    if (data.status === "parked" || data.status === "archived") parked.add(n.stem);
+  }
   const visited = new Set<string>();
   const comps: string[][] = [];
   for (const [stem] of graph) {
-    if (visited.has(stem)) continue;
+    if (parked.has(stem) || visited.has(stem)) continue;
     const stack = [stem];
     const comp: string[] = [];
     while (stack.length) {
       const cur = stack.pop()!;
-      if (visited.has(cur)) continue;
+      if (parked.has(cur) || visited.has(cur)) continue;
       visited.add(cur);
       comp.push(cur);
       const node = graph.get(cur);
       if (!node) continue;
       for (const nb of [...node.outgoing, ...node.incoming]) {
-        if (!visited.has(nb) && graph.has(nb)) stack.push(nb);
+        if (!parked.has(nb) && !visited.has(nb) && graph.has(nb)) stack.push(nb);
       }
     }
     if (comp.length >= 2) comps.push(comp);
@@ -64,11 +70,15 @@ function connectedComponents(): string[][] {
 }
 
 const clusters = connectedComponents();
+// Only active content counts for the intelligence report — parked/archived demos are excluded
 const readyIdeas = [...hyper, ...atomic, ...content].filter((n) => {
   const { data } = parseFrontmatter(n.content, n.rel);
+  if (data.status === "parked" || data.status === "archived") return false;
   return (data.content_potential?.confidence_score || 0) > CONFIG.CONFIDENCE_THRESHOLD;
 });
 const gaps = hyper.filter((n) => {
+  const { data } = parseFrontmatter(n.content, n.rel);
+  if (data.status === "parked" || data.status === "archived") return false;
   const node = graph.get(n.stem);
   const links = node ? node.outgoing.length + node.incoming.length : 0;
   return links < 2;
@@ -119,7 +129,7 @@ ${clusterLines}
 \`\`\`dataview
 TABLE length(file.outlinks) as Outgoing, length(file.inlinks) as Incoming, tags as Tags
 FROM "01 Hyperfixations" OR "02 Atomic Concepts"
-WHERE length(file.inlinks) > 0 OR length(file.outlinks) > 0
+WHERE status = "active" AND (length(file.inlinks) > 0 OR length(file.outlinks) > 0)
 SORT length(file.inlinks) DESC
 LIMIT 15
 \`\`\`
@@ -133,7 +143,7 @@ ${ideasLines}
 \`\`\`dataview
 TABLE content_potential.suggested_format as Format, content_potential.confidence_score as Confidence
 FROM "01 Hyperfixations" OR "02 Atomic Concepts" OR "03 Content Lab"
-WHERE content_potential.confidence_score > 0.75
+WHERE status = "active" AND content_potential.confidence_score > 0.75
 SORT content_potential.confidence_score DESC
 \`\`\`
 
@@ -173,7 +183,7 @@ bar:
 \`\`\`dataview
 LIST
 FROM "01 Hyperfixations" OR "02 Atomic Concepts"
-WHERE contains(file.text, "AGENT INSIGHT")
+WHERE status = "active" AND contains(file.text, "AGENT INSIGHT")
 SORT updated DESC
 LIMIT 10
 \`\`\`

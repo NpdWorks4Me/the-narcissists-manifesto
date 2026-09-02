@@ -1,0 +1,843 @@
+{
+  "researchId": "ffda6aa0",
+  "query": "25MIN SPECTRUM: personality disorders test | personality disorders test lived experience personal story raw confessional | personality disorders test history archive rare forgotten vintage obscure abandoned | personality disorders test tools programs software templates resources open source | personality disorders test media assets images audio video archive | personality disorders test theory concept framework model rare idea | personality disorders test criticism counter perspective deconstruction | personality disorders test step by step guide framework how to system",
+  "idea": "personality disorders test",
+  "slug": "personality-disorders-test",
+  "createdAt": "2026-08-31T21:03:21.514Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180,
+    "maxPlaylistVideos": 25,
+    "maxTranscripts": 20,
+    "maxBoardAssets": 12,
+    "youtubeTimeoutMs": 8000
+  },
+  "counts": {
+    "totalAssets": 15,
+    "byCategory": {
+      "archive": 1,
+      "media": 6,
+      "tool": 2,
+      "page": 2,
+      "story": 4
+    },
+    "verification": {
+      "total": 21,
+      "usable": 0,
+      "needsReview": 15,
+      "reject": 6
+    },
+    "youtube": 0,
+    "board": 5
+  },
+  "all_assets": [
+    {
+      "assetId": "e83a96d82a18",
+      "sourceUrl": "http://web.archive.org/web/20260512233610/https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "title": "[ARCHIVE] Personality Disorder Test - The Calculator",
+      "snippet": "Archived snapshot 20260512233610 of https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "domain": "web.archive.org",
+      "score": 0.62,
+      "relevanceScore": 0.7,
+      "evidence": [
+        "wayback 20260512233610"
+      ],
+      "contentPreview": "Archived version of https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.3,
+      "category": "archive",
+      "rarityScore": 0.8,
+      "localPath": null,
+      "contentType": null,
+      "bytes": null,
+      "needsRender": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "d4a835ef0128",
+      "sourceUrl": "https://similarminds.com/minibarcode3.gif",
+      "title": "[MEDIA:image] minibarcode3.gif",
+      "snippet": "Media from similarminds.com — ",
+      "domain": "similarminds.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://similarminds.com/personality_disorder_test.html/",
+        "downloaded 233 bytes to 04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/d4a835ef0128_minibarcode3.gif.gif"
+      ],
+      "contentPreview": "https://similarminds.com/minibarcode3.gif",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/d4a835ef0128_minibarcode3.gif.gif",
+      "contentType": "image/gif",
+      "bytes": 233,
+      "needsRender": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "a48640fecde3",
+      "sourceUrl": "https://www.wikihow.com/images/thumb/9/93/Be-Eccentric-Step-1-Version-2.jpg/v4-460px-Be-Eccentric-Step-1-Version-2.jpg",
+      "title": "[MEDIA:image] An illustration of a glum man walking through a gray world.",
+      "snippet": "Media from www.wikihow.com — An illustration of a glum man walking through a gray world.",
+      "domain": "www.wikihow.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://www.wikihow.com/Personality-Disorder-Quiz",
+        "downloaded 32394 bytes to 04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/a48640fecde3_v4-460px-Be-Eccentri.jpg"
+      ],
+      "contentPreview": "https://www.wikihow.com/images/thumb/9/93/Be-Eccentric-Step-1-Version-2.jpg/v4-460px-Be-Eccentric-Step-1-Version-2.jpg",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/a48640fecde3_v4-460px-Be-Eccentri.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 32394,
+      "needsRender": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "a7f01a686729",
+      "sourceUrl": "https://www.wikihow.com/images/thumb/4/42/Narcissist_quiz.png/-crop-375-300-375px-Narcissist_quiz.png",
+      "title": "[MEDIA:image] Narcissist Test",
+      "snippet": "Media from www.wikihow.com — Narcissist Test",
+      "domain": "www.wikihow.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://www.wikihow.com/Personality-Disorder-Quiz",
+        "downloaded 104563 bytes to 04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/a7f01a686729_-crop-375-300-375px-.png"
+      ],
+      "contentPreview": "https://www.wikihow.com/images/thumb/4/42/Narcissist_quiz.png/-crop-375-300-375px-Narcissist_quiz.png",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/a7f01a686729_-crop-375-300-375px-.png",
+      "contentType": "image/png",
+      "bytes": 104563,
+      "needsRender": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "bca5fd0e479b",
+      "sourceUrl": "https://www.wikihow.com/images/thumb/0/0b/Sociopath_test.png/-crop-375-300-375px-Sociopath_test.png",
+      "title": "[MEDIA:image] Sociopath Test",
+      "snippet": "Media from www.wikihow.com — Sociopath Test",
+      "domain": "www.wikihow.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://www.wikihow.com/Personality-Disorder-Quiz",
+        "downloaded 101559 bytes to 04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/bca5fd0e479b_-crop-375-300-375px-.png"
+      ],
+      "contentPreview": "https://www.wikihow.com/images/thumb/0/0b/Sociopath_test.png/-crop-375-300-375px-Sociopath_test.png",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/bca5fd0e479b_-crop-375-300-375px-.png",
+      "contentType": "image/png",
+      "bytes": 101559,
+      "needsRender": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "fbe541241d91",
+      "sourceUrl": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/angel_small-24px.png",
+      "title": "[MEDIA:image] Site Logo",
+      "snippet": "Media from www.rawconfessions.com — Site Logo",
+      "domain": "www.rawconfessions.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/188452",
+        "needs_render: HTML-as-image, use Playwright screenshot"
+      ],
+      "contentPreview": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/angel_small-24px.png",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": null,
+      "contentType": "text/html",
+      "bytes": null,
+      "needsRender": true,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "2c20de9b7806",
+      "sourceUrl": "https://www.rawconfessions.com/devil_small-24px.png",
+      "title": "[MEDIA:image] Site Logo",
+      "snippet": "Media from www.rawconfessions.com — Site Logo",
+      "domain": "www.rawconfessions.com",
+      "score": 0.55,
+      "relevanceScore": 0.5,
+      "evidence": [
+        "media harvest",
+        "from https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/188452",
+        "downloaded 1278 bytes to 04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/2c20de9b7806_devil_small-24px.png.png"
+      ],
+      "contentPreview": "https://www.rawconfessions.com/devil_small-24px.png",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "media",
+      "type": "image",
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-test_bfb88668/assets/media/2c20de9b7806_devil_small-24px.png.png",
+      "contentType": "image/png",
+      "bytes": 1278,
+      "needsRender": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "0b46ea388323",
+      "sourceUrl": "https://www.wikihow.com/Personality-Disorder-Quiz",
+      "title": "Which Personality Disorder Do I Have? Free Test - wikihow.com",
+      "snippet": "A",
+      "domain": "www.wikihow.com",
+      "score": 0.5325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Which Personality Disorder Do I Have? Free Test \n\n- \n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[Quizzes](https://www.wikihow.com/Quizzes) Search \n\n- PRO \n\n- [QUIZZES](https://www.wikihow.com/Quizzes)\n\n- [EXPLORE](https://www.wikihow.com/Personality-Disorder-Quiz#)\n\t\n\t\n\t\n\n\t\n\n\n\t\n\t\n\t\n\t\n\t\n\t\n\n\n- [LOG IN](https://www.wikihow.com/Personality-Disorder-Quiz#wh-dialog-login)\n\n\n\nGoogle \n\n\n\n\n\nwikiHow Account \n\n\n\nNo account yet?\n[Create an account](https://www.wikihow.com/Special:UserLogin?type=signup)\n\n\n\n\n\n\n- [RANDOM](https://www.wikihow.com/Personality-Disorder-Quiz#)\n\n\n- [Home](https://www.wikihow.com/Main-Page)\n- [Random](https://www.wikihow.com/Special:Randomizer)\n- [Browse Articles](https://www.wikihow.com/Special:CategoryListing)\n- Trending New \n- Quizzes & Games\n- All Qui",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "short 53 words < 120",
+          "needsReview 0.53"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "b3eca0b5c13d",
+      "sourceUrl": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/188452",
+      "title": "I am personality disordered, I live a life in my ... - Raw Confessions",
+      "snippet": "I have been diagnosed with a crude mixture of Borderline and Antisocial",
+      "domain": "www.rawconfessions.com",
+      "score": 0.5325,
+      "relevanceScore": 0.95,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "- \n\n\n- I am personality disordered, I live a life in my relationships and I’m a chronic cheat | Raw Confessions \n\n- \n\n- \n\n\n# I am personality disordered, I live a life in my relationships and I’m a chronic cheat\n\n\n\n[Conflicted]\n\nI had a childhood riddled with abuse. Sister, mother and father all contributed. I also had a predatory man who was 20+ years my senior take advantage of me in my teens. Not in a sexual way but he had a huge amount of power over me for years. I have been diagnosed with a crude mixture of Borderline and Antisocial personality disorders. \n\nI have a huge void in my life where I was socially isolated, I was homeschooled and abused growing up and I have almost no normal experiences during that time. I learned being honest about these things scares people off. It’s too i",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "tool",
+      "archiveUrl": null,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 147",
+          "needsReview 0.53"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "5b2e93c78bf1",
+      "sourceUrl": "https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "title": "Personality Disorder Test - The Calculator",
+      "snippet": "Take a 10-section",
+      "domain": "www.thecalculator.co",
+      "score": 0.48000000000000004,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence",
+        "archive 20260512233610"
+      ],
+      "contentPreview": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-equiv=\"cache-control\" content=\"no-store,max-age=0\" />\n    <meta name=\"robots\" content=\"noindex\" />\n    <title>403 - Forbidden</title>\n    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:400,700%7CRoboto:400,700\" rel=\"stylesheet\">\n<style>\n    * {\n        box-sizing: border-box;\n        -moz-box-sizing: border-box;\n        -webkit-tap-highlight-color: transparent;\n    }\n    body {\n        margin: 0;\n        padding: 0;\n        height: 100%;\n        -webkit-text-size-adjust: 100%;\n    }\n    .fit-wide {\n        position: relative;\n        overflow: hidden;\n        max-width: 1240px;\n        margin: 0 auto;\n        padding-t",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": "http://web.archive.org/web/20260512233610/https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "short 59 words < 120",
+          "needsReview 0.48"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "8f92c2d26e9f",
+      "sourceUrl": "https://similarminds.com/personality_disorder_test.html/",
+      "title": "Personality Disorder Test | SimilarMinds",
+      "snippet": "Take this free",
+      "domain": "similarminds.com",
+      "score": 0.4600000000000001,
+      "relevanceScore": 0.8,
+      "evidence": [
+        "no license evidence"
+      ],
+      "contentPreview": "Personality Disorder Test | SimilarMinds \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[Skip to content](https://similarminds.com/personality_disorder_test.html/#main-content)\n\n\n\n\n\n\n\n\n\nSelect your gender, then click Next to begin the test.\n\n\n\nGender \n\n--- \nmale \nfemale \nother",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.2,
+      "category": "page",
+      "archiveUrl": null,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4600000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 24 words < 120",
+          "needsReview 0.46"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "board_agazinecom",
+      "sourceUrl": "https://confessions.peonymagazine.com/",
+      "title": "Anonymous Women&#x27;s Confessions | Confessions of the Female Mind",
+      "snippet": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nAnonymous Women&#039;s Confessions | Confessions of the Female Mind \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n- \n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0,
+      "relevanceScore": 0,
+      "evidence": [
+        "authenticity 0.59",
+        "wordCount 553",
+        "spam_flag"
+      ],
+      "contentPreview": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nAnonymous Women&#039;s Confessions | Confessions of the Female Mind \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n- \n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n![woodland clothing](https://imagedelivery.net/n-5SRUnr9eToR30Nvb62XA/43aa015d-fa37-4768-f403-b936b4b00100/w=1024) \n\n\n\n\n\n\n\n\n\n\n\n# CONFESSIONS \nof the FEMALE MIND \n\n![Anonymous Women's Confessions](https://peonymagazine.com/cdn-cgi/image/format=auto,quality=85,fit=scale-down/wp-content/uploads/2026/05/confession-divider.png)\n## THE SECRETS WE CARRY. THE TRUTHS WE HIDE.\n\n\n\nA private ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "story",
+      "wordCount": 553,
+      "authenticity": 0.5897830018083183,
+      "isSpam": true,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "board_tagcraving",
+      "sourceUrl": "https://confessions.peonymagazine.com/tag/craving/",
+      "title": "Craving Confessions | Anonymous Stories About Craving",
+      "snippet": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nCraving Confessions | Anonymous Stories About Craving \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\r\n\r\n![](https://www.facebook.com",
+      "domain": "confessions.peonymagazine.com",
+      "score": 0,
+      "relevanceScore": 0,
+      "evidence": [
+        "authenticity 0.25",
+        "wordCount 194",
+        "clean"
+      ],
+      "contentPreview": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nCraving Confessions | Anonymous Stories About Craving \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\r\n\r\n![](https://www.facebook.com/tr?id=2545302412510577&ev=PageView&noscript=1) \r\n\n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n![woodland clothing](https://imagedelivery.net/n-5SRUnr9eToR30Nvb62XA/43aa015d-fa37-4768-f403-b936b4b00100/w=1024) \n\n\n\n\n\n\n\n\n\n\n# \nTag: Craving \n\n\n\nReal stories about cravings, unmet needs, emotional hunger, and the powerful urge for connection, affection, or change.\n\n\n\n\n\n\n\n\n\r\n\r\n\t\n\nSorry, no confessions found for your query.\n\n\r\n\r\n\n\n\n\n\n\n\n\n\n\t\n\n\n\n\n\n© 2026 Peony Magazine. All rights reserved.\n\n\n\n\n\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- ",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "story",
+      "wordCount": 194,
+      "authenticity": 0.2515463917525773,
+      "isSpam": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 194",
+          "needsReview 0.00"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "board_onAdultpdf",
+      "sourceUrl": "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_The-Personality-Inventory-For-DSM-5-Full-Version-Adult.pdf",
+      "title": "https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/APA_DSM5_The-Personality-Inventory-For-DSM-5-Full-Version-Adult.pdf",
+      "snippet": "%PDF-1.6\r%����\r\n5858 0 obj\r >stream\r\nhޜ[ˮ]�\r�\u0015��E�\r\u0004\u0019\u0014��i�����\u0003��(ں�a�@��]��'��n��h���\u0012E.I�\\r����{(=�(��Pk\u000bUC�\u001aj\n��\u000f9t�PK�U��0$\u0006�\u001a\u0010�=H�9ԁo��\"��C ���[���lh\u001e�����x\u000fYLj��P/�̊iČ����(\u001a\u001d�B�\u0018�h\u000e�\u0000�hA�r�jȕ\b\u0015�+M(4���BEnp�$h�s\u000b�\u0003��$�Aq8�Dz\u0003\u0002%r~S\t���T�\u0018����iA\u0003���4�@ $�\u000eAd�ˢ��7#0��������n���y&�o�d$�F�ݸﱯ3�Nb�z",
+      "domain": "www.psychiatry.org",
+      "score": 0,
+      "relevanceScore": 0,
+      "evidence": [
+        "authenticity 0.49",
+        "wordCount 180",
+        "clean"
+      ],
+      "contentPreview": "%PDF-1.6\r%����\r\n5858 0 obj\r >stream\r\nhޜ[ˮ]�\r�\u0015��E�\r\u0004\u0019\u0014��i�����\u0003��(ں�a�@��]��'��n��h���\u0012E.I�\\r����{(=�(��Pk\u000bUC�\u001aj\n��\u000f9t�PK�U��0$\u0006�\u001a\u0010�=H�9ԁo��\"��C ���[���lh\u001e�����x\u000fYLj��P/�̊iČ����(\u001a\u001d�B�\u0018�h\u000e�\u0000�hA�r�jȕ\b\u0015�+M(4���BEnp�$h�s\u000b�\u0003��$�Aq8�Dz\u0003\u0002%r~S\t���T�\u0018����iA\u0003���4�@ $�\u000eAd�ˢ��7#0��������n���y&�o�d$�F�ݸﱯ3�Nb�z19/9�'g��D�|�8W\n�2�wR$O\u000b��K\u0015v��H8\u0015\u0017�]�S�NՓ�|�t;��4�Ӝ���f�L&_��M�+���'%b\u001b9���:ݔ�M�g\u001f�}�󇧕�'�>�MxT3\u0007�[5�W:��z\u0016.�\n�~�:���7�_H\u001d\u001c�\u0002�\u0001\u0001[���\u00047S���=;\u000f\u001f�[V�X��\u001f��\fQ�\u0013�q��*\u000e�;X��M\u001b\u0005�����s�+\u000e��}�\u0015�&���\u0005c�7`s�ă��������t�I'�J�xH��\u0005b��(a���38섒-�wĖ�=�m�\u0000�1V\n�-�-�~�\u0017[2��FY������O��\u0019\u0017��!��\u0012��U�)X\u0003�\u000e�\\\u0001���K[�k�\u000e\u001d�0�H�P�\u0006|&D�\u0002�����4�\u0003��`��BP�P�\u0004��\u0000��W\u00007���S�[�5\u0006\u0016��X(X\u0003>��|\u0005p%\u001b�m��\b`V�\n�������W�Z�}|/n� ��\u001a�y`jװV3���la�c!���1\u0016�^\"W�\u0006��d~}��I�8���J��b�K��/�7�J�q_b�D���X��q��}˱�^�}v���\"^#�����b[\u0016읎��\u001a��U�\u0017�\u001a\t�\u0018�-��\u001e'\u000f�",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "story",
+      "wordCount": 180,
+      "authenticity": 0.4888888888888889,
+      "isSpam": false,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.06,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 180",
+          "needsReview 0.06"
+        ]
+      },
+      "usable": false
+    },
+    {
+      "assetId": "board_sorderquiz",
+      "sourceUrl": "https://harmonyplace.com/personality-disorder-quiz/",
+      "title": "https://harmonyplace.com/personality-disorder-quiz/",
+      "snippet": "- \n\n- \n\n- \n\n\n\t\nHarmony Place Personality Disorder Quiz | HARMONY PLACE \n\n\n\t\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\n- \n\n- \n\n- \n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n![](https://www.facebook.com/tr?id=735641596809690&ev=PageView&noscript=1)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n![](https://www.facebook.com/tr?id=735641596809690&ev=PageView",
+      "domain": "harmonyplace.com",
+      "score": 0,
+      "relevanceScore": 0,
+      "evidence": [
+        "authenticity 0.36",
+        "wordCount 509",
+        "spam_flag"
+      ],
+      "contentPreview": "- \n\n- \n\n- \n\n\n\t\nHarmony Place Personality Disorder Quiz | HARMONY PLACE \n\n\n\t\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\n- \n\n- \n\n- \n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n![](https://www.facebook.com/tr?id=735641596809690&ev=PageView&noscript=1)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n![](https://www.facebook.com/tr?id=735641596809690&ev=PageView&noscript=1) \r\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\r\n\r\n\n\n\n[Skip to main content](https://harmonyplace.com/personality-disorder-quiz/#tm-main)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHECK YOUR MENTAL HEALTH \n# Harmony Place Personality Disorder Quiz \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCould You or a Loved One Have a Personality Disorder? \n### Answer 10 Yes or No Questions to Screen for a Personality Disorder \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1. Do you have little to no regard for other people&",
+      "rightsClassification": "REFERENCE_ONLY",
+      "rightsConfidence": 0.25,
+      "category": "story",
+      "wordCount": 509,
+      "authenticity": 0.35785854616895874,
+      "isSpam": true,
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 509",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "usable": false
+    }
+  ],
+  "one_shot_queries": [
+    "personality disorders test",
+    "personality disorders test lived experience personal story raw confessional",
+    "personality disorders test history archive rare forgotten vintage obscure abandoned",
+    "personality disorders test tools programs software templates resources open source",
+    "personality disorders test media assets images audio video archive",
+    "personality disorders test theory concept framework model rare idea",
+    "personality disorders test criticism counter perspective deconstruction",
+    "personality disorders test step by step guide framework how to system"
+  ],
+  "verification": [
+    {
+      "assetId": "c46e99f807b8",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "8d8ea62926f5",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "e30661cd4763",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_9064394",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_8669897",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_9064387",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "e83a96d82a18",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "d4a835ef0128",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "a48640fecde3",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "a7f01a686729",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "bca5fd0e479b",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "fbe541241d91",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "2c20de9b7806",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "0b46ea388323",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "short 53 words < 120",
+          "needsReview 0.53"
+        ]
+      }
+    },
+    {
+      "assetId": "b3eca0b5c13d",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 147",
+          "needsReview 0.53"
+        ]
+      }
+    },
+    {
+      "assetId": "5b2e93c78bf1",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "short 59 words < 120",
+          "needsReview 0.48"
+        ]
+      }
+    },
+    {
+      "assetId": "8f92c2d26e9f",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4600000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 24 words < 120",
+          "needsReview 0.46"
+        ]
+      }
+    },
+    {
+      "assetId": "board_agazinecom",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_tagcraving",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 194",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_onAdultpdf",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.06,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 180",
+          "needsReview 0.06"
+        ]
+      }
+    },
+    {
+      "assetId": "board_sorderquiz",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 509",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    }
+  ]
+}

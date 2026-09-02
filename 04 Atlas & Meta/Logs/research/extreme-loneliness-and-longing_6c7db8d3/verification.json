@@ -1,0 +1,267 @@
+{
+  "verification": [
+    {
+      "assetId": "568dc620a4b6",
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20tools%20software",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "cdecfe9848a4",
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20github%20open%20source",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "8d840fa658eb",
+      "url": "https://example.com/narcissism-performance?q=extreme%20loneliness%20and%20longing%20template%20resources%20download",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_11544373",
+      "url": "https://images.pexels.com/photos/11544373/pexels-photo-11544373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_8329215",
+      "url": "https://images.pexels.com/photos/8329215/pexels-photo-8329215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_10622525",
+      "url": "https://images.pexels.com/photos/10622525/pexels-photo-10622525.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "c4b2723f6140",
+      "url": "https://fierceembodiment.com/longing/",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.67,
+        "reasons": [
+          "relevance 1.00",
+          "wordCount 135",
+          "usable 0.67 >= 0.58"
+        ]
+      }
+    },
+    {
+      "assetId": "e264ec1789c6",
+      "url": "https://confessions.peonymagazine.com/read-anonymous-confessions/",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6349999999999999,
+        "reasons": [
+          "relevance 0.90",
+          "short 108 words < 120",
+          "usable 0.63 >= 0.58"
+        ]
+      }
+    },
+    {
+      "assetId": "4c2c669f2b88",
+      "url": "https://www.rawconfessions.com/confession/a-perpetual-state-of-loneliness/1366579",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6000000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "wordCount 154",
+          "usable 0.60 >= 0.58"
+        ]
+      }
+    },
+    {
+      "assetId": "5155ba457099",
+      "url": "https://www.rawconfessions.com/confession/complicated-feelings-of-guilt-loneliness-and-longing/981706",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 137",
+          "needsReview 0.53"
+        ]
+      }
+    },
+    {
+      "assetId": "df0a405522b9",
+      "url": "https://www.verywellmind.com/understanding-chronic-loneliness-8705582",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "short 113 words < 120",
+          "needsReview 0.48"
+        ]
+      }
+    },
+    {
+      "assetId": "c61d11a4a305",
+      "url": "https://parade.com/living/signs-of-deep-loneliness-according-to-psychologists",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4600000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 18 words < 120",
+          "needsReview 0.46"
+        ]
+      }
+    },
+    {
+      "assetId": "board_agazinecom",
+      "url": "https://confessions.peonymagazine.com/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_beinghuman",
+      "url": "https://confessions.peonymagazine.com/the-pain-of-being-human/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 306",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_lonelyand",
+      "url": "https://www.reddit.com/r/loneliness/comments/17mk2px/is_anyone_here_truly_and_chronically_lonely_and/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 244",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_inmylife",
+      "url": "https://www.reddit.com/r/selfimprovement/comments/xrbul7/never_felt_so_lonely_in_my_life/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 244",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_reandplan",
+      "url": "https://www.reddit.com/r/TrueOffMyChest/comments/sd4pbs/i_cant_cope_with_the_loneliness_anymore_and_plan/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 244",
+          "needsReview 0.00"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total": 17,
+    "usable": 3,
+    "needsReview": 11,
+    "reject": 6
+  }
+}

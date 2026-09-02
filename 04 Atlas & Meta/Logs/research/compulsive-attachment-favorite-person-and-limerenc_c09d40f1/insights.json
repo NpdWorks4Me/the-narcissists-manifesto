@@ -1,0 +1,120 @@
+{
+  "researchId": "c09d40f1",
+  "baseQuery": "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation",
+  "oneShotQueries": [
+    "compulsive attachment favorite limerence",
+    "compulsive attachment favorite limerence lived experience personal story raw confessional",
+    "compulsive attachment favorite limerence history archive rare forgotten vintage obscure abandoned",
+    "compulsive attachment favorite limerence tools programs software templates resources open source",
+    "compulsive attachment favorite limerence media assets images audio video archive",
+    "compulsive attachment favorite limerence theory concept framework model rare idea",
+    "compulsive attachment favorite limerence criticism counter perspective deconstruction",
+    "compulsive attachment favorite limerence step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-09-01T12:47:47.006Z",
+  "summary": "10-min SPECTRUM (3m min) for 'compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation' → 47 usable+review assets (web:46 yt:0 board:6) across 26 domains stories:6",
+  "claims": [
+    {
+      "claim": "Understanding Obsessive Love Through Attachment Theory",
+      "source": "https://blog.personaldevelopmentschool.com/post/what-is-limerence",
+      "assetId": "a2a4ecf29330",
+      "category": "rare"
+    },
+    {
+      "claim": "How to Get Over Limerence When You Have Anxious Attachment Psychdom",
+      "source": "https://www.psychdom.com/articles/limerence-anxious-attachment",
+      "assetId": "71b68ae5edb0",
+      "category": "rare"
+    },
+    {
+      "claim": "Skip to content (https://www.psychdom.com/articles/limerence anxious attachment main content) ! (https://www.psychdom.com/_next/image?url=%2Fimages%2Farticles%2F1776613177966 8QJ05D25M681790NN0JI%2Flimerence_and_anxious_attachment.webp&w=3840&q=75&dpl=dpl_AQ3HnZAYReJvyvTDrRfUYHddpPid) At a glance",
+      "source": "https://www.psychdom.com/articles/limerence-anxious-attachment",
+      "assetId": "71b68ae5edb0",
+      "category": "rare"
+    },
+    {
+      "claim": "The Anxious Mystic Attachment, Limerence & Spiritual Tools",
+      "source": "https://theanxiousmystic.com/",
+      "assetId": "23d51cd034ac",
+      "category": "tool"
+    },
+    {
+      "claim": "Spiritual tools for anxious attachment, limerence, and sensitive nervous systems",
+      "source": "https://theanxiousmystic.com/",
+      "assetId": "23d51cd034ac",
+      "category": "tool"
+    }
+  ],
+  "patterns": [
+    "github.com",
+    "nsuworks.nova.edu",
+    "www.simplypsychology.com",
+    "careandselflove.com",
+    "blog.personaldevelopmentschool.com",
+    "www.psychdom.com"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation case study",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation rare archive",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation tools comparison"
+  ],
+  "byCategory": {
+    "rare": 9,
+    "tool": 12,
+    "media": 13,
+    "feed": 4,
+    "page": 3,
+    "story": 6
+  },
+  "verificationSummary": {
+    "total": 52,
+    "usable": 6,
+    "needsReview": 47,
+    "reject": 5
+  },
+  "topAssets": [
+    {
+      "title": "GitHub - heathershaffer75/limerence-lab",
+      "url": "https://github.com/heathershaffer75/limerence-lab",
+      "score": 0.63,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "&quot;Exploring the Lived-Experience of Limerence: A Journey ... - NSUWorks",
+      "url": "https://nsuworks.nova.edu/tqr/vol20/iss1/2/",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Limerence: When Infatuation Becomes Obsession (2026)",
+      "url": "https://www.simplypsychology.com/articles/limerence-obsessive-infatuation",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Limerence detox: Step-by-step practices to stop obsessive crushes ...",
+      "url": "https://careandselflove.com/limerence-detox/",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "What Is Limerence? Understanding Obsessive Love Through Attachment Theory",
+      "url": "https://blog.personaldevelopmentschool.com/post/what-is-limerence",
+      "score": 0.56,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "How to Get Over Limerence When You Have Anxious Attachment",
+      "url": "https://www.psychdom.com/articles/limerence-anxious-attachment",
+      "score": 0.56,
+      "category": "rare",
+      "usable": true
+    }
+  ]
+}

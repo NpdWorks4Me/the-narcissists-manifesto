@@ -1,19 +1,24 @@
 ---
-id: "inbox-readme"
-title: "Inbox — Landing Zone"
-type: "moc"
-status: "active"
-created: "2026-08-31"
-updated: "2026-08-31"
+id: inbox-readme
+title: Inbox — Landing Zone
+type: moc
+status: active
+created: '2026-08-31'
+updated: '2026-08-31'
 tags: []
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: ""
+  last_explored: ''
+  current_thought: ''
+  next_step: ''
 content_potential:
-  suggested_format: "none"
-  confidence_score: 0.0
+  suggested_format: none
+  confidence_score: 0
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # 📥 00 Inbox — Landing Zone
@@ -24,7 +29,7 @@ content_potential:
 
 1. Create a new note in this folder (or paste via Obsidian capture). Raw text is fine — no frontmatter required.
 2. **Engine A** (file watcher + daily scan) will:
-   - Extract `#tags`, `[[links]]`, `TODO`s and topic entities
+   - Extract `#tags`, wikilinks (double-bracket notation), `TODO`s and topic entities
    - Add valid YAML frontmatter (`type: inbox → hyperfixation` if single-topic)
    - Wrap your original text under `## Raw Capture` (never destroys your words)
    - Suggest or auto-route to `01 Hyperfixations/` when confident

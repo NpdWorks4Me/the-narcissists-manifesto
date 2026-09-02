@@ -1,14 +1,26 @@
 ---
-id: "setup-guide"
-title: "Vault Setup Guide"
-type: "moc"
-status: "active"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: [setup, meta]
+id: setup-guide
+title: Vault Setup Guide
+type: moc
+status: active
+created: '2026-08-31'
+updated: '2026-08-31'
+tags:
+  - setup
+  - meta
 aliases: []
-resume_point: { last_explored: "provisioning", current_thought: "verify plugins load", next_step: "Run vault:check and open Command Center" }
-content_potential: { suggested_format: "none", confidence_score: 0.0 }
+resume_point:
+  last_explored: provisioning
+  current_thought: verify plugins load
+  next_step: 'Run vault:check and open Command Center'
+content_potential:
+  suggested_format: none
+  confidence_score: 0
+freshness:
+  type: timeless
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # 🛠️ Vault Setup Guide

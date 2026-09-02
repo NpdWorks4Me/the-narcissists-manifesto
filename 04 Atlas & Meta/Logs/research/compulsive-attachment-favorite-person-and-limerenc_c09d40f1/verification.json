@@ -1,0 +1,894 @@
+{
+  "verification": [
+    {
+      "assetId": "cfc5b00409e5",
+      "url": "https://www.uncling.app/limerence-app",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "b89983e741e1",
+      "url": "https://github.com/rlamana/Limerence",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 17 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_16984688",
+      "url": "https://images.pexels.com/photos/16984688/pexels-photo-16984688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_18485573",
+      "url": "https://images.pexels.com/photos/18485573/pexels-photo-18485573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_30961760",
+      "url": "https://images.pexels.com/photos/30961760/pexels-photo-30961760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "b5dc1b44f50e",
+      "url": "https://github.com/heathershaffer75/limerence-lab",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.67,
+        "reasons": [
+          "relevance 1.00",
+          "wordCount 1314",
+          "usable 0.67 >= 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "e708438ed9ee",
+      "url": "https://nsuworks.nova.edu/tqr/vol20/iss1/2/",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6525,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 573",
+          "usable 0.65 >= 0.58"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/pages/e708438ed9ee_2.html",
+      "verified": true
+    },
+    {
+      "assetId": "9527125c03f5",
+      "url": "https://www.simplypsychology.com/articles/limerence-obsessive-infatuation",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6525,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 1592",
+          "usable 0.65 >= 0.58"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/pages/9527125c03f5_limerence-obsessive-.html",
+      "verified": true
+    },
+    {
+      "assetId": "89a2934bfa43",
+      "url": "https://careandselflove.com/limerence-detox/",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6525,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 1824",
+          "usable 0.65 >= 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "a2a4ecf29330",
+      "url": "https://blog.personaldevelopmentschool.com/post/what-is-limerence",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6000000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "wordCount 1538",
+          "usable 0.60 >= 0.58"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/pages/a2a4ecf29330_what-is-limerence.html",
+      "verified": true
+    },
+    {
+      "assetId": "71b68ae5edb0",
+      "url": "https://www.psychdom.com/articles/limerence-anxious-attachment",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6000000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "wordCount 1822",
+          "usable 0.60 >= 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "23d51cd034ac",
+      "url": "https://theanxiousmystic.com/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5725,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 431",
+          "needsReview 0.57"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "d27008906fc0",
+      "url": "https://secure.gravatar.com/avatar/323bbdd5a121396497ac108d26ec43c4936e73c3620661f5b8e047e680321e27?s=120&#038;d=mm&#038;r=g",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/d27008906fc0_323bbdd5a121396497ac.png",
+      "verified": true
+    },
+    {
+      "assetId": "ceb76fab0bc2",
+      "url": "https://www.unpluggedpsych.com/wp-content/uploads/2026/08/230820261787522360-860x574.jpeg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/ceb76fab0bc2_230820261787522360-8.jpeg",
+      "verified": true
+    },
+    {
+      "assetId": "0ce1dd7597c2",
+      "url": "https://yt3.ggpht.com/bad23xz-hXD0yJnUcUp0Ktxztr-9n_wz1L_8l1ho4rFmbPEDRGSTnJ0Wd3Qqxv5Mj6jmB9AH6Ct-ssw=s1024-c-fcrop64=1,00000000ffffffff-rw-nd-v1",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/0ce1dd7597c2_bad23xz-hXD0yJnUcUp0.webp",
+      "verified": true
+    },
+    {
+      "assetId": "479cf9ae0052",
+      "url": "https://cottonwoodpsychology.com/wp-content/uploads/2025/10/cropped-Cottonwood-Psychology-Logo.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/479cf9ae0052_cropped-Cottonwood-P.png",
+      "verified": true
+    },
+    {
+      "assetId": "8f593ec1cbff",
+      "url": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/8f593ec1cbff_favicon.ico.ico",
+      "verified": true
+    },
+    {
+      "assetId": "d1e43a298400",
+      "url": "https://cottonwoodpsychology.com/wp-content/uploads/2025/10/susan_anderson-24x24.jpg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/d1e43a298400_susan_anderson-24x24.jpg",
+      "verified": true
+    },
+    {
+      "assetId": "89cb71259f1b",
+      "url": "https://blog.personaldevelopmentschool.com/_next/image?url=%2Fimg%2Fpds-icon.png&amp;w=256&amp;q=75",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "3f589f436d08",
+      "url": "https://blog.personaldevelopmentschool.com/icons/hamburger-menu.svg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/3f589f436d08_hamburger-menu.svg.svg",
+      "verified": true
+    },
+    {
+      "assetId": "5d9ee8c8599e",
+      "url": "https://blog.personaldevelopmentschool.com/_next/image?url=%2Fimg%2Fpds-icon.png&amp;w=96&amp;q=75",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "ae45080e8eb5",
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/QVA34oEfYd8hn0Gs8DtW/media/6971aebfeb392bbe3074ffda.jpg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/media/ae45080e8eb5_6971aebfeb392bbe3074.jpg",
+      "verified": true
+    },
+    {
+      "assetId": "46fdce6455db",
+      "url": "https://www.psychdom.com/_next/image?url=%2Fbrand%2FPsychdom%2BLogo.png&amp;w=3840&amp;q=75&amp;dpl=dpl_AQ3HnZAYReJvyvTDrRfUYHddpPid",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "7977981f4217",
+      "url": "https://www.psychdom.com/_next/image?url=%2Fimages%2Farticles%2F1776613177966-8QJ05D25M681790NN0JI%2Flimerence_and_anxious_attachment.webp&amp;w=3840&amp;q=75&amp;dpl=dpl_AQ3HnZAYReJvyvTDrRfUYHddpPid",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "3b478861f634",
+      "url": "https://www.scribd.com/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "ac368bd2a6b0",
+      "url": "https://www.unpluggedpsych.com/adapting-to-repeated-safety-changes-overcoming-old-expectations/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "11e42ced4cbf",
+      "url": "https://www.unpluggedpsych.com/feeling-safe-how-to-know-youre-secure/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "8e324857e92f",
+      "url": "https://www.unpluggedpsych.com/sample-page/#comment-3955",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "701b7476e562",
+      "url": "https://www.unpluggedpsych.com/sample-page/#comment-3954",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.58,
+        "reasons": [
+          "relevance 0.60",
+          "short 1 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "23d1a189470b",
+      "url": "https://livingwithlimerence.com/resources/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5475,
+        "reasons": [
+          "relevance 0.65",
+          "wordCount 1052",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "ed999897f092",
+      "url": "https://missionconnectionhealthcare.com/mental-health/attachment-disorder/limerence-and-attachment/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 1729",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "03b5d087f036",
+      "url": "https://www.unpluggedpsych.com/navigating-limerence-and-anxious-attachment/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 1761",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "0229e47d9977",
+      "url": "https://health.clevelandclinic.org/limerence",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 1388",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "b91171755d6e",
+      "url": "https://montarebehavioralhealth.com/blog/limerence/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 1545",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "a896aae0eaab",
+      "url": "https://getoverlab.com/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.52,
+        "reasons": [
+          "relevance 0.80",
+          "wordCount 644",
+          "needsReview 0.52"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "d760eba74fab",
+      "url": "https://orlymillerpsychology.com/limerence",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5275,
+        "reasons": [
+          "relevance 0.65",
+          "short 70 words < 120",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-limerence_20c7b9a6/assets/pages/d760eba74fab_limerence.html",
+      "verified": true
+    },
+    {
+      "assetId": "0534bbcdc872",
+      "url": "https://www.idrlabs.com/limerence/test.php",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5,
+        "reasons": [
+          "relevance 0.70",
+          "short 2 words < 120",
+          "needsReview 0.50"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "74c61822638a",
+      "url": "https://www.mentalhealthwellnessmhw.com/blog/from-infatuation-to-obsession-how-attachment-fuels-limerence",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "wordCount 1397",
+          "needsReview 0.48"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "cf95db0143e0",
+      "url": "https://cottonwoodpsychology.com/blog/what-is-the-link-between-anxious-attachment-and-limerence/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "wordCount 662",
+          "needsReview 0.48"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "f1899af3d728",
+      "url": "https://www.scribd.com/document/836995793/LIMERENCE-TCC",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.44749999999999995,
+        "reasons": [
+          "relevance 0.65",
+          "short 51 words < 120",
+          "needsReview 0.45"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "b26ab187c708",
+      "url": "https://medium.com/@arrnica/limerence-obsession-attachment-issues-childhood-trauma-248174fc0891",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4600000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 116 words < 120",
+          "needsReview 0.46"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "ca2444e4e352",
+      "url": "https://www.reddit.com/r/limerence/comments/156n9zg/what_are_you_limerence_stories/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "wordCount 296",
+          "needsReview 0.43"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "3d6eadf25b0d",
+      "url": "https://www.reddit.com/r/limerence/comments/ofsdkd/my_limerence_story_a_ten_year_obsession/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "wordCount 296",
+          "needsReview 0.43"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "fb56fc719ce2",
+      "url": "https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.405,
+        "reasons": [
+          "low relevance 0.30 < 0.52",
+          "short 18 words < 120",
+          "needsReview 0.41"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "f52e6d862f4b",
+      "url": "https://medium.com/readers-club/caught-in-the-web-of-limerence-my-journey-through-obsessive-love-4257242bea90",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4075,
+        "reasons": [
+          "relevance 0.65",
+          "short 116 words < 120",
+          "needsReview 0.41"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "a66e63e6568f",
+      "url": "https://www.confessyoursins.com/confessions",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.28500000000000003,
+        "reasons": [
+          "low relevance 0.30 < 0.52",
+          "short 59 words < 120",
+          "needsReview 0.29"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "board_flimerence",
+      "url": "https://www.reddit.com/r/limerence/comments/1awsui4/two_definitions_of_limerence/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.425,
+        "reasons": [
+          "low relevance 0.42 < 0.52",
+          "wordCount 244",
+          "needsReview 0.42"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_c09d40f1/assets/stories/board_flimerence.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_hlimerence",
+      "url": "https://www.reddit.com/r/limerence/comments/irnlh8/what_attachment_style_do_you_have_with_limerence/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "relevance 0.55",
+          "wordCount 244",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_c09d40f1/assets/stories/board_hlimerence.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_nloandfp",
+      "url": "https://www.reddit.com/r/limerence/comments/13yyvvy/difference_between_lo_and_fp/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.425,
+        "reasons": [
+          "low relevance 0.42 < 0.52",
+          "wordCount 244",
+          "needsReview 0.42"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_c09d40f1/assets/stories/board_nloandfp.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_ceptofbpd",
+      "url": "https://www.reddit.com/r/limerence/comments/148jxyc/how_does_limerence_differ_from_the_concept_of_bpd/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "relevance 0.55",
+          "wordCount 244",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_c09d40f1/assets/stories/board_ceptofbpd.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_mentstyles",
+      "url": "https://www.reddit.com/r/limerence/comments/12594au/attachment_styles/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "relevance 0.55",
+          "wordCount 244",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_c09d40f1/assets/stories/board_mentstyles.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_confessing",
+      "url": "https://www.reddit.com/r/OCD/comments/1aee109/compulsive_confessing/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.425,
+        "reasons": [
+          "low relevance 0.42 < 0.52",
+          "wordCount 244",
+          "needsReview 0.42"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/compulsive-attachment-favorite-person-and-limerenc_c09d40f1/assets/stories/board_confessing.md",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "total": 52,
+    "usable": 6,
+    "needsReview": 47,
+    "reject": 5
+  }
+}

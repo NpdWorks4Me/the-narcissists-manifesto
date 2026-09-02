@@ -1,19 +1,42 @@
 ---
-id: "20260831201902-cqp9"
-title: "SPEC — Variable"
-type: "content-project"
-status: "drafting"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: ["atomic", "auto/generated", "auto/research", "auto/spectrum", "behavioral-economics", "engine-b", "generated/2026", "generated/2026-08-31", "idea/spec-variable", "idea/variable", "manifesto", "newsletter", "psychology", "spec", "synthesized", "variable"]
+id: 20260831201902-cqp9
+title: SPEC — Variable
+type: content-project
+status: archived
+created: '2026-08-31'
+updated: '2026-09-02'
+archived_reason: "Duplicate of [[SPEC — Variable Reward Schedules]] — same atomic, redundant spec. Regenerate only if Variable gains a distinct angle from Variable Reward Schedules."
+parked_at: '2026-09-02'
+tags:
+  - atomic
+  - auto/generated
+  - auto/research
+  - auto/spectrum
+  - behavioral-economics
+  - engine-b
+  - generated/2026
+  - generated/2026-08-31
+  - idea/spec-variable
+  - idea/variable
+  - manifesto
+  - newsletter
+  - psychology
+  - spec
+  - synthesized
+  - variable
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: "Draft hook and thesis"
+  last_explored: ''
+  current_thought: ''
+  next_step: Draft hook and thesis
 content_potential:
-  suggested_format: "newsletter"
+  suggested_format: newsletter
   confidence_score: 0.85
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # SPEC — Variable

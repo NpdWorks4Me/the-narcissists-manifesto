@@ -1,0 +1,108 @@
+{
+  "researchId": "5854593f",
+  "baseQuery": "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation",
+  "oneShotQueries": [
+    "compulsive attachment favorite limerence",
+    "compulsive attachment favorite limerence lived experience personal story raw confessional",
+    "compulsive attachment favorite limerence history archive rare forgotten vintage obscure abandoned",
+    "compulsive attachment favorite limerence tools programs software templates resources open source",
+    "compulsive attachment favorite limerence media assets images audio video archive",
+    "compulsive attachment favorite limerence theory concept framework model rare idea",
+    "compulsive attachment favorite limerence criticism counter perspective deconstruction",
+    "compulsive attachment favorite limerence step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-09-01T12:40:21.369Z",
+  "summary": "10-min SPECTRUM (3m min) for 'compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation' → 58 usable+review assets (web:52 yt:0 board:12) across 23 domains stories:12",
+  "claims": [
+    {
+      "claim": "Limerence OCD: Understanding Obsessive Love \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n\t\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\r\n\r\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n",
+      "source": "https://neurolaunch.com/limerence-ocd/",
+      "assetId": "8660cb730cef",
+      "category": "rare"
+    },
+    {
+      "claim": "Limerence, Attachment Styles, and Recovery | Psychology Today \n\n\n\n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n",
+      "source": "https://www.psychologytoday.com/us/blog/the-neurodivergent-therapist/202501/limerence-attachment-styles-and-recovery",
+      "assetId": "82f42a80c7dd",
+      "category": "rare"
+    },
+    {
+      "claim": "- \n- \n- \n- \n- The Anxious Mystic | Attachment, Limerence & Spiritual Tools \n- \n- ![](https://theanxiousmystic.com/_next/image?url=%2Fimages%2Fcelestial%2Fbackdrop-chart.webp&w=3840&q=75&dpl=dpl_GQJiBX",
+      "source": "https://theanxiousmystic.com/",
+      "assetId": "23d51cd034ac",
+      "category": "tool"
+    }
+  ],
+  "patterns": [
+    "github.com",
+    "neurolaunch.com",
+    "nsuworks.nova.edu",
+    "careandselflove.com",
+    "www.psychologytoday.com",
+    "www.reddit.com"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation case study",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation rare archive",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation tools comparison"
+  ],
+  "byCategory": {
+    "rare": 10,
+    "tool": 13,
+    "media": 16,
+    "feed": 6,
+    "page": 1,
+    "story": 12
+  },
+  "verificationSummary": {
+    "total": 64,
+    "usable": 6,
+    "needsReview": 58,
+    "reject": 6
+  },
+  "topAssets": [
+    {
+      "title": "GitHub - heathershaffer75/limerence-lab",
+      "url": "https://github.com/heathershaffer75/limerence-lab",
+      "score": 0.63,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Limerence OCD: Understanding Obsessive Love - NeuroLaunch.com",
+      "url": "https://neurolaunch.com/limerence-ocd/",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "&quot;Exploring the Lived-Experience of Limerence: A Journey ... - NSUWorks",
+      "url": "https://nsuworks.nova.edu/tqr/vol20/iss1/2/",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Limerence detox: Step-by-step practices to stop obsessive crushes ...",
+      "url": "https://careandselflove.com/limerence-detox/",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Limerence, Attachment Styles, and Recovery - Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/the-neurodivergent-therapist/202501/limerence-attachment-styles-and-recovery",
+      "score": 0.56,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "anxious attachment and why limerence is so intense",
+      "url": "https://www.reddit.com/r/limerence/comments/o3zf8a/anxious_attachment_and_why_limerence_is_so_intense/",
+      "score": 0.56,
+      "category": "rare",
+      "usable": true
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "researchId": "357aea5b",
+  "baseQuery": "loneliness",
+  "oneShotQueries": [
+    "loneliness",
+    "loneliness lived experience personal story raw confessional",
+    "loneliness history archive rare forgotten vintage obscure abandoned",
+    "loneliness tools programs software templates resources open source",
+    "loneliness media assets images audio video archive",
+    "loneliness theory concept framework model rare idea",
+    "loneliness criticism counter perspective deconstruction",
+    "loneliness step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-08-31T21:16:51.939Z",
+  "summary": "25-min SPECTRUM for 'loneliness' → 5 usable+review assets (web:12 yt:0 board:3) across 4 domains stories:2",
+  "claims": [
+    {
+      "claim": "Loneliness - Wikipedia \n\n- \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n[Jump to content](https://en.wikipedia.org/wiki/Loneliness#bodyContent)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "source": "https://en.wikipedia.org/wiki/Loneliness",
+      "assetId": "e123fbe4e07f",
+      "category": "rare"
+    },
+    {
+      "claim": "- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\nWhat is Causing Our Epidemic of Loneliness and How Can We Fix It",
+      "source": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it",
+      "assetId": "faec0c5a4745",
+      "category": "tool"
+    },
+    {
+      "claim": "| Harvard Graduate School of Education \n\n\n- \n\n- \n\n- \n\n- \n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\t\n\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\n\t\n\n# What is Causing Our Epidemic of Loneliness and How Can We Fix It",
+      "source": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it",
+      "assetId": "faec0c5a4745",
+      "category": "tool"
+    },
+    {
+      "claim": "- \n\t\n\n\t\n- \n\t\n- \n\t\n- \n\t\n- \n\t\n- \n- \n\n- \n\n- \n\n- \n\nLoneliness Confessions | Anonymous Stories About Loneliness \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n- \n- \n\n\n\r\n\r\n![](h",
+      "source": "https://confessions.peonymagazine.com/tag/loneliness/",
+      "assetId": "board_loneliness",
+      "category": "story"
+    }
+  ],
+  "patterns": [
+    "en.wikipedia.org",
+    "www.gse.harvard.edu",
+    "www.mind.org.uk",
+    "confessions.peonymagazine.com"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "loneliness case study",
+    "loneliness rare archive",
+    "loneliness tools comparison"
+  ],
+  "byCategory": {
+    "rare": 1,
+    "tool": 2,
+    "story": 2
+  },
+  "verificationSummary": {
+    "total": 14,
+    "usable": 0,
+    "needsReview": 5,
+    "reject": 9
+  },
+  "topAssets": [
+    {
+      "title": "Loneliness - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Loneliness",
+      "score": 0.5075,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "What is Causing Our Epidemic of Loneliness and How Can We Fix It?",
+      "url": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it",
+      "score": 0.42749999999999994,
+      "category": "tool",
+      "usable": false
+    },
+    {
+      "title": "What is loneliness? | Tips for everyday living | Mind",
+      "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/",
+      "score": 0.42749999999999994,
+      "category": "tool",
+      "usable": false
+    },
+    {
+      "title": "Loneliness Confessions | Anonymous Stories About Loneliness",
+      "url": "https://confessions.peonymagazine.com/tag/loneliness/",
+      "score": 0,
+      "category": "story",
+      "usable": false
+    },
+    {
+      "title": "Anonymous Women&#x27;s Confessions | Confessions of the Female Mind",
+      "url": "https://confessions.peonymagazine.com/",
+      "score": 0,
+      "category": "story",
+      "usable": false
+    }
+  ]
+}

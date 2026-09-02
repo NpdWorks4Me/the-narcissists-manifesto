@@ -1,0 +1,45 @@
+{
+  "researchId": "1cdd5c95",
+  "query": "25MIN SPECTRUM: test dry | test dry lived experience personal story raw confessional | test dry history archive rare forgotten vintage obscure abandoned | test dry tools programs software templates resources open source | test dry media assets images audio video archive | test dry theory concept framework model rare idea | test dry criticism counter perspective deconstruction | test dry step by step guide framework how to system",
+  "idea": "test dry",
+  "slug": "test-dry",
+  "createdAt": "2026-08-31T21:25:25.081Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180,
+    "maxPlaylistVideos": 25,
+    "maxTranscripts": 20,
+    "maxBoardAssets": 12,
+    "youtubeTimeoutMs": 8000
+  },
+  "counts": {
+    "totalAssets": 0,
+    "byCategory": {},
+    "verification": {
+      "total": 0,
+      "usable": 0,
+      "needsReview": 0,
+      "reject": 0
+    },
+    "youtube": 0,
+    "board": 0
+  },
+  "all_assets": [],
+  "one_shot_queries": [
+    "test dry",
+    "test dry lived experience personal story raw confessional",
+    "test dry history archive rare forgotten vintage obscure abandoned",
+    "test dry tools programs software templates resources open source",
+    "test dry media assets images audio video archive",
+    "test dry theory concept framework model rare idea",
+    "test dry criticism counter perspective deconstruction",
+    "test dry step by step guide framework how to system"
+  ],
+  "verification": []
+}

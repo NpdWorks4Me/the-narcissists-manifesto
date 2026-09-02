@@ -1,6 +1,24 @@
 import matter from "gray-matter";
 import { z } from "zod";
 
+export const FreshnessSchema = z
+  .object({
+    type: z.enum(["timeless", "dated", "pointer"]).default("timeless"),
+    as_of: z.string().regex(/^\d{4}-\d{2}-\d{2}$/).optional(),
+    source: z.string().min(1).default("vault"),
+  })
+  .default({ type: "timeless" as const, source: "vault" });
+
+export const RelationsSchema = z
+  .array(
+    z.object({
+      type: z.enum(["supports", "contradicts", "elaborates", "example_of", "derived_from"]),
+      target: z.string().min(1),
+      note: z.string().optional(),
+    })
+  )
+  .default([]);
+
 export const FrontmatterSchema = z.object({
   id: z.string().min(1),
   title: z.string().min(1),
@@ -23,6 +41,8 @@ export const FrontmatterSchema = z.object({
       confidence_score: z.number().min(0).max(1).default(0.0),
     })
     .default({ suggested_format: "none", confidence_score: 0.0 }),
+  freshness: FreshnessSchema.optional(),
+  relations: RelationsSchema.optional(),
 });
 
 export type Frontmatter = z.infer<typeof FrontmatterSchema>;

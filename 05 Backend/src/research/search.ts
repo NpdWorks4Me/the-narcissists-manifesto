@@ -158,8 +158,9 @@ export async function searchWithFallback(query: string, limit = 5): Promise<Sear
       // try next engine
     }
   }
-  // Final fallback to stub
-  return STUB_RESULTS.map(s => ({ ...s, url: s.url + `?q=${encodeURIComponent(query)}`, title: `${query} — ${s.title}` })).slice(0, limit);
+  // No stub fallback: return empty so the pipeline sees zero results for this query
+  // instead of polluting the asset pool with fake example.com entries.
+  return [];
 }
 
 // Keep original export for backwards compat, but make it use fallback

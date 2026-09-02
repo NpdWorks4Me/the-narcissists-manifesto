@@ -1,19 +1,43 @@
 ---
-id: "20260831201902-vtqr"
-title: "SPEC — Narcissism"
-type: "content-project"
-status: "drafting"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: ["atomic", "auto/generated", "auto/research", "auto/spectrum", "engine-b", "extreme", "generated/2026", "generated/2026-08-31", "idea/narcissism", "idea/spec-narcissism", "loneliness", "longing", "manifesto", "narcissism", "newsletter", "spec", "synthesized"]
+id: 20260831201902-vtqr
+title: SPEC — Narcissism
+type: content-project
+status: archived
+created: '2026-08-31'
+updated: '2026-09-02'
+archived_reason: "Source hyperfixation [[loneliness]] (formerly [[extreme-loneliness-and-longing]], now merged) is parked — spec has no live source. Regenerate when source resumes."
+parked_at: '2026-09-02'
+tags:
+  - atomic
+  - auto/generated
+  - auto/research
+  - auto/spectrum
+  - engine-b
+  - extreme
+  - generated/2026
+  - generated/2026-08-31
+  - idea/narcissism
+  - idea/spec-narcissism
+  - loneliness
+  - longing
+  - manifesto
+  - narcissism
+  - newsletter
+  - spec
+  - synthesized
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: "Draft hook and thesis"
+  last_explored: ''
+  current_thought: ''
+  next_step: Draft hook and thesis
 content_potential:
-  suggested_format: "newsletter"
+  suggested_format: newsletter
   confidence_score: 0.85
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # SPEC — Narcissism

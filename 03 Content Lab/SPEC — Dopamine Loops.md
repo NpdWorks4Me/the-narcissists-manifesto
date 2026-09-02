@@ -1,19 +1,29 @@
 ---
-id: "20260831162228-z9zn"
-title: "SPEC — Dopamine Loops"
-type: "content-project"
-status: "drafting"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: ["psychology", "behavioral-economics", "variable"]
+id: 20260831162228-z9zn
+title: SPEC — Dopamine Loops
+type: content-project
+status: archived
+created: '2026-08-31'
+updated: '2026-09-02'
+archived_reason: "WIP cap — archived during 14→5 triage. Regenerate when [[dopamine-loops]] is committed as the next published piece."
+parked_at: '2026-09-02'
+tags:
+  - psychology
+  - behavioral-economics
+  - variable
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: "Draft hook and thesis"
+  last_explored: ''
+  current_thought: ''
+  next_step: Draft hook and thesis
 content_potential:
-  suggested_format: "newsletter"
+  suggested_format: newsletter
   confidence_score: 0.85
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # SPEC — Dopamine Loops

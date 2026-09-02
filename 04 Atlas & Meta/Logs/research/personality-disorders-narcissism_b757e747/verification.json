@@ -1,0 +1,608 @@
+{
+  "verification": [
+    {
+      "assetId": "816970088c17",
+      "url": "https://narcissisticman.com/vetted/7-best-narcissistic-personality-assessment-tools-for-2026/",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "2754fe335440",
+      "url": "https://narcissisticman.com/vetted/9-best-narcissistic-personality-disorder-assessment-tools-in-2026/",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "de26dbf5410c",
+      "url": "https://github.com/khanitin/narcissism",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 6 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "059efb0c1d14",
+      "url": "https://github.com/topics/personality-disorders",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 2 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "8258856f88da",
+      "url": "https://openpsychometrics.org/",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "d655bc60e945",
+      "url": "https://happiertherapy.com/narcissistic-personality-disorder-worksheet-2/",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 3 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_9169325",
+      "url": "https://images.pexels.com/photos/9169325/pexels-photo-9169325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_19212253",
+      "url": "https://images.pexels.com/photos/19212253/pexels-photo-19212253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_19212252",
+      "url": "https://images.pexels.com/photos/19212252/pexels-photo-19212252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "eb6f85ce264d",
+      "url": "https://www.psychologytoday.com/us/blog/understanding-narcissism/202310/a-brief-history-of-narcissistic-personality-disorder",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.67,
+        "reasons": [
+          "relevance 1.00",
+          "short 64 words < 120",
+          "needsReview 0.67"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/pages/eb6f85ce264d_a-brief-history-of-n.html",
+      "verified": true
+    },
+    {
+      "assetId": "e0f24bf5dc17",
+      "url": "https://www.simplypsychology.com/articles/narcissistic-personality-disorder-guide",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6525,
+        "reasons": [
+          "relevance 0.95",
+          "short 85 words < 120",
+          "usable 0.65 >= 0.58"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/pages/e0f24bf5dc17_narcissistic-persona.html",
+      "verified": true
+    },
+    {
+      "assetId": "b9570084c9d8",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781118093108.ch1",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6525,
+        "reasons": [
+          "relevance 0.95",
+          "short 38 words < 120",
+          "needsReview 0.65"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "c89728220e29",
+      "url": "https://www.psychologytools.com/professional/problems/personality-disorders",
+      "verification": {
+        "usable": true,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6525,
+        "reasons": [
+          "relevance 0.95",
+          "short 102 words < 120",
+          "usable 0.65 >= 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "f408bde9a8ae",
+      "url": "http://web.archive.org/web/20260325015713/https://www.researchgate.net/publication/235336676_A_Historical_Review_of_Narcissism_and_Narcissistic_Personality",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "4d2a7cee15ea",
+      "url": "http://web.archive.org/web/20250328092330/https://onlinelibrary.wiley.com/doi/10.1002/9781118093108.ch1",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "9d95f058da2d",
+      "url": "https://www.stephenhedger.com/real-people-real-stories-i-lived-with-a-narcissist-for-14-years/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.6000000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 63 words < 120",
+          "needsReview 0.60"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/pages/9d95f058da2d_real-people-real-sto.html",
+      "verified": true
+    },
+    {
+      "assetId": "556feecc5113",
+      "url": "https://www.researchgate.net/publication/235336676_A_Historical_Review_of_Narcissism_and_Narcissistic_Personality",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5800000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 45 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "0da8341cf89f",
+      "url": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-06/2026-07.png.jpg?itok=DlKFbn6e",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/0da8341cf89f_2026-07.png.jpg.jpg",
+      "verified": true
+    },
+    {
+      "assetId": "921d4d136532",
+      "url": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-04/2026-05.png.jpg?itok=0bF8jd5M",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/921d4d136532_2026-05.png.jpg.jpg",
+      "verified": true
+    },
+    {
+      "assetId": "e816edf44f53",
+      "url": "https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2026-03/psychology-today-magazine-2026-03.jpg?itok=6L88mQwU",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/e816edf44f53_psychology-today-mag.jpg",
+      "verified": true
+    },
+    {
+      "assetId": "34d9c986b2ae",
+      "url": "https://www.psytoolkit.org/i/course_jun25.webp",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/34d9c986b2ae_course_jun25.webp.webp",
+      "verified": true
+    },
+    {
+      "assetId": "b15c83f0645b",
+      "url": "https://www.psytoolkit.org/i/bluesky.webp",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/b15c83f0645b_bluesky.webp.webp",
+      "verified": true
+    },
+    {
+      "assetId": "7161bb452d5a",
+      "url": "https://www.psytoolkit.org/i/psyminion.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/7161bb452d5a_psyminion.png.png",
+      "verified": true
+    },
+    {
+      "assetId": "aa93013fd029",
+      "url": "https://a.fsdn.com/con/images/sandiego/sf-logo-full.svg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/aa93013fd029_sf-logo-full.svg.svg",
+      "verified": true
+    },
+    {
+      "assetId": "9f4ae92d52f3",
+      "url": "https://a.fsdn.com/con/app/nel_img/21136",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_cf4bb173/assets/media/9f4ae92d52f3_21136.png",
+      "verified": true
+    },
+    {
+      "assetId": "3df27d005f28",
+      "url": "https://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/symptoms-causes/syc-20366662",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "short 78 words < 120",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "cfe3a5cd9136",
+      "url": "https://lifescoretest.com/tools/narcissism-test",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "needsReview 0.50"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "9e1327f972d9",
+      "url": "https://www.health.harvard.edu/mind-and-mood/narcissistic-personality-disorder-symptoms-diagnosis-and-treatments",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "short 57 words < 120",
+          "needsReview 0.48"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "4827793daa31",
+      "url": "https://www.psytoolkit.org/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.44999999999999996,
+        "reasons": [
+          "relevance 0.60",
+          "short 40 words < 120",
+          "needsReview 0.45"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "c439f831a6eb",
+      "url": "https://sourceforge.net/directory/psychology/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.39749999999999996,
+        "reasons": [
+          "low relevance 0.45 < 0.52",
+          "short 50 words < 120",
+          "needsReview 0.40"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "46d69eb1457f",
+      "url": "https://www.buzzfeed.com/meganeliscomb/diagnosed-narcissist-stories",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.3575,
+        "reasons": [
+          "low relevance 0.45 < 0.52",
+          "short 111 words < 120",
+          "needsReview 0.36"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "a05498a7603a",
+      "url": "https://goodmenproject.com/featured-content/confessions-of-a-recovering-narcissist-or-how-i-learned-to-be-unselfish/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.30500000000000005,
+        "reasons": [
+          "low relevance 0.30 < 0.52",
+          "short 38 words < 120",
+          "needsReview 0.31"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "board_lationships",
+      "url": "https://peonymagazine.com/love-power/fractured-the-insidious-nature-of-victimhood-and-villainhood-within-relationships/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 465",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_b757e747/assets/stories/board_lationships.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_beinghuman",
+      "url": "https://confessions.peonymagazine.com/the-pain-of-being-human/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 306",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_b757e747/assets/stories/board_beinghuman.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_tagvictim",
+      "url": "https://peonymagazine.com/tag/victim/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 424",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/personality-disorders-narcissism_b757e747/assets/stories/board_tagvictim.md",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "total": 35,
+    "usable": 2,
+    "needsReview": 26,
+    "reject": 9
+  }
+}

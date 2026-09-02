@@ -102,6 +102,8 @@ export function writeHyperfixation(
   const mediaAssets = (assets as any[]).filter((a) => a.category === "media").slice(0, 3);
   const toolAssets = (assets as any[]).filter((a) => a.category === "tool").slice(0, 3);
   const rareAssets = (assets as any[]).filter((a) => a.category === "rare" || a.category === "archive").slice(0, 3);
+  const transcriptAssets = (assets as any[]).filter((a) => a.category === "transcript").slice(0, 3);
+  const storyAssets = (assets as any[]).filter((a) => a.category === "story").slice(0, 3);
 
   const topAssetsMd = assets
     .slice(0, 5)
@@ -117,6 +119,12 @@ export function writeHyperfixation(
   const rareMd = rareAssets.length
     ? rareAssets.map((a: any) => `- [${a.title}](${a.sourceUrl}) ${a.archiveUrl ? `→ [Archive](${a.archiveUrl})` : ""} — ${a.domain}`).join("\n")
     : "_No rare/archival hits_";
+  const transcriptMd = transcriptAssets.length
+    ? transcriptAssets.map((a: any) => `- [${a.title}](${a.sourceUrl}) — ${a.wordCount || "?"} words, coverage ${a.coverage?.toFixed(2) || "?"} — [[${a.sourceUrl}]]`).join("\n")
+    : "_No transcripts harvested — add YouTube playlists to Personality Disorders file_";
+  const storyMd = storyAssets.length
+    ? storyAssets.map((a: any) => `- [${a.title}](${a.sourceUrl}) — ${a.wordCount || "?"} words, authenticity ${a.authenticity?.toFixed(2) || "?"} — ${a.domain}`).join("\n")
+    : "_No board stories harvested_";
 
   const inlineTags = generatedTags.map((t) => `#${t}`).join(" ");
   const body = `# ${idea}
@@ -152,6 +160,14 @@ ${toolMd}
 ### Rare / Forgotten / Archival
 
 ${rareMd}
+
+### YouTube Transcripts
+
+${transcriptMd}
+
+### Message Board Stories
+
+${storyMd}
 
 ## Synthesis — Spectrum Insights
 

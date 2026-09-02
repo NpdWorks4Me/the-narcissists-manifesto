@@ -116,7 +116,7 @@ Enabled via `.obsidian/community-plugins.json` + `.obsidian/plugins/{...}/`. Res
 ### Engine A: Meta-Tracking & System Maintenance
 - **Inbox Triage:** `00 Inbox/test-variable-rewards.md` (raw dump, no frontmatter) → dry-run suggested `01 Hyperfixations/test-variable-rewards.md`, apply created file with extracted tags `[psychology, behavioral-economics, variable]` + `## Raw Capture` preserved. ✅ **PASS**
 - **Resume Point Tracking:** 0 nudges currently (all `updated` today); threshold 7d tested via `Logs/resume-nudges.json`. ✅
-- **Stale & Link Hygiene:** `hygiene.json` reports orphans 0, broken 9 (template folder links + demo `[[Behavioral Economics]]` stub), stale 0. Orphan detection excludes templates/dashboards. ✅
+- **Stale & Link Hygiene:** `hygiene.json` reports orphans 0, broken 9 (template folder links + demo `Behavioral Economics` stub), stale 0. Orphan detection excludes templates/dashboards. ✅
 - **WIP Enforcement:** 4 active (3 hyperfixations + 1 moc) < limit 5 → healthy; alert file `Logs/wip-alert.md` only on exceed. ✅
 - **Trigger:** `chokidar` watch on `00 Inbox` (debounced 1.5s) + daily 09:00 via `vaultd.ts` + `launchd` plist. ✅
 
@@ -151,7 +151,7 @@ Run: `npm run vault:engine-b -- --dry-run` / `--apply`, `npm run vault:report`
 - **Never Destroy Raw Capture:** Original wrapped under `## Raw Capture`, insights appended after, frontmatter prepended. ✅
 - **Low-Friction Coaching:** Nudge text *"This project has been resting for 14 days. Resume from last point, park, or extract key insights?"* + WIP alert offers `park` sorted by `updated`, never auto-archives. ✅
 - **Preserve Authentic Voice:** Engine B prompts include contained source excerpts; atomic `Definition` seeded from user's phrasing. ✅
-- **Actionable Micro-Steps:** All `next_step` rendered as `- [ ] Open [[SPEC — ...]] and edit section 2 📅 2026-09-07` with Tasks dates. ✅
+- **Actionable Micro-Steps:** All `next_step` rendered as `- [ ] Open SPEC — <title> and edit section 2 📅 2026-09-07` with Tasks dates. ✅
 
 ---
 

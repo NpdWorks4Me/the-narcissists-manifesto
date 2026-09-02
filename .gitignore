@@ -39,3 +39,6 @@ research-engine/.cache/
 # Build
 05 Backend/dist/
 dist/
+
+# dsh-memory (Lingshu) agent memory database
+05 Backend/data/

@@ -1,0 +1,103 @@
+{
+  "researchId": "f2d00f7b",
+  "baseQuery": "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation",
+  "oneShotQueries": [
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation lived experience personal story raw confessional",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation history archive rare forgotten vintage obscure abandoned",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation tools programs software templates resources open source",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation media assets images audio video archive",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation theory concept framework model rare idea",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation criticism counter perspective deconstruction",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-09-01T12:20:39.298Z",
+  "summary": "10-min SPECTRUM (3m min) for 'compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation' → 65 usable+review assets (web:39 yt:25 board:5) across 17 domains transcripts:25 stories:5",
+  "claims": [
+    {
+      "claim": "Limerence, Attachment Styles, and Recovery | Psychology Today \n\n\n\n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n",
+      "source": "https://www.psychologytoday.com/us/blog/the-neurodivergent-therapist/202501/limerence-attachment-styles-and-recovery",
+      "assetId": "82f42a80c7dd",
+      "category": "rare"
+    },
+    {
+      "claim": "https://neurolaunch.com/wp-content/uploads/2024/07/limerence-ocd-understanding-the-overlap-between-obsessive-love-and-obsessive-compulsive-disorder-1024x701.png",
+      "source": "https://neurolaunch.com/wp-content/uploads/2024/07/limerence-ocd-understanding-the-overlap-between-obsessive-love-and-obsessive-compulsive-disorder-1024x701.png",
+      "assetId": "44ea603f6644",
+      "category": "media"
+    }
+  ],
+  "patterns": [
+    "neurolaunch.com",
+    "traumaorhealing.substack.com",
+    "www.psychologytoday.com",
+    "web.archive.org",
+    "theazb.com"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation case study",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation rare archive",
+    "compulsive attachment favorite person and limerence negative effects on the person and the subject of the fixation tools comparison"
+  ],
+  "byCategory": {
+    "rare": 6,
+    "archive": 2,
+    "media": 17,
+    "feed": 4,
+    "tool": 5,
+    "page": 1,
+    "transcript": 25,
+    "story": 5
+  },
+  "verificationSummary": {
+    "total": 69,
+    "usable": 3,
+    "needsReview": 65,
+    "reject": 4
+  },
+  "topAssets": [
+    {
+      "title": "Limerent Behavior: Understanding Obsessive Romantic Attraction",
+      "url": "https://neurolaunch.com/limorant-behavior/",
+      "score": 0.63,
+      "category": "rare",
+      "usable": true
+    },
+    {
+      "title": "Emotional Obsession or True Love — Understanding and Overcoming Limerence",
+      "url": "https://traumaorhealing.substack.com/p/emotional-obsession-or-true-love",
+      "score": 0.63,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "Limerence, Attachment Styles, and Recovery - Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/the-neurodivergent-therapist/202501/limerence-attachment-styles-and-recovery",
+      "score": 0.6124999999999999,
+      "category": "rare",
+      "usable": false
+    },
+    {
+      "title": "[ARCHIVE] Limerence, Hidden Obsession, Fixation, and Rumination: A ... - Springe",
+      "url": "http://web.archive.org/web/20260502070846/https://link.springer.com/article/10.1007/s11896-024-09674-x",
+      "score": 0.62,
+      "category": "archive",
+      "usable": false
+    },
+    {
+      "title": "[ARCHIVE] Limerent Object Psychology: Science of Intense Attraction",
+      "url": "http://web.archive.org/web/20251015050652/https://neurolaunch.com/limerent-object-psychology/",
+      "score": 0.62,
+      "category": "archive",
+      "usable": false
+    },
+    {
+      "title": "Limerence: How Social Media Fuels Romantic Obsession",
+      "url": "https://theazb.com/limerence-gains-attention-as-social-media-fuels-obsessive-romantic-fixation/",
+      "score": 0.5949999999999999,
+      "category": "rare",
+      "usable": true
+    }
+  ]
+}

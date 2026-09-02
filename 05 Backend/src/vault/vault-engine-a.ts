@@ -5,7 +5,7 @@
  * - Stale / orphan / broken hygiene
  * - WIP enforcement
  */
-import { readdirSync, readFileSync, writeFileSync, existsSync, statSync, renameSync, mkdirSync, appendFileSync } from "fs";
+import { readdirSync, readFileSync, writeFileSync, existsSync, statSync, renameSync, mkdirSync, appendFileSync, unlinkSync } from "fs";
 import { join, basename } from "path";
 import matter from "gray-matter";
 import { parseFrontmatter, todayISO, generateId } from "./lib/frontmatter.js";
@@ -116,13 +116,13 @@ async function triageInbox() {
           // Ensure directory
           mkdirSync(join(vaultRoot, CONFIG.FOLDERS.hyperfixations), { recursive: true });
           writeFileSync(targetFull, newRaw, "utf-8");
-          // Keep inbox copy but mark as routed? For safety we leave inbox and add note; alternatively rename
-          // We write updated frontmatter back to inbox as well and add routing comment
-          writeFileSync(n.path, newRaw + `\n> [!TIP] Routed to [[${suggestedTarget}]] on ${today}\n`, "utf-8");
-          console.log(`    → created ${suggestedTarget}`);
+          // Delete inbox copy after successful routing — keep inbox clean
+          try { unlinkSync(n.path); } catch {}
+          console.log(`    → created ${suggestedTarget} (inbox copy removed)`);
         } else {
-          writeFileSync(n.path, newRaw, "utf-8");
-          console.log(`    → target exists, updated inbox only`);
+          // Target already exists (re-triage): delete inbox copy so it doesn't linger as a duplicate WIP slot
+          try { unlinkSync(n.path); } catch {}
+          console.log(`    → target exists, inbox copy removed (avoid WIP duplicate)`);
         }
       } else {
         writeFileSync(n.path, newRaw, "utf-8");
@@ -157,15 +157,19 @@ function checkResumeNudges(allNotes: ReturnType<typeof collectMd>) {
 
 function checkHygieneAndWip(allNotes: ReturnType<typeof collectMd>) {
   console.log("\n🧹 Hygiene & WIP");
-  const graphNotes = allNotes.map((n) => ({ path: n.rel, content: n.content, stem: n.stem }));
+  // Exclude Logs (research assets are reference corpus, not graph nodes) — see health.ts for parity
+  const graphNotes = allNotes
+    .filter((n) => !n.rel.includes("04 Atlas & Meta/Logs/") && !n.rel.includes("04 Atlas & Meta/Templates/"))
+    .map((n) => ({ path: n.rel, content: n.content, stem: n.stem }));
   const graph = buildGraph(graphNotes);
   const exclude = new Set(["_INBOX_README", "🏠 Command Center", "📈 Knowledge Graph Intelligence", "SETUP", "T_Hyperfixation", "T_Atomic_Concept", "T_Content_Spec"]);
   const orphans = findOrphans(graph, exclude);
   const broken = findBrokenLinks(graph);
 
-  // Stale
+  // Stale — exclude Logs (research logs aren't stale-eligible)
   const stale: typeof allNotes = [];
   for (const n of allNotes) {
+    if (n.rel.includes("04 Atlas & Meta/Logs/")) continue;
     const { data } = parseFrontmatter(n.content, n.rel);
     if ((data.type === "hyperfixation" || data.type === "content-project") && data.status !== "archived" && data.status !== "parked") {
       const updated = new Date(data.updated);
@@ -176,8 +180,11 @@ function checkHygieneAndWip(allNotes: ReturnType<typeof collectMd>) {
 
   console.log(`  Orphans: ${orphans.length}, Broken: ${broken.length}, Stale >${CONFIG.STALE_PROJECT_DAYS}d: ${stale.length}`);
 
-  // WIP
+  // WIP — exclude Logs (not project-eligible)
   const active = allNotes.filter((n) => {
+    if (n.rel.includes("04 Atlas & Meta/Logs/")) return false;
+    if (n.rel.includes("04 Atlas & Meta/Templates/")) return false;
+    if (n.content.includes("<%")) return false; // Templater placeholders → templates
     const { data } = parseFrontmatter(n.content, n.rel);
     return data.status === "active" && (data.type === "hyperfixation" || data.type === "content-project");
   });

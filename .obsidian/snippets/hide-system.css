@@ -1,0 +1,33 @@
+/* hide-system — collapse backend/system folders for ADHD focus */
+/* Enable in Settings → Appearance → CSS Snippets → toggle hide-system */
+
+/* Dim system folders in File Explorer — keep content (00-03) prominent */
+.nav-folder-title[data-path="04 Atlas & Meta"],
+.nav-folder-title[data-path="05 Backend"],
+.nav-folder-title[data-path=".obsidian"],
+.nav-folder-title[data-path="wiki-narc-proof"],
+.nav-folder-title[data-path="models"],
+.nav-folder-title[data-path="copilot"],
+.nav-folder-title[data-path="drafts"] {
+  opacity: 0.45;
+  font-size: 0.92em;
+}
+
+/* Optional: collapse them by default — uncomment next block if you want auto-collapse visual hint
+.nav-folder:has(> .nav-folder-title[data-path="04 Atlas & Meta"]) .nav-folder-children,
+.nav-folder:has(> .nav-folder-title[data-path="05 Backend"]) .nav-folder-children {
+  display: none;
+}
+.nav-folder:has(> .nav-folder-title[data-path="04 Atlas & Meta"]):hover .nav-folder-children,
+.nav-folder:has(> .nav-folder-title[data-path="05 Backend"]):hover .nav-folder-children {
+  display: block;
+}
+*/
+
+/* Emphasize content folders */
+.nav-folder-title[data-path="00 Inbox"],
+.nav-folder-title[data-path="01 Hyperfixations"],
+.nav-folder-title[data-path="02 Atomic Concepts"],
+.nav-folder-title[data-path="03 Content Lab"] {
+  font-weight: 600;
+}

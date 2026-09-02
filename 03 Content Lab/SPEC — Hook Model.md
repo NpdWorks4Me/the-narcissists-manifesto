@@ -1,19 +1,29 @@
 ---
-id: "20260831162228-zv4v"
-title: "SPEC — Hook Model"
-type: "content-project"
-status: "drafting"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: ["psychology", "variable-rewards", "product"]
+id: 20260831162228-zv4v
+title: SPEC — Hook Model
+type: content-project
+status: archived
+created: '2026-08-31'
+updated: '2026-09-02'
+archived_reason: "WIP cap — archived during 14→5 triage. Regenerate when [[hook-model]] is committed as the next published piece."
+parked_at: '2026-09-02'
+tags:
+  - psychology
+  - variable-rewards
+  - product
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: "Draft hook and thesis"
+  last_explored: ''
+  current_thought: ''
+  next_step: Draft hook and thesis
 content_potential:
-  suggested_format: "guide"
+  suggested_format: guide
   confidence_score: 0.82
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # SPEC — Hook Model

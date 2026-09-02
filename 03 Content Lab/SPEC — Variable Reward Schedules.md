@@ -1,19 +1,48 @@
 ---
-id: "20260831201902-rebo"
-title: "SPEC — Variable Reward Schedules"
-type: "content-project"
-status: "drafting"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: ["auto/generated", "auto/research", "auto/spectrum", "behavioral-economics", "dopamine-loops", "engine-b", "generated/2026", "generated/2026-08-31", "hook-model", "idea/spec-variable", "idea/variable", "idea/variable-rewards", "insight", "manifesto", "newsletter", "psychology", "reward", "schedules", "semantic-link", "spec", "variable", "variable-reward-schedules"]
+id: 20260831201902-rebo
+title: SPEC — Variable Reward Schedules
+type: content-project
+status: archived
+created: '2026-08-31'
+updated: '2026-09-02'
+archived_reason: "Atomic-pair newsletter — no live driver hyperfixation. Regenerate when [[dopamine-loops]] or [[hook-model]] essay needs a companion piece."
+parked_at: '2026-09-02'
+tags:
+  - auto/generated
+  - auto/research
+  - auto/spectrum
+  - behavioral-economics
+  - dopamine-loops
+  - engine-b
+  - generated/2026
+  - generated/2026-08-31
+  - hook-model
+  - idea/spec-variable
+  - idea/variable
+  - idea/variable-rewards
+  - insight
+  - manifesto
+  - newsletter
+  - psychology
+  - reward
+  - schedules
+  - semantic-link
+  - spec
+  - variable
+  - variable-reward-schedules
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: "Draft hook and thesis"
+  last_explored: ''
+  current_thought: ''
+  next_step: Draft hook and thesis
 content_potential:
-  suggested_format: "newsletter"
+  suggested_format: newsletter
   confidence_score: 0.85
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # SPEC — Variable Reward Schedules

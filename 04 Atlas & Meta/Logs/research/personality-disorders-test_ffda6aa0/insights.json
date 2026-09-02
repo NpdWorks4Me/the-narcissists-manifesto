@@ -1,0 +1,124 @@
+{
+  "researchId": "ffda6aa0",
+  "baseQuery": "personality disorders test",
+  "oneShotQueries": [
+    "personality disorders test",
+    "personality disorders test lived experience personal story raw confessional",
+    "personality disorders test history archive rare forgotten vintage obscure abandoned",
+    "personality disorders test tools programs software templates resources open source",
+    "personality disorders test media assets images audio video archive",
+    "personality disorders test theory concept framework model rare idea",
+    "personality disorders test criticism counter perspective deconstruction",
+    "personality disorders test step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-08-31T21:03:21.513Z",
+  "summary": "25-min SPECTRUM for 'personality disorders test' → 15 usable+review assets (web:17 yt:0 board:5) across 8 domains stories:4",
+  "claims": [
+    {
+      "claim": "Archived version of https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "source": "http://web.archive.org/web/20260512233610/https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "assetId": "e83a96d82a18",
+      "category": "archive"
+    },
+    {
+      "claim": "https://www.wikihow.com/images/thumb/0/0b/Sociopath_test.png/-crop-375-300-375px-Sociopath_test.png",
+      "source": "https://www.wikihow.com/images/thumb/0/0b/Sociopath_test.png/-crop-375-300-375px-Sociopath_test.png",
+      "assetId": "bca5fd0e479b",
+      "category": "media"
+    },
+    {
+      "claim": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/angel_small-24px.png",
+      "source": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/angel_small-24px.png",
+      "assetId": "fbe541241d91",
+      "category": "media"
+    },
+    {
+      "claim": "Which Personality Disorder Do I Have",
+      "source": "https://www.wikihow.com/Personality-Disorder-Quiz",
+      "assetId": "0b46ea388323",
+      "category": "tool"
+    },
+    {
+      "claim": "Free Test \n\n- \n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[Quizzes](https://www.wikihow.com/Quizzes) Search \n\n- PRO \n\n- [QUIZZES](https://www.wikihow.com/Quizzes)\n\n- [EXPLORE](ht",
+      "source": "https://www.wikihow.com/Personality-Disorder-Quiz",
+      "assetId": "0b46ea388323",
+      "category": "tool"
+    },
+    {
+      "claim": "- \n\n\n- I am personality disordered, I live a life in my relationships and I’m a chronic cheat | Raw Confessions \n\n- \n\n- \n\n\n# I am personality disordered, I live a life in my relationships and I’m a ch",
+      "source": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/188452",
+      "assetId": "b3eca0b5c13d",
+      "category": "tool"
+    }
+  ],
+  "patterns": [
+    "web.archive.org",
+    "similarminds.com",
+    "www.wikihow.com",
+    "www.rawconfessions.com",
+    "www.thecalculator.co"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "personality disorders test case study",
+    "personality disorders test rare archive",
+    "personality disorders test tools comparison"
+  ],
+  "byCategory": {
+    "archive": 1,
+    "media": 6,
+    "tool": 2,
+    "page": 2,
+    "story": 4
+  },
+  "verificationSummary": {
+    "total": 21,
+    "usable": 0,
+    "needsReview": 15,
+    "reject": 6
+  },
+  "topAssets": [
+    {
+      "title": "[ARCHIVE] Personality Disorder Test - The Calculator",
+      "url": "http://web.archive.org/web/20260512233610/https://www.thecalculator.co/personality/Personality-Disorder-Test-440.html",
+      "score": 0.62,
+      "category": "archive",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] minibarcode3.gif",
+      "url": "https://similarminds.com/minibarcode3.gif",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] An illustration of a glum man walking through a gray world.",
+      "url": "https://www.wikihow.com/images/thumb/9/93/Be-Eccentric-Step-1-Version-2.jpg/v4-460px-Be-Eccentric-Step-1-Version-2.jpg",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Narcissist Test",
+      "url": "https://www.wikihow.com/images/thumb/4/42/Narcissist_quiz.png/-crop-375-300-375px-Narcissist_quiz.png",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Sociopath Test",
+      "url": "https://www.wikihow.com/images/thumb/0/0b/Sociopath_test.png/-crop-375-300-375px-Sociopath_test.png",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Site Logo",
+      "url": "https://www.rawconfessions.com/confession/i-am-personality-disordered-i-live-a-life-in-my-relationships-and-im-a-chronic-cheat/angel_small-24px.png",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    }
+  ]
+}

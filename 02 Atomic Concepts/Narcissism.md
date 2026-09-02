@@ -26,6 +26,11 @@ resume_point:
 content_potential:
   suggested_format: newsletter
   confidence_score: 0.85
+freshness:
+  type: timeless
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # Narcissism
@@ -34,7 +39,7 @@ content_potential:
 
 ## Definition
 
-> Extracted from 1 hyperfixation(s): [[extreme-loneliness-and-longing]]. Refine in your own voice.
+> Extracted from 1 hyperfixation(s): [[loneliness]] (formerly [[extreme-loneliness-and-longing]], now merged). Refine in your own voice.
 
 # extreme loneliness and longing  > SPECTRUM research for "extreme loneliness and longing" — 8 queries, 13 assets (rare:7 media:0 tools:5 pages:1)  ## Research Question  > What is "extreme loneliness and longing" and why does it matter for The Narcissist's Manifesto? What patterns, contradictions, and actionable frames emerge?  ## Raw Capture — High-Value Spectrum  > Auto-collected 2026-08-31 via...
 
@@ -44,12 +49,12 @@ content_potential:
 
 ## Connections
 
-- Source hyperfixations: [[extreme-loneliness-and-longing]]
+- Source hyperfixations: [[loneliness]] (formerly [[extreme-loneliness-and-longing]])
 - Related atomic concepts: [[]]
 
 ## Examples
 
-- Example: narcissism in context of extreme-loneliness-and-longing
+- Example: narcissism in context of [[loneliness]] (extreme loneliness and longing)
 
 ## Agent Provenance
 

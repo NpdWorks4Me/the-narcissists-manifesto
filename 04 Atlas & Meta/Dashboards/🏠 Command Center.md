@@ -1,19 +1,54 @@
 ---
-id: "command-center"
-title: "🏠 Command Center"
-type: "moc"
-status: "active"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: [dashboard, moc]
-aliases: ["Command Center"]
-resume_point: { last_explored: "2026-08-31", current_thought: "dashboard live", next_step: "Capture to 00 Inbox" }
-content_potential: { suggested_format: "none", confidence_score: 0.0 }
+id: command-center
+title: "\U0001F3E0 Command Center"
+type: moc
+status: active
+created: '2026-08-31'
+updated: '2026-08-31'
+tags:
+  - dashboard
+  - moc
+aliases:
+  - Command Center
+resume_point:
+  last_explored: '2026-08-31'
+  current_thought: dashboard live
+  next_step: Capture to 00 Inbox
+content_potential:
+  suggested_format: none
+  confidence_score: 0
+freshness:
+  type: timeless
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # 🏠 Command Center
 
-> *Your workspace cockpit — auto-updated by Engine A & B. If a block says "No results," your vault is simply resting.*
+> *Your workspace cockpit — auto-updated by Engine A & B. Click buttons → act live. Drag Kanban → delegate.*
+
+```meta-bind-button
+label: "📥 Capture idea"
+id: capture-idea
+style: primary
+action:
+  type: templaterCreateNote
+  templateFile: "04 Atlas & Meta/Templates/T_Hyperfixation.md"
+  folderPath: "00 Inbox"
+  fileName: "new idea"
+```
+
+```meta-bind-button
+label: "🗂️ Open Delegation Board"
+id: open-kanban
+style: default
+action:
+  type: open
+  link: "04 Atlas & Meta/Dashboards/🗂️ Delegation Board.md"
+```
+
+> **Live controls (Meta Bind 1.4.15):** Buttons create/open files above. Below edit your 2 active projects inline — no need to open the notes. 
 
 ---
 
@@ -46,6 +81,19 @@ sort by urgency
 limit 15
 ```
 
+### 🗂️ Delegation — Kanban Quick View
+
+> Your self-delegation board: `04 Atlas & Meta/Dashboards/🗂️ Delegation Board.md` (Kanban plugin, drag to delegate) + `🗂️ Delegation Board.base` (Bases board, file-level). Every card is a [[Small Wins|Small Win]] with If-Then + 25m.
+
+```tasks
+not done
+tags include #delegated
+sort by urgency
+limit 10
+```
+
+*Full board:* Open `🗂️ Delegation Board` → drag `Ready → Doing (WIP ≤3)` → timer 25m → dice-roll reward (Hunt/Self/Tribe per [[04 Atlas & Meta/Systems/Behavioral Loops/Behavioral Loops MOC|Behavioral Loops MOC]]). See `[[Body Doubling]]` — vaultd is your double.
+
 ---
 
 ## 📥 Inbox — Requires Triage
@@ -61,7 +109,7 @@ LIMIT 20
 ```
 
 > [!TIP] How triage works
-> Engine A extracts `#tags`, `[[links]]`, entities → adds frontmatter → wraps original under `## Raw Capture` → suggests `01 Hyperfixations/` target. Run `vault:engine-a --dry-run` to preview.
+> Engine A extracts `#tags`, wikilinks (double-bracket notation), entities → adds frontmatter → wraps original under `## Raw Capture` → suggests `01 Hyperfixations/` target. Run `vault:engine-a --dry-run` to preview.
 
 ---
 
@@ -182,13 +230,28 @@ LIMIT 10
 
 ---
 
-## 🛠️ Quick Actions
+## 🛠️ Quick Actions — Live Inline Edits
 
-- **Capture:** Create note in `00 Inbox/` (raw dump, no frontmatter needed)
-- **Templater:** `Cmd/Ctrl+P → Templater: Insert template` → `T_Hyperfixation`
-- **Triage preview:** `npm run vault:engine-a -- --dry-run`
-- **Health check:** `npm run vault:check`
-- **Weekly report:** `npm run vault:report`
+> Edit your 2 active projects *without opening them* — changes write to frontmatter instantly:
+
+**`loneliness`** — Next step: INPUT[textArea:01 Hyperfixations/loneliness.md__resume_point.next_step]  `updated: 2026-09-01`
+
+**`narcissism-as-performance`** — Next step: INPUT[textArea:01 Hyperfixations/narcissism-as-performance.md__resume_point.next_step]
+
+> Tip: Keep it to 1 sentence, 15m, with 📅 date — e.g. `Write 1 sentence under ## Synthesis 📅 2026-09-03`
+
+```meta-bind-button
+label: "▶️ Refresh Dataview"
+id: refresh
+style: default
+action:
+  type: command
+  command: dataview:dataview-force-refresh
+```
+
+- **Delegate:** Open `🗂️ Delegation Board` → drag `To Do → Doing` (1-2 max)
+- **Loops:** `[[04 Atlas & Meta/Systems/Behavioral Loops/Behavioral Loops MOC|Behavioral Loops MOC]]`
+- **Health:** `npm run vault:check` / **Report:** `npm run vault:report` in `05 Backend/`
 
 ---
 

@@ -1,0 +1,111 @@
+{
+  "researchId": "2969d8a4",
+  "baseQuery": "loneliness",
+  "oneShotQueries": [
+    "loneliness",
+    "loneliness lived experience personal story raw confessional",
+    "loneliness history archive rare forgotten vintage obscure abandoned",
+    "loneliness tools programs software templates resources open source",
+    "loneliness media assets images audio video archive",
+    "loneliness theory concept framework model rare idea",
+    "loneliness criticism counter perspective deconstruction",
+    "loneliness step by step guide framework how to system"
+  ],
+  "generatedAt": "2026-08-31T21:07:57.621Z",
+  "summary": "25-min SPECTRUM for 'loneliness' → 12 usable+review assets (web:19 yt:0 board:3) across 5 domains stories:2",
+  "claims": [
+    {
+      "claim": "Archived version of https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/",
+      "source": "http://web.archive.org/web/20260819215447/https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/",
+      "assetId": "a60c8a43012d",
+      "category": "archive"
+    },
+    {
+      "claim": "Loneliness - Wikipedia \n\n- \n\n\n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n- \n\n\n[Jump to content](https://en.wikipedia.org/wiki/Loneliness#bodyContent)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "source": "https://en.wikipedia.org/wiki/Loneliness",
+      "assetId": "e123fbe4e07f",
+      "category": "rare"
+    },
+    {
+      "claim": "- \n\n- \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n- \n\nWhat is Causing Our Epidemic of Loneliness and How Can We Fix It",
+      "source": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it",
+      "assetId": "faec0c5a4745",
+      "category": "tool"
+    },
+    {
+      "claim": "| Harvard Graduate School of Education \n\n\n- \n\n- \n\n- \n\n- \n\n\n- \n\n- \n\n- \n\n\n\n\n\n\n\n\n\n\t\n\n\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\n\n\t\n\n# What is Causing Our Epidemic of Loneliness and How Can We Fix It",
+      "source": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it",
+      "assetId": "faec0c5a4745",
+      "category": "tool"
+    }
+  ],
+  "patterns": [
+    "web.archive.org",
+    "en.wikipedia.org",
+    "www.gse.harvard.edu",
+    "www.mind.org.uk"
+  ],
+  "gaps": [],
+  "nextQueries": [
+    "loneliness case study",
+    "loneliness rare archive",
+    "loneliness tools comparison"
+  ],
+  "byCategory": {
+    "archive": 1,
+    "media": 6,
+    "rare": 1,
+    "tool": 2,
+    "story": 2
+  },
+  "verificationSummary": {
+    "total": 21,
+    "usable": 0,
+    "needsReview": 12,
+    "reject": 9
+  },
+  "topAssets": [
+    {
+      "title": "[ARCHIVE] What is loneliness? | Tips for everyday living | Mind",
+      "url": "http://web.archive.org/web/20260819215447/https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/",
+      "score": 0.62,
+      "category": "archive",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] enwiki-25.svg",
+      "url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Wikipedia",
+      "url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] The Free Encyclopedia",
+      "url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Illustration of lonely people",
+      "url": "https://www.gse.harvard.edu/sites/default/files/styles/16x9__focal_point_scale_and_crop__md/public/2024-10/isolated-lonely-people.jpg?h=96e47e70&amp;itok=Mg9fVnFk",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    },
+    {
+      "title": "[MEDIA:image] Usable Knowledge Lightbulb",
+      "url": "https://www.gse.harvard.edu/sites/default/files/styles/channel_logo/public/2023-07/lightbulb_web_circle_2.png?itok=o8p4aQuh",
+      "score": 0.55,
+      "category": "media",
+      "usable": false
+    }
+  ]
+}

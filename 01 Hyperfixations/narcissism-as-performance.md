@@ -4,123 +4,64 @@ title: narcissism as performance
 type: hyperfixation
 status: active
 created: '2026-08-31'
-updated: '2026-08-31'
+updated: '2026-09-01'
 tags:
-  - narcissism
-  - performance
   - auto/generated
   - auto/research
   - auto/spectrum
-  - engine-b
-  - format-match
+  - category/rare
+  - category/transcript
   - generated/2026
   - generated/2026-08-31
+  - generated/2026-09-01
   - guide
   - idea/narcissism-as-performance
   - manifesto
+  - narcissism
+  - performance
 aliases: []
 resume_point:
-  last_explored: '2026-08-31'
-  current_thought: >-
-    Frontiers | Can directing self-enhancement from social to performance
-    settings alleviate narcissisti
-  next_step: Explore narcissism as performance — review top assets
+  last_explored: '2026-09-01'
+  current_thought: Performance dimension of narcissism — self-enhancement shifts from social to performance settings
+  next_step: Expand synthesis — connect performance frame to [[personality-disorders-narcissism]] clinical scaffolding
 content_potential:
   suggested_format: guide
   confidence_score: 0.82
+freshness:
+  type: dated
+  as_of: '2026-09-01'
+  source: vault
+relations: []
 ---
+
 # narcissism as performance
 
-> One-shot research for "narcissism as performance" — 6 queries, 4 assets
+> One-shot research — 6 queries, 4 assets
 
 ## Research Question
 
 > What is "narcissism as performance" and why does it matter for The Narcissist's Manifesto? What patterns, contradictions, and actionable frames emerge?
 
-## Raw Capture
+## Core Pages
 
-> Auto-collected 2026-08-31 via manifesto research engine (generic one-shot: narcissism as performance | narcissism as performance lived experience personal story | narcissism as performance history research archive | narcissism as performance tools templates resources | narcissism as performance criticism counter perspective | narcissism as performance step by step guide framework)
+- [The Characteristics of Narcissistic Behaviour: A Lived Experience Observational Analysis](https://www.itsrachaelrose.com/post/the-characteristics-of-narcissistic-behaviour-a-lived-experience-observational-analysis) — score 0.67 — lived experience perspective on narcissistic behavior patterns
+- [Can directing self-enhancement from social to performance settings alleviate NPD — Frontiers in Psychiatry](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full) — score 0.59 — narcissists redirecting self-enhancement from social to performance contexts
+- [Linking grandiose and vulnerable narcissism to managerial work performance — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11133368/) — score 0.59 — grandiose and vulnerable narcissism through core personality traits and social desirability
+- [Grandiose narcissism and performance in organizations — Springer](https://link.springer.com/article/10.1365/s42681-020-00015-0) — score 0.56 — prior research on narcissism-performance link in organizational settings
 
-### The Characteristics of Narcissistic Behaviour: A Lived Experience ...
-- **URL:** https://www.itsrachaelrose.com/post/the-characteristics-of-narcissistic-behaviour-a-lived-experience-observational-analysis
-- **Score:** 0.67 / relevance 1.00
-- **Preview:** Telling a
-- **Evidence:** https://www.itsrachaelrose.com/post/the-characteristics-of-narcissistic-behaviour-a-lived-experience-observational-analysis
+## Message Board Stories
 
-### Can directing self-enhancement from social to performance ... - Frontiers
-- **URL:** https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full
-- **Score:** 0.59 / relevance 0.80
-- **Preview:** Narcissists in
-- **Evidence:** https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full
-
-### Linking grandiose and vulnerable narcissism to managerial work ...
-- **URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC11133368/
-- **Score:** 0.59 / relevance 0.80
-- **Preview:** Grandiose
-- **Evidence:** https://pmc.ncbi.nlm.nih.gov/articles/PMC11133368/
-
-### Grandiose narcissism and performance in organizations ... - Springer
-- **URL:** https://link.springer.com/article/10.1365/s42681-020-00015-0
-- **Score:** 0.56 / relevance 0.80
-- **Preview:** Prior research has suggested that
-- **Evidence:** https://link.springer.com/article/10.1365/s42681-020-00015-0
-
-
-## Synthesis
-
-### Claims (from insights.json)
-
-- Frontiers | Can directing self-enhancement from social to performance settings alleviate narcissistic personality disorder — *https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full*
-- Implications from narcissism-performance research Frontiers in Psychiatry About us About us Who we are Mission and values History Leadership Awards Impact and progress Frontiers&#39; impact Our annual — *https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full*
-- Linking grandiose and vulnerable narcissism to managerial work performance, through the lens of core personality traits and social desirability - PMC Skip to main content An official website of the Un — *https://pmc.ncbi.nlm.nih.gov/articles/PMC11133368/*
-
-### Patterns
-
-Domains: www.itsrachaelrose.com, www.frontiersin.org, pmc.ncbi.nlm.nih.gov, link.springer.com
-
-### Gaps
-
-- Low assets — try broader idea or increase maxPages
-
-### Next Queries
-
-
+- [Self-realization of my possible narcissism — Raw Confessions](https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/621349) — "My wife have been arguing a lot lately and it's mostly about my behavior"
 
 ## Connections
 
-- Related: [[www.itsrachaelrose.com]], [[www.frontiersin.org]], [[pmc.ncbi.nlm.nih.gov]]
-
-## Top Assets
-
-1. [The Characteristics of Narcissistic Behaviour: A Lived Experience ...](https://www.itsrachaelrose.com/post/the-characteristics-of-narcissistic-behaviour-a-lived-experience-observational-analysis) — score 0.67 — www.itsrachaelrose.com
-   - Telling a
-2. [Can directing self-enhancement from social to performance ... - Frontiers](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full) — score 0.59 — www.frontiersin.org
-   - Narcissists in
-3. [Linking grandiose and vulnerable narcissism to managerial work ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC11133368/) — score 0.59 — pmc.ncbi.nlm.nih.gov
-   - Grandiose
-4. [Grandiose narcissism and performance in organizations ... - Springer](https://link.springer.com/article/10.1365/s42681-020-00015-0) — score 0.56 — link.springer.com
-   - Prior research has suggested that
-
-## Resume Point
-
-| Field | Value |
-|---|---|
-| last_explored | 2026-08-31 |
-| current_thought | Frontiers | Can directing self-enhancement from social to performance settings a |
-| next_step | Explore narcissism as performance — review top assets |
+- Manifesto links: [[personality-disorders-narcissism]] · [[borderline_relationship_pain_points]] · [[loneliness]]
+- Related domains: itsrachaelrose.com · frontiersin.org · pmc.ncbi.nlm.nih.gov · springer.com
 
 ## Agent Insights
 
-> Generated by manifesto research engine 2026-08-31 — review and refine in your own voice.
-
-## Research Update — 2026-08-31
-
-One-shot for "narcissism as performance" → 9 assets, 6 claims.
-
-- Example demo for narcissism manifesto — performance, audience capture, and validation loops. — [2fe183f149fe](https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20software)
-- Example demo for narcissism manifesto — performance, audience capture, and validation loops. — [31b620fd167e](https://example.com/narcissism-performance?q=narcissism%20as%20performance%20github%20open%20source)
-- Example demo for narcissism manifesto — performance, audience capture, and validation loops. — [b37e564d86cd](https://example.com/narcissism-performance?q=narcissism%20as%20performance%20template%20resources%20download)
+<!-- AGENT_INSIGHTS_BELOW — Engine B appends semantic links here idempotently -->
 
 ---
 
-#narcissism #performance #auto/generated #auto/research #auto/spectrum #engine-b #format-match #generated/2026 #generated/2026-08-31 #guide #idea/narcissism-as-performance #manifesto
+#narcissism #performance #auto/generated #auto/research #manifesto

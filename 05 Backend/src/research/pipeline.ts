@@ -15,8 +15,8 @@ import { discoverTools } from "./adapters/toolDiscovery.js";
 import { searchFreesound, freesoundToAsset } from "./adapters/freesound.js";
 import { searchPexels, pexelsToAsset } from "./adapters/pexels.js";
 import dotenv from "dotenv";
-import { existsSync } from "fs";
-import { join } from "path";
+import { existsSync, mkdirSync, writeFileSync } from "fs";
+import { join, extname, basename } from "path";
 // Load .env from vault root so FREESOUND_API_TOKEN / PEXELS_API_KEY are available
 try {
   const _cwd = process.cwd();
@@ -25,8 +25,6 @@ try {
   if (existsSync(_envPath)) dotenv.config({ path: _envPath });
   else dotenv.config();
 } catch {}
-import { existsSync, mkdirSync, writeFileSync } from "fs";
-import { join, extname, basename } from "path";
 
 function getVaultRoot(): string {
   const cwd = process.cwd();
@@ -117,7 +115,7 @@ export async function runResearchOneShot(
     const isToolQuery = q.includes("tools") || q.includes("programs");
     const isMediaQuery = q.includes("media") || q.includes("images");
 
-    const results = await searchSpectrum(q, 3);
+    const results = await searchSpectrum(q, 6);
     console.log(`[search] → ${results.length} results: ${results.map(r=>r.domain).join(", ")}`);
     for (const r of results) {
       if (pagesFetched >= maxPages) break;
@@ -222,6 +220,7 @@ export async function runResearchOneShot(
         relevanceScore: relevance,
         evidence: [rights.reason, isRare ? "rare term boost" : "", archiveInfo ? `archive ${archiveInfo.timestamp}` : ""].filter(Boolean),
         contentPreview: fr.content.slice(0, 800),
+        wordCount: fr.content.split(/\s+/).filter(Boolean).length, // real page length for verification
         rightsClassification: rights.cls,
         rightsConfidence: rights.conf,
         category: finalCategory,
@@ -314,7 +313,7 @@ export async function runResearchOneShot(
     } catch (e) { console.log(`[pexels] error ${e}`); }
   }
 
-  // === STANDARD: Download assets locally (media, archives, pages) ===
+  // === STANDARD: Download assets locally (media, archives, pages, transcripts) ===
   // Create log dir early for downloads
   const slugEarly = idea.toLowerCase().replace(/[^a-z0-9]+/g, "-").slice(0, 50);
   const logDirEarly = join(vaultRoot, RESEARCH_CONFIG.folders.logs, `${slugEarly}_${researchId}`);
@@ -323,15 +322,49 @@ export async function runResearchOneShot(
   mkdirSync(join(assetsDir, "media"), { recursive: true });
   mkdirSync(join(assetsDir, "archives"), { recursive: true });
   mkdirSync(join(assetsDir, "pages"), { recursive: true });
+  mkdirSync(join(assetsDir, "transcripts"), { recursive: true });
 
-  // Download in parallel, limited concurrency
-  console.log(`[download] Queue ${allAssets.filter(a => a.category === "media" || a.category === "archive" || a.category === "rare" || a.sourceUrl.includes("archive.org")).length} candidates, downloading 15 max`);
-  const downloadQueue = allAssets.filter(a => (a.category === "media" || a.category === "archive" || a.category === "rare" || a.sourceUrl.includes("archive.org")) && !a.sourceUrl.includes("example.com")).slice(0, 15);
+  // Download in parallel, limited concurrency — includes transcripts
+  const dlCandidates = allAssets.filter(a => a.category === "media" || a.category === "archive" || a.category === "rare" || a.category === "transcript" || a.category === "story" || a.sourceUrl.includes("archive.org"));
+  console.log(`[download] Queue ${dlCandidates.length} candidates, downloading 15 max`);
+  const downloadQueue = dlCandidates.filter(a => !a.sourceUrl.includes("example.com")).slice(0, 15);
   console.log(`[download] Starting ${downloadQueue.length} downloads to ${assetsDir}`);
   for (const asset of downloadQueue) {
+    // Transcripts are already in asset.transcript — save directly, no fetch
+    if (asset.category === "transcript" && asset.transcript) {
+      const subDir = join(assetsDir, "transcripts");
+      const fileName = `${asset.assetId}.txt`;
+      const destPath = join(subDir, fileName);
+      try {
+        mkdirSync(subDir, { recursive: true });
+        writeFileSync(destPath, asset.transcript.slice(0, 50000), "utf-8");
+        asset.localPath = destPath.replace(vaultRoot + "/", "");
+        asset.bytes = asset.transcript.length;
+        asset.contentType = "text/plain";
+        asset.evidence = [...(asset.evidence||[]), `saved transcript ${asset.wordCount} words to ${asset.localPath}`];
+        console.log(`[download] transcript ${asset.assetId} → ${asset.localPath}`);
+      } catch (e) { console.log(`[download] transcript error ${asset.assetId}: ${e}`); }
+      continue;
+    }
+    // Stories fetched via their text content (e.g. Reddit .json) — save text directly
+    if (asset.category === "story" && asset.storyText) {
+      const subDir = join(assetsDir, "pages");
+      const fileName = `${asset.assetId}.md`;
+      const destPath = join(subDir, fileName);
+      try {
+        mkdirSync(subDir, { recursive: true });
+        writeFileSync(destPath, asset.storyText.slice(0, 30000), "utf-8");
+        asset.localPath = destPath.replace(vaultRoot + "/", "");
+        asset.bytes = asset.storyText.length;
+        asset.contentType = "text/markdown";
+        asset.evidence = [...(asset.evidence||[]), `saved story ${asset.wordCount} words to ${asset.localPath}`];
+        console.log(`[download] story ${asset.assetId} → ${asset.localPath}`);
+      } catch (e) { console.log(`[download] story error ${asset.assetId}: ${e}`); }
+      continue;
+    }
     const isArchive = asset.category === "archive" || asset.archiveUrl;
     const urlToFetch = isArchive && asset.archiveUrl ? asset.archiveUrl : asset.sourceUrl;
-    const subDir = asset.category === "media" ? join(assetsDir, "media") : asset.category === "archive" ? join(assetsDir, "archives") : join(assetsDir, "pages");
+    const subDir = asset.category === "media" ? join(assetsDir, "media") : asset.category === "archive" ? join(assetsDir, "archives") : asset.category === "transcript" ? join(assetsDir, "transcripts") : asset.category === "story" ? join(assetsDir, "pages") : join(assetsDir, "pages");
     console.log(`[download] fetching ${urlToFetch.slice(0,60)} -> ${subDir}`);
     const dl = await downloadAsset(urlToFetch, subDir, asset.assetId);
     console.log(`[download] result ${asset.assetId} local:${dl.localPath} ct:${dl.contentType} bytes:${dl.bytes} needsRender:${dl.needsRender}`);

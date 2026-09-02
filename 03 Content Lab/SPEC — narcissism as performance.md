@@ -1,19 +1,39 @@
 ---
-id: "20260831201902-7dfn"
-title: "SPEC — narcissism as performance"
-type: "content-project"
-status: "drafting"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: ["auto/generated", "auto/research", "auto/spectrum", "engine-b", "generated/2026", "generated/2026-08-31", "guide", "idea/spec-narcissism", "manifesto", "narcissism", "narcissism-as-performance", "performance", "spec"]
+id: 20260831201902-7dfn
+title: SPEC — narcissism as performance
+type: content-project
+status: archived
+created: '2026-08-31'
+updated: '2026-09-02'
+archived_reason: "WIP cap — archived during 14→5 triage. Regenerate at the moment of commitment to drafting; not a parallel workstream."
+parked_at: '2026-09-02'
+tags:
+  - auto/generated
+  - auto/research
+  - auto/spectrum
+  - engine-b
+  - generated/2026
+  - generated/2026-08-31
+  - guide
+  - idea/spec-narcissism
+  - manifesto
+  - narcissism
+  - narcissism-as-performance
+  - performance
+  - spec
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: "Draft hook and thesis"
+  last_explored: ''
+  current_thought: ''
+  next_step: Draft hook and thesis
 content_potential:
-  suggested_format: "guide"
+  suggested_format: guide
   confidence_score: 0.82
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # SPEC — narcissism as performance

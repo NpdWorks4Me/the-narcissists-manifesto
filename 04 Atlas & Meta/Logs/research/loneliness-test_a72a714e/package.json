@@ -1,0 +1,45 @@
+{
+  "researchId": "a72a714e",
+  "query": "25MIN SPECTRUM: loneliness test | loneliness test lived experience personal story raw confessional | loneliness test history archive rare forgotten vintage obscure abandoned | loneliness test tools programs software templates resources open source | loneliness test media assets images audio video archive | loneliness test theory concept framework model rare idea | loneliness test criticism counter perspective deconstruction | loneliness test step by step guide framework how to system",
+  "idea": "loneliness test",
+  "slug": "loneliness-test",
+  "createdAt": "2026-08-31T22:39:26.715Z",
+  "budgets": {
+    "maxPages": 24,
+    "maxDomains": 30,
+    "maxAssets": 80,
+    "maxDownloads": 40,
+    "maxArchiveQueries": 12,
+    "maxTools": 10,
+    "maxMedia": 15,
+    "maxRuntimeSeconds": 180,
+    "maxPlaylistVideos": 25,
+    "maxTranscripts": 20,
+    "maxBoardAssets": 12,
+    "youtubeTimeoutMs": 8000
+  },
+  "counts": {
+    "totalAssets": 0,
+    "byCategory": {},
+    "verification": {
+      "total": 0,
+      "usable": 0,
+      "needsReview": 0,
+      "reject": 0
+    },
+    "youtube": 0,
+    "board": 0
+  },
+  "all_assets": [],
+  "one_shot_queries": [
+    "loneliness test",
+    "loneliness test lived experience personal story raw confessional",
+    "loneliness test history archive rare forgotten vintage obscure abandoned",
+    "loneliness test tools programs software templates resources open source",
+    "loneliness test media assets images audio video archive",
+    "loneliness test theory concept framework model rare idea",
+    "loneliness test criticism counter perspective deconstruction",
+    "loneliness test step by step guide framework how to system"
+  ],
+  "verification": []
+}

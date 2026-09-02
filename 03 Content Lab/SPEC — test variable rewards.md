@@ -1,19 +1,29 @@
 ---
-id: "20260831162228-fdpe"
-title: "SPEC — test variable rewards"
-type: "content-project"
-status: "drafting"
-created: "2026-08-31"
-updated: "2026-08-31"
-tags: ["psychology", "behavioral-economics", "variable"]
+id: 20260831162228-fdpe
+title: SPEC — test variable rewards
+type: content-project
+status: archived
+created: '2026-08-31'
+updated: '2026-09-02'
+archived_reason: "Test-stub spec for archived hyperfixation [[test-variable-rewards]]. Substance in [[SPEC — Variable Reward Schedules]]."
+parked_at: '2026-09-02'
+tags:
+  - psychology
+  - behavioral-economics
+  - variable
 aliases: []
 resume_point:
-  last_explored: ""
-  current_thought: ""
-  next_step: "Draft hook and thesis"
+  last_explored: ''
+  current_thought: ''
+  next_step: Draft hook and thesis
 content_potential:
-  suggested_format: "thread"
+  suggested_format: thread
   confidence_score: 0.78
+freshness:
+  type: dated
+  as_of: '2026-08-31'
+  source: vault
+relations: []
 ---
 
 # SPEC — test variable rewards

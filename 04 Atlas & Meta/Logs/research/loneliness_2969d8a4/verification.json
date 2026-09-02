@@ -1,0 +1,326 @@
+{
+  "verification": [
+    {
+      "assetId": "a688f118b803",
+      "url": "https://example.com/narcissism-performance?q=loneliness%20tools%20software",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "9f5a9dae8c68",
+      "url": "https://example.com/narcissism-performance?q=loneliness%20github%20open%20source",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "c55c33f9010c",
+      "url": "https://example.com/narcissism-performance?q=loneliness%20template%20resources%20download",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      }
+    },
+    {
+      "assetId": "fs_638154",
+      "url": "https://cdn.freesound.org/previews/638/638154_7451410-hq.mp3",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.68,
+        "reasons": [
+          "relevance 0.75",
+          "short 1 words < 120",
+          "reject 0.68"
+        ]
+      }
+    },
+    {
+      "assetId": "fs_113076",
+      "url": "https://cdn.freesound.org/previews/113/113076_8043-hq.mp3",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.68,
+        "reasons": [
+          "relevance 0.75",
+          "short 1 words < 120",
+          "reject 0.68"
+        ]
+      }
+    },
+    {
+      "assetId": "fs_685320",
+      "url": "https://cdn.freesound.org/previews/685/685320_13091475-hq.mp3",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.68,
+        "reasons": [
+          "relevance 0.75",
+          "short 1 words < 120",
+          "reject 0.68"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_35303674",
+      "url": "https://images.pexels.com/photos/35303674/pexels-photo-35303674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_5479425",
+      "url": "https://images.pexels.com/photos/5479425/pexels-photo-5479425.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "pex_31183417",
+      "url": "https://images.pexels.com/photos/31183417/pexels-photo-31183417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "a60c8a43012d",
+      "url": "http://web.archive.org/web/20260819215447/https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 4 words < 120",
+          "needsReview 0.66"
+        ]
+      }
+    },
+    {
+      "assetId": "1e04a736b040",
+      "url": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "3b523e4334b6",
+      "url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "94e1d6557502",
+      "url": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en-25.svg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "0c2a954f7ffd",
+      "url": "https://www.gse.harvard.edu/sites/default/files/styles/16x9__focal_point_scale_and_crop__md/public/2024-10/isolated-lonely-people.jpg?h=96e47e70&amp;itok=Mg9fVnFk",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "2dcee6569174",
+      "url": "https://www.gse.harvard.edu/sites/default/files/styles/channel_logo/public/2023-07/lightbulb_web_circle_2.png?itok=o8p4aQuh",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "359fc038307a",
+      "url": "https://www.gse.harvard.edu/sites/default/files/styles/16x9__image_scale_and_crop__sm/public/2023-10/mcc-report-edge.jpg?itok=BAsVLFDY",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "e123fbe4e07f",
+      "url": "https://en.wikipedia.org/wiki/Loneliness",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5475,
+        "reasons": [
+          "relevance 0.65",
+          "short 54 words < 120",
+          "needsReview 0.55"
+        ]
+      }
+    },
+    {
+      "assetId": "faec0c5a4745",
+      "url": "https://www.gse.harvard.edu/ideas/usable-knowledge/24/10/what-causing-our-epidemic-loneliness-and-how-can-we-fix-it",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "short 112 words < 120",
+          "needsReview 0.43"
+        ]
+      }
+    },
+    {
+      "assetId": "d19815585bbc",
+      "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/loneliness/about-loneliness/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "short 38 words < 120",
+          "needsReview 0.43"
+        ]
+      }
+    },
+    {
+      "assetId": "board_loneliness",
+      "url": "https://confessions.peonymagazine.com/tag/loneliness/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 190",
+          "needsReview 0.00"
+        ]
+      }
+    },
+    {
+      "assetId": "board_agazinecom",
+      "url": "https://confessions.peonymagazine.com/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total": 21,
+    "usable": 0,
+    "needsReview": 12,
+    "reject": 9
+  }
+}

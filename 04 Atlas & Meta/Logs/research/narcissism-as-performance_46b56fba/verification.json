@@ -1,0 +1,862 @@
+{
+  "verification": [
+    {
+      "assetId": "2fe183f149fe",
+      "url": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20tools%20software",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "31b620fd167e",
+      "url": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20github%20open%20source",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "b37e564d86cd",
+      "url": "https://example.com/narcissism-performance?q=narcissism%20as%20performance%20template%20resources%20download",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.75,
+        "reasons": [
+          "relevance 0.70",
+          "short 12 words < 120",
+          "reject 0.75"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "pex_9169312",
+      "url": "https://images.pexels.com/photos/9169312/pexels-photo-9169312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_d94b8dc1/assets/media/pex_9169312_pexels-photo-9169312.jpeg",
+      "verified": true
+    },
+    {
+      "assetId": "pex_9169320",
+      "url": "https://images.pexels.com/photos/9169320/pexels-photo-9169320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_d94b8dc1/assets/media/pex_9169320_pexels-photo-9169320.jpeg",
+      "verified": true
+    },
+    {
+      "assetId": "pex_9169311",
+      "url": "https://images.pexels.com/photos/9169311/pexels-photo-9169311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "verification": {
+        "usable": false,
+        "needsReview": false,
+        "reject": true,
+        "score": 0.66,
+        "reasons": [
+          "relevance 0.70",
+          "short 1 words < 120",
+          "reject 0.66"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_d94b8dc1/assets/media/pex_9169311_pexels-photo-9169311.jpeg",
+      "verified": true
+    },
+    {
+      "assetId": "b3783a7421ec",
+      "url": "https://www.scribd.com/document/261236597/A-Brief-History-of-Narcissism",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5800000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 51 words < 120",
+          "needsReview 0.58"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_d94b8dc1/assets/pages/b3783a7421ec_A-Brief-History-of-N.html",
+      "verified": true
+    },
+    {
+      "assetId": "98a99fc69907",
+      "url": "https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/angel_small-24px.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "2c20de9b7806",
+      "url": "https://www.rawconfessions.com/devil_small-24px.png",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.55,
+        "reasons": [
+          "low relevance 0.50 < 0.52",
+          "short 1 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_d94b8dc1/assets/media/2c20de9b7806_devil_small-24px.png.png",
+      "verified": true
+    },
+    {
+      "assetId": "c321c7f2be84",
+      "url": "https://archive.org/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5475,
+        "reasons": [
+          "relevance 0.65",
+          "short 29 words < 120",
+          "needsReview 0.55"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_d94b8dc1/assets/pages/c321c7f2be84_file.html",
+      "verified": true
+    },
+    {
+      "assetId": "30635fe34c79",
+      "url": "https://www.rawconfessions.com/confession/self-realization-of-my-possible-narcissism/621349",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5325,
+        "reasons": [
+          "relevance 0.95",
+          "wordCount 140",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "2465b4a71861",
+      "url": "https://github.com/jwaterslynch/ceo-promotional-style-toolkit",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.53,
+        "reasons": [
+          "relevance 0.60",
+          "wordCount 154",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_d94b8dc1/assets/pages/2465b4a71861_ceo-promotional-styl.html",
+      "verified": true
+    },
+    {
+      "assetId": "c439f831a6eb",
+      "url": "https://sourceforge.net/directory/psychology/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.52,
+        "reasons": [
+          "relevance 0.80",
+          "short 50 words < 120",
+          "needsReview 0.52"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "556feecc5113",
+      "url": "https://www.researchgate.net/publication/235336676_A_Historical_Review_of_Narcissism_and_Narcissistic_Personality",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.5275,
+        "reasons": [
+          "relevance 0.65",
+          "short 45 words < 120",
+          "needsReview 0.53"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "1cf1ce266a66",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1621098/full",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.48000000000000004,
+        "reasons": [
+          "relevance 0.80",
+          "short 102 words < 120",
+          "needsReview 0.48"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "7671c2e75d71",
+      "url": "https://github.com/DominiqueMakowski/NarcissismShortScale",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4674999999999999,
+        "reasons": [
+          "relevance 0.65",
+          "wordCount 157",
+          "needsReview 0.47"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "42a3a5223b7a",
+      "url": "https://link.springer.com/article/10.1365/s42681-020-00015-0",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4600000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 48 words < 120",
+          "needsReview 0.46"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "9294c6aaa343",
+      "url": "https://medium.com/@ayazalipsychologist/i-am-a-narcissist-b17478693cef",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.4600000000000001,
+        "reasons": [
+          "relevance 0.80",
+          "short 116 words < 120",
+          "needsReview 0.46"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "acaef1518934",
+      "url": "https://www.linkedin.com/pulse/performance-managing-narcissist-sam-kemble-n0noc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.42749999999999994,
+        "reasons": [
+          "relevance 0.65",
+          "short 103 words < 120",
+          "needsReview 0.43"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "46d69eb1457f",
+      "url": "https://www.buzzfeed.com/meganeliscomb/diagnosed-narcissist-stories",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.3575,
+        "reasons": [
+          "low relevance 0.45 < 0.52",
+          "short 111 words < 120",
+          "needsReview 0.36"
+        ]
+      },
+      "localPath": null,
+      "verified": false
+    },
+    {
+      "assetId": "yt_qATGve1_k6M",
+      "url": "https://www.youtube.com/watch?v=qATGve1_k6M",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 0.78",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_qATGve1_k6M.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_q1kj8o1CC-U",
+      "url": "https://www.youtube.com/watch?v=q1kj8o1CC-U",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_q1kj8o1CC-U.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_u6IkFOoZNm0",
+      "url": "https://www.youtube.com/watch?v=u6IkFOoZNm0",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_u6IkFOoZNm0.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_zjJY-d3WMNI",
+      "url": "https://www.youtube.com/watch?v=zjJY-d3WMNI",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_zjJY-d3WMNI.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_Enjcx2uSwho",
+      "url": "https://www.youtube.com/watch?v=Enjcx2uSwho",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_Enjcx2uSwho.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_tHhzuDxRci0",
+      "url": "https://www.youtube.com/watch?v=tHhzuDxRci0",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_tHhzuDxRci0.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_VJdKWBh4FzY",
+      "url": "https://www.youtube.com/watch?v=VJdKWBh4FzY",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_VJdKWBh4FzY.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_dRLGALrRa9k",
+      "url": "https://www.youtube.com/watch?v=dRLGALrRa9k",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_dRLGALrRa9k.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_8dffFlGB-Fc",
+      "url": "https://www.youtube.com/watch?v=8dffFlGB-Fc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_8dffFlGB-Fc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_N7PeDEzAzsc",
+      "url": "https://www.youtube.com/watch?v=N7PeDEzAzsc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_N7PeDEzAzsc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_JkyBqlINfeI",
+      "url": "https://www.youtube.com/watch?v=JkyBqlINfeI",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_JkyBqlINfeI.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_hKO6UjRAZ7M",
+      "url": "https://www.youtube.com/watch?v=hKO6UjRAZ7M",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_hKO6UjRAZ7M.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_l7xhxKpXx0E",
+      "url": "https://www.youtube.com/watch?v=l7xhxKpXx0E",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_l7xhxKpXx0E.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_MO5oQnmqyeo",
+      "url": "https://www.youtube.com/watch?v=MO5oQnmqyeo",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_MO5oQnmqyeo.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_9me2RXHCyUQ",
+      "url": "https://www.youtube.com/watch?v=9me2RXHCyUQ",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_9me2RXHCyUQ.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_uwAiOWsHp9I",
+      "url": "https://www.youtube.com/watch?v=uwAiOWsHp9I",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_uwAiOWsHp9I.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_eV1gB3-dE_8",
+      "url": "https://www.youtube.com/watch?v=eV1gB3-dE_8",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_eV1gB3-dE_8.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_XmoWschonlc",
+      "url": "https://www.youtube.com/watch?v=XmoWschonlc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_XmoWschonlc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_82nfSr9N2xg",
+      "url": "https://www.youtube.com/watch?v=82nfSr9N2xg",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_82nfSr9N2xg.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_9H0Eep4spmM",
+      "url": "https://www.youtube.com/watch?v=9H0Eep4spmM",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 0.81",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_9H0Eep4spmM.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_FZra3_S4bak",
+      "url": "https://www.youtube.com/watch?v=FZra3_S4bak",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_FZra3_S4bak.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_urQzJIu3Li4",
+      "url": "https://www.youtube.com/watch?v=urQzJIu3Li4",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_urQzJIu3Li4.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_ZPf6rr7DT7w",
+      "url": "https://www.youtube.com/watch?v=ZPf6rr7DT7w",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "low transcript coverage 0.40",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_ZPf6rr7DT7w.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_soQ1NazxMyc",
+      "url": "https://www.youtube.com/watch?v=soQ1NazxMyc",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_soQ1NazxMyc.txt",
+      "verified": true
+    },
+    {
+      "assetId": "yt_nMb4uke-vvA",
+      "url": "https://www.youtube.com/watch?v=nMb4uke-vvA",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0.05,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "transcript coverage 1.00",
+          "needsReview 0.05"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/transcripts/yt_nMb4uke-vvA.txt",
+      "verified": true
+    },
+    {
+      "assetId": "board_agazinecom",
+      "url": "https://confessions.peonymagazine.com/",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 553",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/stories/board_agazinecom.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_femalemind",
+      "url": "https://confessions.peonymagazine.com/about-confessions-of-the-female-mind",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "wordCount 655",
+          "spam_flag",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/stories/board_femalemind.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_9fbbe40bb967",
+      "url": "https://medium.com/the-bad-influence/confessions-of-a-narcissist-9fbbe40bb967",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "short 116 words < 120",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/stories/board_9fbbe40bb967.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_3fc672ad287b",
+      "url": "https://medium.com/@wanderess.august/i-am-a-narcissist-3fc672ad287b",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "short 116 words < 120",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/stories/board_3fc672ad287b.md",
+      "verified": true
+    },
+    {
+      "assetId": "board_826047103af7",
+      "url": "https://medium.com/@doryphoros/confessions-of-a-covert-narcissist-826047103af7",
+      "verification": {
+        "usable": false,
+        "needsReview": true,
+        "reject": false,
+        "score": 0,
+        "reasons": [
+          "low relevance 0.00 < 0.52",
+          "short 116 words < 120",
+          "needsReview 0.00"
+        ]
+      },
+      "localPath": "04 Atlas & Meta/Logs/research/narcissism-as-performance_46b56fba/assets/stories/board_826047103af7.md",
+      "verified": true
+    }
+  ],
+  "summary": {
+    "total": 50,
+    "usable": 0,
+    "needsReview": 44,
+    "reject": 6
+  }
+}
