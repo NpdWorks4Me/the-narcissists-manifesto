@@ -47,13 +47,13 @@ This tool is not available during the devaluation phase. Threatening to abandon 
 
 ## See also
 
-- [[Narcissistic abuse]]
-- [[Idealization and devaluation]]
-- [[Shared fantasy]]
-- [[Narcissistic collapse]]
-- [[Separation insecurity]]
-- [[Borderline personality disorder]]
-- [[No contact]]
+- Narcissistic abuse
+- Idealization and devaluation
+- Shared fantasy
+- Narcissistic collapse
+- Separation insecurity
+- Borderline personality disorder
+- No contact
 
 ## Sources
 

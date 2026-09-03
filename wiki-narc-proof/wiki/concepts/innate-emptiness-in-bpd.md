@@ -37,11 +37,11 @@ The source also notes that not every person with BPD exhibits all of these trait
 
 ## Related concepts
 
-- [[Borderline Personality Disorder]]
-- [[Emotion Dysregulation]]
-- [[Splitting]]
-- [[Abandonment Anxiety]]
-- [[Engulfment Anxiety]]
+- Borderline Personality Disorder
+- Emotion Dysregulation
+- Splitting
+- Abandonment Anxiety
+- Engulfment Anxiety
 
 ## Sources
 

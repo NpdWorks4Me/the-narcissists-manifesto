@@ -23,11 +23,11 @@ promptVersion: v1
 
 # Early trauma and the development of borderline personality
 
-The source material, a transcript discussing [[borderline personality disorder]] in mothers, draws a direct link between early trauma and the later development of the disorder. One speaker describes a mother whose borderline personality “developed as a result of ... the trauma of losing her mother very young, of feeling abandoned, of going through several more traumas before she even hit the age of 20.” The same account notes that she did not receive help, and that the family’s response was to normalize her behavior: “that's just how she is.” ^[yt-fzra3-s4bak.md:9]
+The source material, a transcript discussing borderline personality disorder in mothers, draws a direct link between early trauma and the later development of the disorder. One speaker describes a mother whose borderline personality “developed as a result of ... the trauma of losing her mother very young, of feeling abandoned, of going through several more traumas before she even hit the age of 20.” The same account notes that she did not receive help, and that the family’s response was to normalize her behavior: “that's just how she is.” ^[yt-fzra3-s4bak.md:9]
 
 ## Borderline personality disorder versus bipolar disorder
 
-The transcript distinguishes [[bipolar disorder]] from borderline personality disorder partly by the timing of mood changes. In bipolar disorder, cycles take weeks to months and are predictable. In borderline personality disorder, mood shifts are rapid, sometimes occurring within an hour or hours, and a mood lasting four days is described as an outlier. In bipolar disorder, behaviors are understood as outcomes of the underlying mood disorder; in borderline personality disorder, mood problems are ancillary rather than the main clinical feature. The source states that “anyone who confuses the two is a bad clinician.” ^[yt-fzra3-s4bak.md:9]
+The transcript distinguishes bipolar disorder from borderline personality disorder partly by the timing of mood changes. In bipolar disorder, cycles take weeks to months and are predictable. In borderline personality disorder, mood shifts are rapid, sometimes occurring within an hour or hours, and a mood lasting four days is described as an outlier. In bipolar disorder, behaviors are understood as outcomes of the underlying mood disorder; in borderline personality disorder, mood problems are ancillary rather than the main clinical feature. The source states that “anyone who confuses the two is a bad clinician.” ^[yt-fzra3-s4bak.md:9]
 
 For a child, the bipolar parent is described as predictable: the child may know that a manic phase will be followed by a depressive phase. The borderline mother, by contrast, offers no model by which the child can predict her future behavior. ^[yt-fzra3-s4bak.md:9]
 
@@ -43,13 +43,13 @@ The transcript also observes that a mother with borderline personality may relat
 
 ## Suggested related topics
 
-- [[borderline personality disorder]]
-- [[bipolar disorder]]
-- [[theory of mind]]
-- [[mentalization]]
-- [[childhood trauma]]
-- [[attachment]]
-- [[secure base]]
+- borderline personality disorder
+- bipolar disorder
+- theory of mind
+- mentalization
+- childhood trauma
+- attachment
+- secure base
 
 ## Sources
 

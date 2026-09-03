@@ -44,13 +44,13 @@ The repeated experience of being alternately idealized and rejected leads the ch
 
 ## Related Concepts
 
-- [[Borderline Personality Disorder]]
-- [[Narcissistic Personality Disorder]]
-- [[Psychopathy]]
-- [[Cluster B Personality Disorders]]
-- [[Introjection]]
-- [[Repetition Compulsion]]
-- [[Scapegoating]]
+- Borderline Personality Disorder
+- Narcissistic Personality Disorder
+- Psychopathy
+- Cluster B Personality Disorders
+- Introjection
+- Repetition Compulsion
+- Scapegoating
 
 ## Sources
 

@@ -29,11 +29,11 @@ When a mother’s difficult behavior intensifies as she ages, the source suggest
 
 ## Dementia and narcissism
 
-The intensification of narcissism with age is also observed in dementia. In dementia, certain [[Cluster B personality disorders]] become much worse. For example, a person diagnosed with narcissistic personality disorder who later develops dementia may find their narcissism accentuated, becoming much more deleterious and egregious. ^[yt-urqzjiu3li4.md:9]
+The intensification of narcissism with age is also observed in dementia. In dementia, certain Cluster B personality disorders become much worse. For example, a person diagnosed with narcissistic personality disorder who later develops dementia may find their narcissism accentuated, becoming much more deleterious and egregious. ^[yt-urqzjiu3li4.md:9]
 
 ## Psychopathy as a co-morbidity
 
-[[Psychopathy]] exists on a spectrum. The source notes that the overwhelming majority of psychopaths have nothing to do with serial killing; many are functional, pro-social, and socially adaptive. Studies are cited showing higher prevalence of psychopaths among chief executive officers and surgeons than in the general population. The key difference from a healthy person is that psychopaths tend to be goal-oriented, lack empathy, and can be callous, reckless, unscrupulous, and immoral. ^[yt-urqzjiu3li4.md:9]
+Psychopathy exists on a spectrum. The source notes that the overwhelming majority of psychopaths have nothing to do with serial killing; many are functional, pro-social, and socially adaptive. Studies are cited showing higher prevalence of psychopaths among chief executive officers and surgeons than in the general population. The key difference from a healthy person is that psychopaths tend to be goal-oriented, lack empathy, and can be callous, reckless, unscrupulous, and immoral. ^[yt-urqzjiu3li4.md:9]
 
 Psychopathy is also a common co-morbidity with borderline personality disorder. The source estimates that about one in three people with borderline may also meet criteria for antisocial personality disorder, the clinical name for psychopathy. A key diagnostic feature of psychopathy is superficial charm and glibness, which appears to a much lesser extent in narcissism. ^[yt-urqzjiu3li4.md:9]
 
@@ -45,13 +45,13 @@ As a result, the child may develop an internalized bad object — a constellatio
 
 ## Related concepts
 
-- [[Narcissistic personality disorder]]
-- [[Borderline personality disorder]]
-- [[Psychopathy]]
-- [[Antisocial personality disorder]]
-- [[Histrionic personality disorder]]
-- [[Cluster B personality disorders]]
-- [[Dementia]]
+- Narcissistic personality disorder
+- Borderline personality disorder
+- Psychopathy
+- Antisocial personality disorder
+- Histrionic personality disorder
+- Cluster B personality disorders
+- Dementia
 
 ## Sources
 

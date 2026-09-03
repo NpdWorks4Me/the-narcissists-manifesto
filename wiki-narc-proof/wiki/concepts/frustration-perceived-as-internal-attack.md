@@ -31,16 +31,16 @@ The source states that frustration breeds aggression, but in narcissists the agg
 
 ## State transitions
 
-Narcissists are described as having a low frustration threshold. Under stress, anxiety, frustration, mortification, or narcissistic injury, their defenses can shut down and they may transition into a [[borderline state]], marked by emotional dysregulation and impulsive, destructive rages. If the frustrating environment persists, the narcissist may transition further into a [[psychopathic state]], described as cold, premeditated, ruthless, and callous. This transition often includes a covert phase in which the narcissist appears normal, caring, consensus-seeking, or even loving, while secretly planning revenge and the other person's destruction. ^[yt-9me2rxhcyuq.md:9]
+Narcissists are described as having a low frustration threshold. Under stress, anxiety, frustration, mortification, or narcissistic injury, their defenses can shut down and they may transition into a borderline state, marked by emotional dysregulation and impulsive, destructive rages. If the frustrating environment persists, the narcissist may transition further into a psychopathic state, described as cold, premeditated, ruthless, and callous. This transition often includes a covert phase in which the narcissist appears normal, caring, consensus-seeking, or even loving, while secretly planning revenge and the other person's destruction. ^[yt-9me2rxhcyuq.md:9]
 
-The source also links this dynamic to [[alloplastic defenses]]: the narcissist attributes his own motivations and behavior to others, adopts an [[external-locus-of-control|External Locus of Control]] ("you made me do it"), and frames the conflict as a matter of survival. If he fails to win, he may sink into depressive or dysphoric states, sometimes with substance abuse and withdrawal from reality. ^[yt-9me2rxhcyuq.md:9]
+The source also links this dynamic to alloplastic defenses: the narcissist attributes his own motivations and behavior to others, adopts an [[external-locus-of-control|External Locus of Control]] ("you made me do it"), and frames the conflict as a matter of survival. If he fails to win, he may sink into depressive or dysphoric states, sometimes with substance abuse and withdrawal from reality. ^[yt-9me2rxhcyuq.md:9]
 
 ## See also
 
-- [[narcissistic rage]]
-- [[projective identification]]
-- [[internal object]]
-- [[coercive snapshocking]]
+- narcissistic rage
+- projective identification
+- internal object
+- coercive snapshocking
 
 ## Sources
 

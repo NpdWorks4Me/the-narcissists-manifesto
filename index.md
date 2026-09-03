@@ -4,7 +4,7 @@ title: "index — Vault Catalog (Claude reads FIRST)"
 type: "moc"
 status: "active"
 created: "2026-08-31"
-updated: "2026-09-01"
+updated: "2026-09-02"
 tags: [meta, index, catalog]
 aliases: ["Vault Index", "Catalog"]
 resume_point: { last_explored: "2026-09-01", current_thought: "index live", next_step: "keep sorted, no stale entries" }
@@ -27,17 +27,12 @@ freshness: { type: pointer, as_of: "2026-09-01", source: "vault" }
 
 ## Pipeline
 - `00 Inbox/` — [[00 Inbox/_INBOX_README]] — raw captures (Engine A triages)
-- `01 Hyperfixations/` — active research: [[narcissism-as-performance]], [[loneliness]], [[audience-capture]], [[dopamine-loops]], [[hook-model]]
-- `02 Atomic Concepts/` — evergreen: [[Variable Reward Schedules]], [[Narcissism]], [[Variable]]
-- `03 Content Lab/` — specs when conf>0.75: `SPEC — narcissism as performance` (guide 0.82), `SPEC — Variable Reward Schedules` (newsletter)
+- `01 Hyperfixations/` — active research: [[03 Content Lab/borderline_relationship_pain_points]], workbook/DBT summaries
+- `02 Atomic Concepts/` — evergreen master notes: [[02 Atomic Concepts/_Master — Key Concepts]], [[02 Atomic Concepts/_Master — Key Terms]]
+- `03 Content Lab/` — content specs (`type: content-project`)
 - `04 Atlas & Meta/Templates/` — `T_Hyperfixation`, `T_Atomic_Concept`, `T_Content_Spec` (AI-first)
 - `04 Atlas & Meta/Logs/` — `tracking.csv`, `hygiene.json`, `agent-insights.log`, `research/`
 - `05 Backend/` — all code (`vault-engine-a/b`, `vaultd`, `report`, `research`)
-
-## Key Concepts (graph hubs)
-- [[Variable Reward Schedules]] ↔ [[dopamine-loops]] ↔ [[hook-model]]
-- [[narcissism-as-performance]] ↔ loneliness, audience capture
-- See KGI cluster 1 for current topology
 
 ## Commands (run from `05 Backend/`)
 - `npm run vault:check` — health (frontmatter, links, WIP, plugins)

@@ -58,7 +58,7 @@ relations:
 
 ## Examples
 
-- Win: `- [ ] If I open [[dopamine-loops]] then write 1 nuance sentence about ethical vs exploitative 📅 today`
+- Win: `- [ ] If I open my content note then write 1 nuance sentence about ethical vs exploitative 📅 today`
 - Not a win: `- [ ] Research hook model thoroughly` (no verb specificity, no done, no timebox)
 
 ## ADHD Self-Delegation

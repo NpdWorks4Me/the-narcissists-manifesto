@@ -23,7 +23,7 @@ promptVersion: v1
 
 ## Overview
 
-According to a source transcript by Sam Batn, borderline personality disorder (BPD) “can best be described as a subspecies of dissociative identity disorder” ([[Dissociative Identity Disorder|DID]]). On this view, what clinicians call mood lability and emotional dysregulation in BPD are actually the outward manifestations of switching between self-states, comparable to the shift from a host personality to an alter personality in DID. The source also links BPD to [[Secondary Psychopathy]] and [[Complex Post-Traumatic Stress Disorder|CPTSD]]. ^[yt-ev1gb3-de-8.md:9]
+According to a source transcript by Sam Batn, borderline personality disorder (BPD) “can best be described as a subspecies of dissociative identity disorder” (DID). On this view, what clinicians call mood lability and emotional dysregulation in BPD are actually the outward manifestations of switching between self-states, comparable to the shift from a host personality to an alter personality in DID. The source also links BPD to Secondary Psychopathy and CPTSD. ^[yt-ev1gb3-de-8.md:9]
 
 ## Shared features with secondary psychopathy and CPTSD
 

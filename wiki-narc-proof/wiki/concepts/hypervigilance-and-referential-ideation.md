@@ -29,13 +29,13 @@ promptVersion: v1
 
 ## Clinical context
 
-Hypervigilance is not specific to any single diagnosis. It is common in personality disorders such as [[narcissistic personality disorder]], [[paranoid personality disorder]], and [[borderline personality disorder]], but it also appears in other mental health conditions. Referential ideation is one example of a hypervigilant phenomenon that can occur without a major mental health diagnosis, as a mental health disturbance in its own right. ^[yt-hko6ujraz7m.md:9]
+Hypervigilance is not specific to any single diagnosis. It is common in personality disorders such as narcissistic personality disorder, paranoid personality disorder, and borderline personality disorder, but it also appears in other mental health conditions. Referential ideation is one example of a hypervigilant phenomenon that can occur without a major mental health diagnosis, as a mental health disturbance in its own right. ^[yt-hko6ujraz7m.md:9]
 
-The source material is explicit that being easily offended or thin-skinned is "not necessarily" a sign of [[narcissism]] or [[cluster B personality disorders|cluster B pathology]]; hypervigilance is a broader behavioral pattern. ^[yt-hko6ujraz7m.md:9]
+The source material is explicit that being easily offended or thin-skinned is "not necessarily" a sign of narcissism or cluster B pathology; hypervigilance is a broader behavioral pattern. ^[yt-hko6ujraz7m.md:9]
 
 ## Trauma and life experience
 
-Hypervigilance is very common after trauma, including [[post-traumatic stress disorder]] (PTSD) and [[complex post-traumatic stress disorder]] (CPTSD). It can also result from life experience, such as a relationship involving physical violence or severe verbal abuse. In traumatized individuals, hypervigilance involves a **negative bias**: other people's behavior is read as likely to end badly for oneself, because the person has become sensitized by past harm. ^[yt-hko6ujraz7m.md:9]
+Hypervigilance is very common after trauma, including post-traumatic stress disorder (PTSD) and complex post-traumatic stress disorder (CPTSD). It can also result from life experience, such as a relationship involving physical violence or severe verbal abuse. In traumatized individuals, hypervigilance involves a **negative bias**: other people's behavior is read as likely to end badly for oneself, because the person has become sensitized by past harm. ^[yt-hko6ujraz7m.md:9]
 
 ## Status as a clinical feature
 

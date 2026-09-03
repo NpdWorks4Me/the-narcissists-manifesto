@@ -37,14 +37,14 @@ freshness: { type: timeless, as_of: "<% today %>", source: vault }
   - Done: 
   - Reward (tribe/hunt/self): 
 
-> Examples: `If I open [[hook-model]] at 10am, then draft reward checklist until 5 bullets done for 25m`
+> Examples: `If I open my content note at 10am, then draft reward checklist until 5 bullets done for 25m`
 
 ## Loop Choice
 
 - If can't start → [[Habit Loop]] + [[Implementation Intentions]] + [[Body Doubling]]
 - If can't sustain → [[Pomodoro Technique]] + [[Small Wins]]
 - If can't return → [[Zeigarnik Effect]] + [[Seinfeld Chain]]
-- If can't compound → [[Hook Model]] + [[Variable Reward Schedules]]
+- If can't compound → Hook Model + [[Variable Reward Schedules]]
 
 ## Reward Roll
 

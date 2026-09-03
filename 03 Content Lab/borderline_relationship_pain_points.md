@@ -1,7 +1,7 @@
 ---
 id: 20260902-borderline-pain
 title: borderline relationship pain points
-type: hyperfixation
+type: content-project
 status: parked
 created: '2026-09-02'
 updated: '2026-09-02'
@@ -40,9 +40,9 @@ relations: []
 
 > ## For future agent
 >
-> **Summary:** Expanded essay on BPD relational pain points — parked. Five core pain points (fear of abandonment, emotional dysregulation, attachment ambivalence, communication breakdown, perceived rejection / identity crisis), plus two hidden pain points (the favorite-person collapse and the shame spiral). Includes limerence/FP research sources absorbed from [[compulsive-attachment-favorite-person-and-limerenc]].
+> **Summary:** Expanded essay on BPD relational pain points — parked. Five core pain points (fear of abandonment, emotional dysregulation, attachment ambivalence, communication breakdown, perceived rejection / identity crisis), plus two hidden pain points (the favorite-person collapse and the shame spiral). Includes limerence/FP research sources absorbed from the compulsive-attachment/favorite-person notes.
 >
-> **Load:** Use as context under [[loneliness]] if linking BPD dynamics to the loneliness arc. Relevant to [[narcissism-as-performance]] where BPD and NPD share the identity-disturbance dimension.
+> **Load:** Use as context for the loneliness arc if linking BPD dynamics to it. Relevant to the narcissism-as-performance theme where BPD and NPD share the identity-disturbance dimension.
 
 ---
 
@@ -100,7 +100,7 @@ The gap between feeling and expression is particularly cruel. The person with BP
 
 The partner's reaction — or lack thereof — is frequently internalized as a reflection of the individual's own worth. A delayed text becomes evidence of disinterest. A neutral facial expression becomes confirmation of hidden contempt. A request for space becomes proof that the person is fundamentally unlovable.
 
-This pain point connects directly to the identity disturbance dimension that BPD shares with [[Narcissism]]. The person with BPD often lacks a stable sense of self, which means they are disproportionately dependent on external validation to know who they are. The partner becomes not just a source of love but a *mirror* — the primary means by which the person with BPD confirms their own existence and value. When the mirror provides a disappointing reflection, it is not just hurtful. It is destabilizing at the level of identity itself.
+This pain point connects directly to the identity disturbance dimension that BPD shares with narcissism. The person with BPD often lacks a stable sense of self, which means they are disproportionately dependent on external validation to know who they are. The partner becomes not just a source of love but a *mirror* — the primary means by which the person with BPD confirms their own existence and value. When the mirror provides a disappointing reflection, it is not just hurtful. It is destabilizing at the level of identity itself.
 
 **The worthlessness cascade:** Negative relationship experiences feed directly into a pre-existing core belief of worthlessness. The internal narrative becomes: *This is what always happens. This is what I deserve. I am too much and not enough at the same time.* This is not self-pity. It is the logical conclusion of a cognitive system that filters all evidence through the lens of inherent defectiveness.
 
@@ -159,7 +159,7 @@ Neither party is lazy. Both are exhausted. The relationship becomes a site of mu
 
 **The invisible toll:** Partners of people with BPD often describe a particular kind of loneliness — the loneliness of being in a relationship where you are simultaneously the most important person in someone's world and completely unable to reach them when they are in crisis. The intimacy is intense but unstable. The closeness is real but conditional on emotional weather. You are never more needed, and never more alone.
 
-This is the BPD loneliness that mirrors the broader [[loneliness]] arc of the manifesto: the experience of being surrounded by the *evidence* of connection without the *safety* of it.
+This is the BPD loneliness that mirrors the broader loneliness arc of the manifesto: the experience of being surrounded by the *evidence* of connection without the *safety* of it.
 
 ---
 
@@ -175,9 +175,9 @@ The path forward is not about eliminating the intensity. The intensity is not a 
 
 ## Connections
 
-- Related atomic concepts: [[Narcissism]] *(BPD/NPD overlap in identity-disturbance dimension)*
-- Manifesto links: [[loneliness]] · [[narcissism-as-performance]] · [[personality-disorders-narcissism]]
-- Merged from: [[compulsive-attachment-favorite-person-and-limerenc]] (FP/limerence research, now absorbed)
+- Related atomic concepts: narcissism _(BPD/NPD overlap in identity-disturbance dimension)_
+- Manifesto themes: loneliness · narcissism-as-performance · personality-disorders-narcissism
+- Merged from: compulsive-attachment-favorite-person-and-limerence notes (FP/limerence research, now absorbed)
 
 ## Agent Insights
 

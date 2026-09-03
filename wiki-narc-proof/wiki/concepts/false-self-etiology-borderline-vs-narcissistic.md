@@ -29,11 +29,11 @@ According to the model, all children first enter a borderline phase, described a
 
 ### Theoretical support
 
-The source cites two major theoretical positions. Groschstein argued that borderlines are failed narcissists. Kernberg argued that [[Narcissistic Personality Disorder]] is a compounded defense against underlying borderline dynamics or borderline personality organization. Both scholars are presented as holding that narcissism is, in effect, another phase of [[Borderline Personality Disorder]], and the transcript endorses this position. ^[yt-qatgve1-k6m.md:9]
+The source cites two major theoretical positions. Groschstein argued that borderlines are failed narcissists. Kernberg argued that Narcissistic Personality Disorder is a compounded defense against underlying borderline dynamics or borderline personality organization. Both scholars are presented as holding that narcissism is, in effect, another phase of Borderline Personality Disorder, and the transcript endorses this position. ^[yt-qatgve1-k6m.md:9]
 
 ### Decompensation to borderline state
 
-The narcissistic defense is not stable under extreme stress. When a narcissist experiences [[Narcissistic mortification|narcissistic injury or mortification]], or is exposed to tension and anxiety beyond what they can absorb, the defenses crumble. This process is called decompensation: the defenses fall apart, and the narcissist begins to feel, beginning with shame. At that point the narcissist becomes clinically indistinguishable from a borderline person, showing emotional dysregulation, suicidal ideation, and self-harming behavior. ^[yt-qatgve1-k6m.md:9]
+The narcissistic defense is not stable under extreme stress. When a narcissist experiences narcissistic injury or mortification, or is exposed to tension and anxiety beyond what they can absorb, the defenses crumble. This process is called decompensation: the defenses fall apart, and the narcissist begins to feel, beginning with shame. At that point the narcissist becomes clinically indistinguishable from a borderline person, showing emotional dysregulation, suicidal ideation, and self-harming behavior. ^[yt-qatgve1-k6m.md:9]
 
 ### Defense by opposition
 
@@ -41,7 +41,7 @@ The narcissistic defense against borderline dynamics must, by definition, be the
 
 ### Opposite directions of false self formation
 
-The etiology of the [[False Self]] is exactly opposite in the two conditions. The borderline develops a false self that is initially external and then internalized. The narcissist develops a false self that is initially internal and later acquires external capacity, such as the ability to interact with society. The two are mirror images, reflecting the broader claim that narcissism is a mirror-image defense against borderline experience. ^[yt-qatgve1-k6m.md:9]
+The etiology of the False Self is exactly opposite in the two conditions. The borderline develops a false self that is initially external and then internalized. The narcissist develops a false self that is initially internal and later acquires external capacity, such as the ability to interact with society. The two are mirror images, reflecting the broader claim that narcissism is a mirror-image defense against borderline experience. ^[yt-qatgve1-k6m.md:9]
 
 ## Sources
 

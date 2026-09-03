@@ -21,7 +21,7 @@ promptVersion: v1
 
 ## Overview
 
-Mood cycling timescales are a central point of contrast between [[bipolar disorder]] and [[borderline personality disorder]]. In the source transcript, a clinician describes bipolar disorder as a condition that cycles between mood states over long periods, while borderline personality disorder involves much faster, shorter mood shifts. ^[yt-fzra3-s4bak.md:9]
+Mood cycling timescales are a central point of contrast between bipolar disorder and borderline personality disorder. In the source transcript, a clinician describes bipolar disorder as a condition that cycles between mood states over long periods, while borderline personality disorder involves much faster, shorter mood shifts. ^[yt-fzra3-s4bak.md:9]
 
 ## Timescale differences
 
@@ -33,7 +33,7 @@ In bipolar disorder, the mood symptoms are a direct result of the underlying moo
 
 ## Predictability and interpersonal experience
 
-Bipolar cycling is described as **predictable**: a family member may know that a manic phase — for example, sleeplessness and grand plans — will be followed by a depressive withdrawal. Borderline mood shifts, by contrast, are unpredictable. The source describes a failure of [[theory of mind]] and [[mentalization]] in relationships with a borderline mother: no model or theory allows the child to predict her behavior or feel secure. ^[yt-fzra3-s4bak.md:9]
+Bipolar cycling is described as **predictable**: a family member may know that a manic phase — for example, sleeplessness and grand plans — will be followed by a depressive withdrawal. Borderline mood shifts, by contrast, are unpredictable. The source describes a failure of theory of mind and mentalization in relationships with a borderline mother: no model or theory allows the child to predict her behavior or feel secure. ^[yt-fzra3-s4bak.md:9]
 
 The same discussion also touches on relational consequences of having a borderline mother, including the child's internal conclusion that "I am the problem" — a theme tied to the unpredictability and emotional danger of the parent's mood shifts. ^[yt-fzra3-s4bak.md:9]
 

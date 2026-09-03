@@ -21,7 +21,7 @@ promptVersion: v1
 
 # Narcissistic Supply as Addiction
 
-**Narcissistic supply as addiction** describes the pathological narcissist’s dependence on external attention, adulation, and admiration as a survival need rather than a matter of vanity. The addiction is described as almost physiological: without narcissistic supply, the narcissist cannot regulate emotions or moods, becomes disregulated in ways resembling a borderline state, and may become suicidal in the wake of [[narcissistic mortification]]. The relationship is compared to a plant’s need for water — without supply, the narcissist withers. ^[yt-drlgalrra9k.md:9-9]
+**Narcissistic supply as addiction** describes the pathological narcissist’s dependence on external attention, adulation, and admiration as a survival need rather than a matter of vanity. The addiction is described as almost physiological: without narcissistic supply, the narcissist cannot regulate emotions or moods, becomes disregulated in ways resembling a borderline state, and may become suicidal in the wake of narcissistic mortification. The relationship is compared to a plant’s need for water — without supply, the narcissist withers. ^[yt-drlgalrra9k.md:9-9]
 
 ## The humiliating dependence
 
@@ -29,4 +29,4 @@ To obtain narcissistic supply — through attention, sex, power, or money — th
 
 ## Link to narcissistic abuse
 
-Narcissistic abuse is described as an inevitable feature of the narcissist’s relationships within the [[shared fantasy]]. The addiction to narcissistic supply is the main engine of abusive behavior. Abuse restores the narcissist’s sense of superiority and omnipotence, making him feel godlike again. It also fulfills other functions: testing object constancy and unconditional love, devaluing people in order to discard them or feel superior, and punishing the partner simply for existing
+Narcissistic abuse is described as an inevitable feature of the narcissist’s relationships within the shared fantasy. The addiction to narcissistic supply is the main engine of abusive behavior. Abuse restores the narcissist’s sense of superiority and omnipotence, making him feel godlike again. It also fulfills other functions: testing object constancy and unconditional love, devaluing people in order to discard them or feel superior, and punishing the partner simply for existing

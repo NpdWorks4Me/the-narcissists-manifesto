@@ -25,16 +25,16 @@ In the source transcript, the speaker recalls relatives’ response to their mot
 
 ## Context
 
-The discussion begins with the HBO documentary about the artist Billy Joel, in which Joel and his sister describe their mother’s rage explosions and their childhood as “walking on eggshells,” attributing it to bipolar disorder. The speaker uses this to point out confusion between a bipolar mother and a [[borderline personality disorder|borderline]] mother. ^[yt-fzra3-s4bak.md:9]
+The discussion begins with the HBO documentary about the artist Billy Joel, in which Joel and his sister describe their mother’s rage explosions and their childhood as “walking on eggshells,” attributing it to bipolar disorder. The speaker uses this to point out confusion between a bipolar mother and a borderline mother. ^[yt-fzra3-s4bak.md:9]
 
 ## Distinguishing bipolar and borderline
 
 The transcript draws several clinical distinctions:
 
-- **[[Bipolar disorder]]** involves cycling between manic and depressive moods over weeks or months. Behavior is a direct result of the underlying mood disorder.
+- **Bipolar disorder** involves cycling between manic and depressive moods over weeks or months. Behavior is a direct result of the underlying mood disorder.
 - **Borderline personality disorder** cycles much faster, sometimes within hours, and a mood lasting four days is described as an outlier. The mood disturbance is “ancillary,” not the main clinical feature; other clinical features are present that are absent in bipolar disorder.
 
-The transcript states that anyone who confuses the two is “a bad clinician.” A bipolar mother is described as predictable, whereas a borderline mother is unpredictable: no theory can reliably predict her behavior. This creates a failure of [[theory of mind]] and [[mentalization]] for the child, who cannot feel the mother is a [[secure base]]. The child experiences this as terrifying — “a horror movie.” ^[yt-fzra3-s4bak.md:9]
+The transcript states that anyone who confuses the two is “a bad clinician.” A bipolar mother is described as predictable, whereas a borderline mother is unpredictable: no theory can reliably predict her behavior. This creates a failure of theory of mind and mentalization for the child, who cannot feel the mother is a secure base. The child experiences this as terrifying — “a horror movie.” ^[yt-fzra3-s4bak.md:9]
 
 ## Effects on the child
 

@@ -52,12 +52,12 @@ relations:
 ## Connections
 
 - Supports: [[Habit Loop]] — provides the Cue→Routine link
-- Supports: [[Hook Model]] — makes Action phase automatic
+- Supports: Hook Model — makes Action phase automatic
 - Delegates to: [[Pomodoro Technique]] — timeboxes the Then, [[Zeigarnik Effect]] — keeps If salient
 
 ## Examples
 
-- Kanban card: `- [ ] If I move [[hook-model]] to Doing, then I will draft Hook checklist for 15m 📅 2026-09-03 #delegated`
+- Kanban card: `- [ ] If I move my active content note to Doing, then I will draft Hook checklist for 15m 📅 2026-09-03 #delegated`
 - Anti-example: `- [ ] Work on hook model` (no If, no Then, no file, no done)
 
 ## ADHD Self-Delegation Syntax

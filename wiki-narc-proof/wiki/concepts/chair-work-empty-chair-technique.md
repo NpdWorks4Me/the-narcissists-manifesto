@@ -35,13 +35,13 @@ The source emphasizes that this approach is taught alongside the ability to talk
 
 ## Related Techniques
 
-Other techniques mentioned alongside chair work in the source include [[Cognitive Behavioral Therapy]] for countering negative automatic thoughts, cognitive restructuring for anger management, rigid communication protocols to prevent personal attacks, humor to diffuse anger without mocking or invalidating it, and structured routines to address mood liability. These are presented as complementary methods, with chair work identified as one of the most powerful tools for emotional externalization. ^[yt-l7xhxkpxx0e.md:9]
+Other techniques mentioned alongside chair work in the source include Cognitive Behavioral Therapy for countering negative automatic thoughts, cognitive restructuring for anger management, rigid communication protocols to prevent personal attacks, humor to diffuse anger without mocking or invalidating it, and structured routines to address mood liability. These are presented as complementary methods, with chair work identified as one of the most powerful tools for emotional externalization. ^[yt-l7xhxkpxx0e.md:9]
 
 ## See Also
 
-- [[Borderline Personality Disorder]]
-- [[Emotional Regulation]]
-- [[Cognitive Behavioral Therapy]]
+- Borderline Personality Disorder
+- Emotional Regulation
+- Cognitive Behavioral Therapy
 
 ## Sources
 

@@ -31,15 +31,15 @@ Borderline Personality Disorder (BPD) is described in clinical discussion as a c
 
 **Suicidal ideation and self-harm** — Constant suicidal thinking is a prominent feature, with suicide occurring in about 11% of cases. The vast majority of people with BPD self-mutilate or self-harm in some way. ^[yt-9h0eep4spmm.md:9]
 
-**Anger and rage** — There is a persistent background of rage and fury in BPD. Unlike [[Narcissistic Personality Disorder|narcissistic rage]], which is reactive to being challenged or undermined, borderline anger is described as "always there" — always on the verge of fury. ^[yt-9h0eep4spmm.md:9]
+**Anger and rage** — There is a persistent background of rage and fury in BPD. Unlike narcissistic rage, which is reactive to being challenged or undermined, borderline anger is described as "always there" — always on the verge of fury. ^[yt-9h0eep4spmm.md:9]
 
 **Intense relationships** — Relationships, especially intimate ones, involve highs and lows, cycles of idealization and devaluation of the partner, and an approach-avoidance pattern captured by "I love you, I hate you, don't leave me." ^[yt-9h0eep4spmm.md:9]
 
-**Twin anxieties** — The person with BPD experiences two mutually exclusive fears: [[Abandonment Anxiety|abandonment anxiety]] (separation insecurity, fear of being rejected and abandoned) and [[engulfment-anxiety|Engulfment Anxiety]] (fear of intimacy, of being consumed by love). This leads to infatuation and idealization, followed by running away when intimacy is actually offered. ^[yt-9h0eep4spmm.md:9]
+**Twin anxieties** — The person with BPD experiences two mutually exclusive fears: abandonment anxiety (separation insecurity, fear of being rejected and abandoned) and [[engulfment-anxiety|Engulfment Anxiety]] (fear of intimacy, of being consumed by love). This leads to infatuation and idealization, followed by running away when intimacy is actually offered. ^[yt-9h0eep4spmm.md:9]
 
 ### Variation and Associated Behaviors
 
-BPD presentations vary: not every individual exhibits every feature. In family contexts, the disorder may manifest through sudden, seemingly unprovoked rage outbursts, [[Splitting]] (viewing one sibling as "good" and another as "bad"), and triangulating by forming alliances among one's own children. ^[yt-9h0eep4spmm.md:9]
+BPD presentations vary: not every individual exhibits every feature. In family contexts, the disorder may manifest through sudden, seemingly unprovoked rage outbursts, Splitting (viewing one sibling as "good" and another as "bad"), and triangulating by forming alliances among one's own children. ^[yt-9h0eep4spmm.md:9]
 
 ## Sources
 

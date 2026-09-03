@@ -61,7 +61,7 @@ relations:
 
 ## ADHD Self-Delegation
 
-Delegate by *leaving* an open loop: end any work session by writing `- [ ] If I open [[hook-model]] tomorrow, then finish reward checklist (left at tribe/hunt) 📅 tomorrow` and leaving `current_thought` unfinished. You delegate the nag.
+Delegate by *leaving* an open loop: end any work session by writing `- [ ] If I open my content note tomorrow, then finish reward checklist (left at tribe/hunt) 📅 tomorrow` and leaving `current_thought` unfinished. You delegate the nag.
 
 ## Agent Provenance
 

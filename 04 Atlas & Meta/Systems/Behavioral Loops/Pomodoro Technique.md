@@ -45,7 +45,7 @@ relations:
 
 - ADHD time blindness needs *external* time: timer, not willpower. `25m` is short enough to start, long enough to make progress.
 - Vault wiring: `npm run research:25min` (dual-track 25min + 10m harvest) already implements this for research. Extend to writing: `25m write → dice-roll reward`.
-- Reward must be variable: roll: `>0.7 → Hunt: open random [[Narcissism]] link`, `>0.4 → Self: check Tracker +1`, `else → Tribe: draft 1 tweet from note`. Fixed break (scroll) is not a reward — it's a trap.
+- Reward must be variable: roll: `>0.7 → Hunt: read a random note link`, `>0.4 → Self: check Tracker +1`, `else → Tribe: draft 1 tweet from note`. Fixed break (scroll) is not a reward — it's a trap.
 - Investment: update `resume_point.last_explored` + `tracking.csv` at break — stores value for next Pomodoro.
 
 ## Connections
@@ -56,12 +56,12 @@ relations:
 
 ## Examples
 
-- Delegation: `- [ ] If timer 25m starts, then write 2 bullets under [[hook-model]] ## Synthesis 📅 today #pomodoro`
+- Delegation: `- [ ] If timer 25m starts, then write 2 bullets under my content note ## Synthesis 📅 today #pomodoro`
 - Anti-example: `Work 3hrs on manifesto` → no cue, no urgency, no reward → ADHD shutdown
 
 ## ADHD Self-Delegation
 
-Delegate with timebox baked in: `- [ ] Draft [[SPEC — Dopamine Loops]] Hook for 25m until 2 sentences done 📅 today #pomodoro`. When timer dings, you *must* break and roll reward — that's the loop close.
+Delegate with timebox baked in: `- [ ] Draft my content spec's Hook for 25m until 2 sentences done 📅 today #pomodoro`. When timer dings, you *must* break and roll reward — that's the loop close.
 
 ## Agent Provenance
 

@@ -34,19 +34,19 @@ The narcissistic defense must, by definition, be the opposite of the borderline 
 
 ## False Self Etiology
 
-The genesis, or etiology, of the [[False Self]] is also mirrored between the two conditions. The borderline develops a false self that is initially external and then internalized. The narcissist develops a false self that is initially internal and only later acquires external capacity, such as interacting with society. These developmental paths are mirror images of one another, consistent with the broader claim that narcissism is a defense against borderline pathology. ^[yt-qatgve1-k6m.md:9]
+The genesis, or etiology, of the False Self is also mirrored between the two conditions. The borderline develops a false self that is initially external and then internalized. The narcissist develops a false self that is initially internal and only later acquires external capacity, such as interacting with society. These developmental paths are mirror images of one another, consistent with the broader claim that narcissism is a defense against borderline pathology. ^[yt-qatgve1-k6m.md:9]
 
 ## Decompensation to Borderline State
 
-The theory also accounts for clinical decompensation. When a narcissist is exposed to extreme stress — for example [[Narcissistic Mortification]] or narcissistic injury — beyond what the narcissist can absorb, the narcissistic defenses crumble. This process is called **decompensation**. As the defenses fall apart, the narcissist begins to feel and emote, initially experiencing shame. At this point the narcissist becomes clinically indistinguishable from a person with borderline personality disorder: emotionally dysregulated, possibly suicidal, and self-harming. This clinical collapse is consistent with the idea that the underlying false state is borderline, with narcissism superimposed as a defense. ^[yt-qatgve1-k6m.md:9]
+The theory also accounts for clinical decompensation. When a narcissist is exposed to extreme stress — for example Narcissistic Mortification or narcissistic injury — beyond what the narcissist can absorb, the narcissistic defenses crumble. This process is called **decompensation**. As the defenses fall apart, the narcissist begins to feel and emote, initially experiencing shame. At this point the narcissist becomes clinically indistinguishable from a person with borderline personality disorder: emotionally dysregulated, possibly suicidal, and self-harming. This clinical collapse is consistent with the idea that the underlying false state is borderline, with narcissism superimposed as a defense. ^[yt-qatgve1-k6m.md:9]
 
 ## Related Concepts
 
-- [[Narcissistic Personality Disorder]]
-- [[Borderline Personality Disorder]]
-- [[False Self]]
-- [[Narcissistic Mortification]]
-- [[Decompensation]]
+- Narcissistic Personality Disorder
+- Borderline Personality Disorder
+- False Self
+- Narcissistic Mortification
+- Decompensation
 
 ## Sources
 

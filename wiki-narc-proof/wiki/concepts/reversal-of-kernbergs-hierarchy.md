@@ -28,9 +28,9 @@ promptVersion: v1
 
 ## Theoretical Basis
 
-Batn draws on Grostein's formulation that the borderline is a "failed narcissist." Narcissism is described as a full-fledged form of binary [[dissociative identity disorder]], involving two selves: the false self and the true self. The narcissist's solution is to switch off the atrophied true self and relegate it to the deepest recesses of the mind, leaving only the [[false self]] operating. The borderline, by contrast, fails to repress and dissociate the true self, so the borderline's two selves compete for control of identity and memories. This failure is what prevents the borderline from becoming a narcissist. ^[yt-ev1gb3-de-8.md:9]
+Batn draws on Grostein's formulation that the borderline is a "failed narcissist." Narcissism is described as a full-fledged form of binary dissociative identity disorder, involving two selves: the false self and the true self. The narcissist's solution is to switch off the atrophied true self and relegate it to the deepest recesses of the mind, leaving only the false self operating. The borderline, by contrast, fails to repress and dissociate the true self, so the borderline's two selves compete for control of identity and memories. This failure is what prevents the borderline from becoming a narcissist. ^[yt-ev1gb3-de-8.md:9]
 
-The reversal is thus tied to a model in which [[narcissism]] is maintained by a radical dissociation of the true self, whereas [[borderline personality disorder]] involves unresolved competition between self-states. Within this framework, the narcissist's apparent organization is seen as more fragile than the borderline's, contradicting Kernberg's original ordering. ^[yt-ev1gb3-de-8.md:9]
+The reversal is thus tied to a model in which narcissism is maintained by a radical dissociation of the true self, whereas borderline personality disorder involves unresolved competition between self-states. Within this framework, the narcissist's apparent organization is seen as more fragile than the borderline's, contradicting Kernberg's original ordering. ^[yt-ev1gb3-de-8.md:9]
 
 ## Sources
 

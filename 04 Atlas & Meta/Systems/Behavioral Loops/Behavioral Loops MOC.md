@@ -29,11 +29,11 @@ relations: []
 
 # Behavioral Loops MOC
 
-> **Your ADHD operating system.** 7 loops + Hook core, each with a job. Pick the loop that matches the friction you feel *right now*. All are [[atomic-concept]]s in `02 Atomic Concepts/` — one idea per note, linked for Engine B clustering.
+> **Your ADHD operating system.** 7 loops + Hook core, each with a job. Pick the loop that matches the friction you feel *right now*. All are atomic concepts in `02 Atomic Concepts/` — one idea per note, linked for Engine B clustering.
 
 ## Core Loop (you already had)
 
-- [[Hook Model]] — `Trigger → Action → Variable Reward (tribe/hunt/self) → Investment` — for *compounding* habits (4 steps). Use when you want habit to *persist*.
+- Hook Model — `Trigger → Action → Variable Reward (tribe/hunt/self) → Investment` — for *compounding* habits (4 steps). Use when you want habit to *persist*.
 - [[Variable Reward Schedules]] — `Intermittent payoffs > fixed` — the reward engine inside Hook
 - [[Habit Loop]] — `Cue → Routine → Reward` — minimal loop for *starting* (3 steps, no Investment). Use when you can't get started.
 
@@ -55,7 +55,7 @@ relations: []
 - [ ] If [Cue: file/time/banner], Then [VERB] [FILE/SECTION] until [DONE] for [TIMEBOX] 📅 [DATE] #delegated
 ```
 
-Example: `- [ ] If I open [[hook-model]] at 10am, then draft reward checklist until 5 bullets done for 25m 📅 2026-09-03 #delegated #pomodoro`
+Example: `- [ ] If I open my active content note at 10am, then draft reward checklist until 5 bullets done for 25m 📅 2026-09-03 #delegated #pomodoro`
 
 ## Quick Pick: Which Loop When?
 

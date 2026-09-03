@@ -35,7 +35,7 @@ relations:
 
 ## For future agent
 
-> **Summary:** Atomic on Duhigg's Habit Loop `Cue → Routine → Reward` — the minimal loop for ADHD initiation. Status `synthesized` as of `2026-09-02`. Use for self-delegation: make the Cue OBVIOUS (Command Center banner, Daily Note), Routine TINY (15min), Reward VARIABLE (Tracker bump, random insight). Relations: supports [[Variable Reward Schedules]], elaborates [[Hook Model]].
+> **Summary:** Atomic on Duhigg's Habit Loop `Cue → Routine → Reward` — the minimal loop for ADHD initiation. Status `synthesized` as of `2026-09-02`. Use for self-delegation: make the Cue OBVIOUS (Command Center banner, Daily Note), Routine TINY (15min), Reward VARIABLE (Tracker bump, random insight). Relations: supports [[Variable Reward Schedules]], elaborates the Hook Model.
 > **Load:** Read `SOUL.md` + `CRITICAL_FACTS.md` before synthesizing.
 
 ## Definition
@@ -51,7 +51,7 @@ relations:
 
 ## Connections
 
-- Elaborates: [[Hook Model]] — Habit Loop is Hook minus Investment
+- Elaborates: Hook Model — Habit Loop is Hook minus Investment
 - Supports: [[Variable Reward Schedules]] — Reward phase is variable
 - Delegates to: [[Implementation Intentions]] — pre-commits routine, [[Pomodoro Technique]] — timeboxes routine, [[Small Wins]] — guarantees reward
 

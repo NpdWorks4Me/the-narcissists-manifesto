@@ -21,7 +21,7 @@ promptVersion: v1
 
 # Lone Wolf vs. Grandiose Self-State in BPD
 
-The source transcript distinguishes two alternative self-states in [[Borderline Personality Disorder|borderline personality disorder]]: a psychopathic self-state and a grandiose, narcissistic self-state. The distinction is drawn by observing patterns of behavior and existence: patients with a psychopathic alter act as "lone wolves," while patients with a grandiose self-state seek company and are dependent on an intimate partner. ^[yt-ev1gb3-de-8.md:9]
+The source transcript distinguishes two alternative self-states in borderline personality disorder: a psychopathic self-state and a grandiose, narcissistic self-state. The distinction is drawn by observing patterns of behavior and existence: patients with a psychopathic alter act as "lone wolves," while patients with a grandiose self-state seek company and are dependent on an intimate partner. ^[yt-ev1gb3-de-8.md:9]
 
 ## Self-states and dissociation in BPD
 

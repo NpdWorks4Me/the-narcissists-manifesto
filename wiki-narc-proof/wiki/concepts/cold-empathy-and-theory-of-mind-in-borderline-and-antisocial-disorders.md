@@ -23,7 +23,7 @@ promptVersion: v1
 
 # Cold empathy and theory of mind in borderline and antisocial disorders
 
-**Cold empathy** is a term used in discussions of [[borderline personality disorder]] and [[antisocial personality disorder]] to describe a cognitive, instrumental form of empathy. The source transcript defines it as the ability to scan other people, immediately construct a [[theory of mind]] about what makes them “tick,” and then leverage that understanding to manipulate others or to induce behavior modification in them. It is called “cold” because it is oriented toward prediction and control rather than emotional resonance. ^[yt-thhzudxrci0.md:9]
+**Cold empathy** is a term used in discussions of borderline personality disorder and antisocial personality disorder to describe a cognitive, instrumental form of empathy. The source transcript defines it as the ability to scan other people, immediately construct a theory of mind about what makes them “tick,” and then leverage that understanding to manipulate others or to induce behavior modification in them. It is called “cold” because it is oriented toward prediction and control rather than emotional resonance. ^[yt-thhzudxrci0.md:9]
 
 ## Shared cognitive capacity
 
@@ -33,7 +33,7 @@ The cold-empathy profile is therefore presented as one of several overlapping me
 
 ## Relation to attachment and dysregulation
 
-The transcript connects cold empathy to a shared attachment style. Both borderlines and psychopaths are said to commonly display [[anxious-preoccupied attachment]], characterized by fear of abandonment, separation insecurity, low self-worth, and a constant need for validation and closeness. Although this attachment pattern is not typically associated with psychopathy, the source claims studies show it is common among both psychopaths and borderlines. This shared attachment context is part of the broader overlap between the disorders, which also includes impulsivity, disinhibition, and interpersonal difficulties. ^[yt-thhzudxrci0.md:9]
+The transcript connects cold empathy to a shared attachment style. Both borderlines and psychopaths are said to commonly display anxious-preoccupied attachment, characterized by fear of abandonment, separation insecurity, low self-worth, and a constant need for validation and closeness. Although this attachment pattern is not typically associated with psychopathy, the source claims studies show it is common among both psychopaths and borderlines. This shared attachment context is part of the broader overlap between the disorders, which also includes impulsivity, disinhibition, and interpersonal difficulties. ^[yt-thhzudxrci0.md:9]
 
 ## Borderline, antisocial, and psychopathy
 
@@ -41,7 +41,7 @@ The transcript argues that borderline and antisocial disorders are not cleanly s
 
 ## Gender and diagnostic considerations
 
-The source notes that roughly two-thirds to three-quarters of borderline diagnoses are female, while antisocial personality disorder is about three times more common in men. It also acknowledges potential gender bias in diagnostic criteria and non-representative sampling, such as studying mostly female samples for borderline disorder and mostly male prisoners for psychopathy. The transcript suggests that borderline and histrionic personality disorders may be female manifestations of secondary psychopathy as measured by factor 2 of the [[PCL-R]]. This reinterpretation reinforces the idea that the same capacities—including cold empathy and theory of mind—may be expressed differently across diagnostic categories and gender populations. ^[yt-thhzudxrci0.md:9]
+The source notes that roughly two-thirds to three-quarters of borderline diagnoses are female, while antisocial personality disorder is about three times more common in men. It also acknowledges potential gender bias in diagnostic criteria and non-representative sampling, such as studying mostly female samples for borderline disorder and mostly male prisoners for psychopathy. The transcript suggests that borderline and histrionic personality disorders may be female manifestations of secondary psychopathy as measured by factor 2 of the PCL-R. This reinterpretation reinforces the idea that the same capacities—including cold empathy and theory of mind—may be expressed differently across diagnostic categories and gender populations. ^[yt-thhzudxrci0.md:9]
 
 ## Sources
 

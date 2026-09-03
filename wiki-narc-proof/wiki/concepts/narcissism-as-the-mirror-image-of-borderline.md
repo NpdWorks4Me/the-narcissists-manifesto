@@ -29,11 +29,11 @@ The core "narcissistic solution" is a solution of not being. The person eliminat
 
 ## Borderline as Failed Narcissism
 
-According to the source, all children first become borderline and then attempt to become narcissistic. Those who succeed become narcissists; those who fail remain borderline. This is why, when a narcissist is exposed to extreme stress — such as [[narcissistic mortification]] or narcissistic injury — and is overwhelmed by tension and anxiety, they default back to a borderline state. This process is called [[decompensation]]: the defenses crumble, and the narcissist begins to feel and emote, initially shame. At that point, the narcissist becomes clinically indistinguishable from someone with [[borderline personality disorder]], showing emotional dysregulation, suicidal ideation, and self-harming behavior. ^[yt-qatgve1-k6m.md:9]
+According to the source, all children first become borderline and then attempt to become narcissistic. Those who succeed become narcissists; those who fail remain borderline. This is why, when a narcissist is exposed to extreme stress — such as narcissistic mortification or narcissistic injury — and is overwhelmed by tension and anxiety, they default back to a borderline state. This process is called decompensation: the defenses crumble, and the narcissist begins to feel and emote, initially shame. At that point, the narcissist becomes clinically indistinguishable from someone with borderline personality disorder, showing emotional dysregulation, suicidal ideation, and self-harming behavior. ^[yt-qatgve1-k6m.md:9]
 
 ## Theoretical Support
 
-The source cites two major scholars in support of this view. Groschstein held that borderlines are failed narcissists: the underlying "false state" is borderline, with narcissism superimposed on it as a form of [[defence mechanism|defense]]. Similarly, Kernberg suggested that [[narcissistic personality disorder]] is a compounded defense against underlying borderline personality organization and dynamics. Both scholars therefore treated narcissism as another phase of borderline personality disorder, and the source states full agreement with this position. ^[yt-qatgve1-k6m.md:9]
+The source cites two major scholars in support of this view. Groschstein held that borderlines are failed narcissists: the underlying "false state" is borderline, with narcissism superimposed on it as a form of defense. Similarly, Kernberg suggested that narcissistic personality disorder is a compounded defense against underlying borderline personality organization and dynamics. Both scholars therefore treated narcissism as another phase of borderline personality disorder, and the source states full agreement with this position. ^[yt-qatgve1-k6m.md:9]
 
 ## The Narcissistic Defense as Opposite
 
@@ -41,7 +41,7 @@ The defense of narcissism against borderline must, by definition, be the opposit
 
 ## The False Self as Mirror Image
 
-The genesis of the [[false self]] is also exactly opposite in the two conditions. The borderline develops a false self that is initially external and then internalized. The narcissist develops a false self that is initially internal, and only later acquires external capacity, such as the ability to interact with society. These developmental paths are mirror images of each other. The overall conclusion is that narcissism is a mirror image of borderline and, fundamentally, a defense against it. ^[yt-qatgve1-k6m.md:9]
+The genesis of the false self is also exactly opposite in the two conditions. The borderline develops a false self that is initially external and then internalized. The narcissist develops a false self that is initially internal, and only later acquires external capacity, such as the ability to interact with society. These developmental paths are mirror images of each other. The overall conclusion is that narcissism is a mirror image of borderline and, fundamentally, a defense against it. ^[yt-qatgve1-k6m.md:9]
 
 ## Sources
 

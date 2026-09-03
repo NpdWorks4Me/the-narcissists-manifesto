@@ -28,11 +28,11 @@ Groschstein's theory, as presented in the source lecture, holds that borderlines
 
 ## The narcissistic solution
 
-The theory grounds this in what the lecture calls the "narcissistic solution": a solution of not being. The child in the borderline phase — around two years old — is in terror and pain. The child decides to vanish, so that it can no longer be tortured or feel fear, and invents a protector god. The false self becomes an outsourced existence. This narcissistic solution is the goal toward which the borderline child reaches; success or failure in achieving it determines whether the person becomes a narcissist or remains a [[borderline personality disorder|borderline]]. ^[yt-qatgve1-k6m.md:9]
+The theory grounds this in what the lecture calls the "narcissistic solution": a solution of not being. The child in the borderline phase — around two years old — is in terror and pain. The child decides to vanish, so that it can no longer be tortured or feel fear, and invents a protector god. The false self becomes an outsourced existence. This narcissistic solution is the goal toward which the borderline child reaches; success or failure in achieving it determines whether the person becomes a narcissist or remains a borderline. ^[yt-qatgve1-k6m.md:9]
 
 ## Decompensation to a borderline state
 
-Because [[narcissistic personality disorder|narcissism]] is a defense superimposed on borderline dynamics, the lecture states that a narcissist under extreme stress — such as [[narcissistic mortification]] or injury — may default back to a borderline state. The defenses crumble in a process called [[decompensation]]: the narcissist begins to feel and emote, initially experiencing shame, and becomes clinically indistinguishable from a person with borderline personality disorder. This can include emotional dysregulation, suicidal ideation, and self-harm. The lecture takes this as supporting Groschstein's theory: the "false state" is borderline, and narcissism is a defense on top of it. ^[yt-qatgve1-k6m.md:9]
+Because narcissism is a defense superimposed on borderline dynamics, the lecture states that a narcissist under extreme stress — such as narcissistic mortification or injury — may default back to a borderline state. The defenses crumble in a process called decompensation: the narcissist begins to feel and emote, initially experiencing shame, and becomes clinically indistinguishable from a person with borderline personality disorder. This can include emotional dysregulation, suicidal ideation, and self-harm. The lecture takes this as supporting Groschstein's theory: the "false state" is borderline, and narcissism is a defense on top of it. ^[yt-qatgve1-k6m.md:9]
 
 ## Comparison with Kernberg
 
@@ -44,7 +44,7 @@ Groschstein's framing implies that the narcissistic defense must be the opposite
 
 ## Opposite etiologies of the false self
 
-The lecture states that the genesis of the [[false self]] is exactly opposite in the two conditions. The borderline develops a false self that is initially external and is then internalized, whereas the narcissist develops a false self that is initially internal and later acquires external capacity, such as interacting with society. The two are thus mirror images: narcissism is a defense against borderline, not a separate or unrelated structure. ^[yt-qatgve1-k6m.md:9]
+The lecture states that the genesis of the false self is exactly opposite in the two conditions. The borderline develops a false self that is initially external and is then internalized, whereas the narcissist develops a false self that is initially internal and later acquires external capacity, such as interacting with society. The two are thus mirror images: narcissism is a defense against borderline, not a separate or unrelated structure. ^[yt-qatgve1-k6m.md:9]
 
 ## Sources
 

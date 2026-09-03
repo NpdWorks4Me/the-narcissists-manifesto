@@ -23,8 +23,7 @@ freshness:
 
 ## To Do
 
-- [ ] Write 1 sentence in [[loneliness]] under ## Synthesis 📅 2026-09-03
-- [ ] Open [[narcissism-as-performance]] and add 1 note to ## Raw Capture 📅 2026-09-03
+- [ ] _add a delegation card here_
 
 ## Doing
 

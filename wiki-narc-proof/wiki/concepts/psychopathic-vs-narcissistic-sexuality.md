@@ -33,7 +33,7 @@ For psychopaths, sex is ultimately a form of power. The source states that "mone
 
 ## Gender differences in expression
 
-Male psychopaths tend to be factor-one (primary) psychopaths who are goal-oriented: "he wants sex, he wants money." Female psychopaths tend to be factor-two (secondary) psychopaths, marked by impulsivity, emotion dysregulation reminiscent of [[borderline personality disorder]], recklessness, and defiance. Female psychopaths abuse people relationally, within interpersonal relationships — in this sense they are very reminiscent of the male narcissist. This includes smear campaigns and cheating with a partner's best friend, colleague, or their spouses. ^[yt-uwaiowshp9i.md:9]
+Male psychopaths tend to be factor-one (primary) psychopaths who are goal-oriented: "he wants sex, he wants money." Female psychopaths tend to be factor-two (secondary) psychopaths, marked by impulsivity, emotion dysregulation reminiscent of borderline personality disorder, recklessness, and defiance. Female psychopaths abuse people relationally, within interpersonal relationships — in this sense they are very reminiscent of the male narcissist. This includes smear campaigns and cheating with a partner's best friend, colleague, or their spouses. ^[yt-uwaiowshp9i.md:9]
 
 ## Seduction and role-playing
 

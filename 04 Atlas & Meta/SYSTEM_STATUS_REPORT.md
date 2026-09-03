@@ -4,18 +4,18 @@ title: "Initial System Status Report"
 type: "moc"
 status: "active"
 created: "2026-08-31"
-updated: "2026-08-31"
+updated: "2026-09-02"
 tags: [meta, dashboard, report]
 aliases: []
-resume_point: { last_explored: "2026-08-31", current_thought: "provision complete", next_step: "Begin capturing to 00 Inbox; daemon will triage" }
+resume_point: { last_explored: "2026-09-02", current_thought: "inbox/hyperfixation cleanup + broken-link sweep + wiki-narc-proof link hygiene complete", next_step: "Continue capturing to 00 Inbox; review .trash SPECs and wiki regeneration source" }
 content_potential: { suggested_format: "none", confidence_score: 0.0 }
 ---
 
-# ✅ Initial System Status Report — Autonomous Obsidian Vault Architect
+# ✅ System Status Report — Autonomous Obsidian Vault Architect
 
-**Generated:** 2026-08-31
+**Generated:** 2026-08-31 · **Updated:** 2026-09-02
 **Vault:** `/Users/npdworks4me/Desktop/the-narcissists-manifesto`
-**Protocol:** Section 7 — Provisioning & Setup Protocol complete
+**Protocol:** Section 7 — Provisioning & Setup Protocol complete (+ maintenance/cleanup protocol run 2026-09-02)
 
 ---
 
@@ -188,7 +188,46 @@ Open Obsidian → verify `🏠 Command Center` renders (Dataview/Tasks/Tracker).
 
 ---
 
-## 10. Initial State Snapshot
+## 10. Maintenance Log — 2026-09-02 (Vault Cleanup & Link Hygiene)
+
+Scope: content pipeline tidy-up plus a broken-link sweep across the main vault and the `wiki-narc-proof/` sub-wiki.
+
+### 10.1 Pipeline Reorganization
+
+- **Moved into `03 Content Lab/`:** `borderline_relationship_pain_points.md` (`01 Hyperfixations/` → `03 Content Lab/`), frontmatter `type` updated `hyperfixation` → `content-project`. Re-pointed `index.md` pipeline link to `[[03 Content Lab/borderline_relationship_pain_points]]`.
+- **Archived to `.trash/03 Content Lab/` (recoverable):** 8 draft content specs — `SPEC — Dopamine Loops`, `SPEC — Hook Model`, `SPEC — Narcissism`, `SPEC — Variable Reward Schedules`, `SPEC — Variable`, `SPEC — audience capture`, `SPEC — narcissism as performance`, `SPEC — test variable rewards`.
+- **Deleted notes (user-initiated, confirmed removed from active FS):** `01 Hyperfixations/{loneliness, narcissism-as-performance, personality-disorders-narcissism}.md`, `01 Hyperfixations/borderline_relationship_pain_points.md` (moved, above), `02 Atomic Concepts/Narcissism.md`. Companion `.html` scratch exports remain under `01 Hyperfixations/` (`loneliness Live.html`, `narcissism-as-performance Live.html`).
+- **Empty root stubs removed:** `narcissism-as-performance.md`, `Ego-syntonic.md`, `Psychopathy.md` (0 bytes).
+- **Parked dedup candidates (not yet removed):** `01 Hyperfixations/Key Concepts — Summaries.md` and `Key Terms — Definitions.md` overlap `02 Atomic Concepts/_Master — Key Concepts.md` / `_Master — Key Terms.md`.
+
+### 10.2 Main-Vault Link Hygiene
+
+All dangling wikilinks to the deleted notes were unlinked to plain text (prose preserved) across live user-facing files:
+
+- `index.md` — removed stale "Key Concepts (graph hubs)" section; pipeline updated.
+- `04 Atlas & Meta/Dashboards/{📈 Knowledge Graph Intelligence, 🗂️ Delegation Board}.md` — removed stale "Ready-to-Build" / deleted-note task entries.
+- `04 Atlas & Meta/Logs/wip-alert.md` — cleared stale WIP references.
+- `03 Content Lab/borderline_relationship_pain_points.md` — unlinked `[[compulsive-attachment-favorite-person-and-limerenc]]`, `[[loneliness]]`, `[[narcissism-as-performance]]`, `[[Narcissism]]`, `[[personality-disorders-narcissism]]`.
+- `02 Atomic Concepts/_Master — Key Concepts.md`, `_Master — Key Terms.md`; `01 Hyperfixations/Workbook Tool Ideas — Master.md`.
+- `04 Atlas & Meta/Systems/Behavioral Loops/*.md` — unlinked `[[hook-model]]`, `[[Hook Model]]`, `[[dopamine-loops]]`, `[[Narcissism]]`, `[[SPEC — Dopamine Loops]]`, `[[atomic-concept]]`.
+- `04 Atlas & Meta/Templates/T_Delegated_Task.md` — unlinked `[[hook-model]]` / `[[Hook Model]]`.
+
+**Loose end:** `Variable Reward Schedules` wikilinks in Behavioral Loops notes/templates still resolve to the archived note under `04 Atlas & Meta/Systems/_Archive/Demo/` — points at an archive, not a deletion.
+
+### 10.3 `wiki-narc-proof/` Sub-Wiki Link Hygiene
+
+- Audited the auto-compiled sub-wiki (`wiki/index.md` + `wiki/concepts/*.md`) against the active filesystem.
+- **Unlinked 576 broken concept links across 90 files** (all under `wiki-narc-proof/wiki/concepts/`): `[[Title Case / space-separated]]` targets with no matching note were de-wikified to plain text; aliases (`[[target|alias]]`) preserved as the display text.
+- **Preserved all valid cross-references** to existing concept notes (114 index links + 94 in-concept links retained).
+- Source transcripts (`sources/yt-*`), `references/`, and `.llmwiki/` metadata untouched.
+- `wiki/index.md` auto-compiled tail ("auto-compiled from 02 masters 2026-09-02") left intact.
+- **Result:** 0 broken links remain in the sub-wiki (re-scan verified).
+
+**Caveat:** the sub-wiki is auto-generated; if the generator re-emits title-case/space-separated links on the next compile, they will reappear. Worth confirming the generator only emits links to notes that exist.
+
+---
+
+## 11. Initial State Snapshot (2026-08-31 — historical)
 
 - Notes: 15 scanned (7 vault-native + 3 hyperfixations + 1 atomic + 3 specs + 1 inbox routed)
 - Frontmatter errors: 0
@@ -201,4 +240,15 @@ Open Obsidian → verify `🏠 Command Center` renders (Dataview/Tasks/Tracker).
 
 ---
 
-*End of Initial System Status Report — Provisioning & Setup Protocol complete per Section 3. Engines live. Vault is autonomous.*
+## 12. Current State (2026-09-02)
+
+- **Content pipeline:** `00 Inbox` → `01 Hyperfixations` → `02 Atomic Concepts` → `03 Content Lab` → `04 Atlas & Meta` intact; `03 Content Lab` holds `_CONTENT_README.md` + `borderline_relationship_pain_points.md` (content-project).
+- **Broken links:** main vault live files clean; `wiki-narc-proof/` sub-wiki 0 broken (576 unlinked 2026-09-02).
+- **Archived (recoverable):** 8 draft content specs in `.trash/03 Content Lab/`.
+- **Loose ends:** `Variable Reward Schedules` link points to an archived note; dedup candidates parked under `01 Hyperfixations/`.
+
+**Next human action:** Capture a new raw idea to `00 Inbox/` (system will triage). Optionally review/recover `.trash/03 Content Lab/` SPECs or reconcile the dedup master notes.
+
+---
+
+*System Status Report — Provisioning & Setup Protocol complete per Section 3; maintenance/cleanup protocol run 2026-09-02. Historical snapshot (2026-08-31) preserved under Section 11. Engines live. Vault is autonomous.*

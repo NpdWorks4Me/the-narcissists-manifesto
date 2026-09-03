@@ -22,13 +22,13 @@ promptVersion: v1
 
 # Abandonment and [[engulfment-anxiety|Engulfment Anxiety]] as Twin Anxieties
 
-In clinical commentary on [[borderline personality organization]], abandonment anxiety and [[engulfment-anxiety|Engulfment Anxiety]] are described as “twin anxieties” that are “the fuel in the borderline’s engine.” They are treated together because a response intended to reassure one must not trigger the other. ^[yt-q1kj8o1cc-u.md:9]
+In clinical commentary on borderline personality organization, abandonment anxiety and [[engulfment-anxiety|Engulfment Anxiety]] are described as “twin anxieties” that are “the fuel in the borderline’s engine.” They are treated together because a response intended to reassure one must not trigger the other. ^[yt-q1kj8o1cc-u.md:9]
 
 ## Recommended response
 
-The source suggests four sentences to say when faced with a borderline’s “incessant and injurious avoidance.” The first — “I’m always here for you. I’m a rock. I’m a stable presence. I’m not going away” — is meant to assuage [[abandonment anxiety]]. The second — “You are and you will always be dear to me” — provides an equivalent of love and creates a holding or containing environment. The third acknowledges boundaries but frames them as necessary for strength: “I place boundaries … in order to be strong enough for both of us. These boundaries keep me alive, keep me functioning for your own sake as well.” The fourth states, “I will accept and respect any decision you make,” including separation, divorce, or time alone. ^[yt-q1kj8o1cc-u.md:9]
+The source suggests four sentences to say when faced with a borderline’s “incessant and injurious avoidance.” The first — “I’m always here for you. I’m a rock. I’m a stable presence. I’m not going away” — is meant to assuage abandonment anxiety. The second — “You are and you will always be dear to me” — provides an equivalent of love and creates a holding or containing environment. The third acknowledges boundaries but frames them as necessary for strength: “I place boundaries … in order to be strong enough for both of us. These boundaries keep me alive, keep me functioning for your own sake as well.” The fourth states, “I will accept and respect any decision you make,” including separation, divorce, or time alone. ^[yt-q1kj8o1cc-u.md:9]
 
-These four sentences, repeated “morning, afternoon, evening, and night time” until they are believed, are described as unlikely to provoke [[engulfment anxiety]] in the borderline while also reducing or ameliorating abandonment anxiety. ^[yt-q1kj8o1cc-u.md:9]
+These four sentences, repeated “morning, afternoon, evening, and night time” until they are believed, are described as unlikely to provoke engulfment anxiety in the borderline while also reducing or ameliorating abandonment anxiety. ^[yt-q1kj8o1cc-u.md:9]
 
 ## Avoidance and acting out
 

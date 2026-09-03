@@ -22,7 +22,7 @@ promptVersion: v1
 
 ## Idealization-Devaluation and Approach-Avoidance in BPD Relationships
 
-**Idealization–devaluation** and **approach–avoidance** describe a recurring relational pattern in which a person with [[Borderline Personality Disorder]] experiences intense highs and lows in intimate relationships. Rather than a stable view of a partner, the relationship alternates between intense admiration and closeness, and sudden devaluation and rejection. This cycle often expresses itself as the contradictory demand: "I love you / I hate you / Don't leave me." ^[yt-9h0eep4spmm.md:9]
+**Idealization–devaluation** and **approach–avoidance** describe a recurring relational pattern in which a person with Borderline Personality Disorder experiences intense highs and lows in intimate relationships. Rather than a stable view of a partner, the relationship alternates between intense admiration and closeness, and sudden devaluation and rejection. This cycle often expresses itself as the contradictory demand: "I love you / I hate you / Don't leave me." ^[yt-9h0eep4spmm.md:9]
 
 ### The Idealization Phase
 
@@ -34,15 +34,15 @@ The devaluation phase follows when intimacy is actually on offer. When the other
 
 ### The Twin Anxieties
 
-The approach–avoidance cycle is driven by what the source calls the **twin anxieties**: two mutually exclusive fears. The borderline person is simultaneously terrified of being abandoned and rejected ([[Abandonment Anxiety]]) and terrified of being engulfed or consumed by love ([[Engulfment Anxiety]]). These competing anxieties produce the alternating pattern — moving toward the partner during idealization, then fleeing when emotional intimacy draws near. ^[yt-9h0eep4spmm.md:9]
+The approach–avoidance cycle is driven by what the source calls the **twin anxieties**: two mutually exclusive fears. The borderline person is simultaneously terrified of being abandoned and rejected (Abandonment Anxiety) and terrified of being engulfed or consumed by love (Engulfment Anxiety). These competing anxieties produce the alternating pattern — moving toward the partner during idealization, then fleeing when emotional intimacy draws near. ^[yt-9h0eep4spmm.md:9]
 
 ### Relation to Other BPD Features
 
-The relational cycle occurs against a broader background of borderline features, including an innate sense of emptiness, [[Emotion Dysregulation]] or affective liability, constant suicidal ideation, and self-harm. In borderline personality disorder, unlike [[Narcissistic Rage]] in narcissism, anger and fury are described as a persistent "background noise" rather than purely reactive — the borderline person is always angry and always on the verge of fury. Intense relationships are therefore not an isolated symptom but part of a wider pattern of instability. ^[yt-9h0eep4spmm.md:9]
+The relational cycle occurs against a broader background of borderline features, including an innate sense of emptiness, Emotion Dysregulation or affective liability, constant suicidal ideation, and self-harm. In borderline personality disorder, unlike Narcissistic Rage in narcissism, anger and fury are described as a persistent "background noise" rather than purely reactive — the borderline person is always angry and always on the verge of fury. Intense relationships are therefore not an isolated symptom but part of a wider pattern of instability. ^[yt-9h0eep4spmm.md:9]
 
 ### Patterns in Family Relationships
 
-The same idealization–devaluation and approach–avoidance dynamics can appear in family life, particularly in parenting. The source describes [[Splitting]] as one pattern, where one sibling is cast as "good" and another as "bad," while the parent constantly [[Triangulation|triangulates]] and makes alliances with the children. Rage may erupt suddenly and then be dismissed as if it never happened, illustrating the unpredictable relational climate these dynamics create. ^[yt-9h0eep4spmm.md:9]
+The same idealization–devaluation and approach–avoidance dynamics can appear in family life, particularly in parenting. The source describes Splitting as one pattern, where one sibling is cast as "good" and another as "bad," while the parent constantly triangulates and makes alliances with the children. Rage may erupt suddenly and then be dismissed as if it never happened, illustrating the unpredictable relational climate these dynamics create. ^[yt-9h0eep4spmm.md:9]
 
 Not every person with borderline traits exhibits all of these features, but when present, idealization–devaluation and approach–avoidance make relationships intensely unstable and difficult for both partners. ^[yt-9h0eep4spmm.md:9]
 

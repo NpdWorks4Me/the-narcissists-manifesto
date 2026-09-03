@@ -24,7 +24,7 @@ promptVersion: v1
 
 ## Overview
 
-According to a transcript discussing [[Borderline Personality Disorder]], suicidality and self-harm are described as prominent features of the condition. The source identifies constant suicidal thinking as one of the key traits of BPD, alongside chronic emptiness, [[Emotion Dysregulation]], anger, intense relationships, and twin anxieties. The source also notes that not every person with BPD presents with all of these features. ^[yt-9h0eep4spmm.md:9]
+According to a transcript discussing Borderline Personality Disorder, suicidality and self-harm are described as prominent features of the condition. The source identifies constant suicidal thinking as one of the key traits of BPD, alongside chronic emptiness, Emotion Dysregulation, anger, intense relationships, and twin anxieties. The source also notes that not every person with BPD presents with all of these features. ^[yt-9h0eep4spmm.md:9]
 
 ## Suicidal Ideation and Suicide Risk
 
@@ -36,7 +36,7 @@ The source claims that a "vast majority" of people with BPD self-mutilate or sel
 
 ## Relationship to Other BPD Features
 
-In the source's account, suicidality and self-harm appear within a broader cluster of BPD symptoms, including [[Splitting]], intense and unstable relationships, rage, and the twin anxieties of abandonment and engulfment (see [[Abandonment Anxiety]]). The source implies that suicidality and self-harm are intertwined with these other features rather than standing alone. ^[yt-9h0eep4spmm.md:9]
+In the source's account, suicidality and self-harm appear within a broader cluster of BPD symptoms, including Splitting, intense and unstable relationships, rage, and the twin anxieties of abandonment and engulfment (see Abandonment Anxiety). The source implies that suicidality and self-harm are intertwined with these other features rather than standing alone. ^[yt-9h0eep4spmm.md:9]
 
 ## Sources
 

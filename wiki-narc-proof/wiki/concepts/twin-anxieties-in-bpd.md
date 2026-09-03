@@ -21,7 +21,7 @@ promptVersion: v1
 
 # Twin Anxieties in BPD
 
-In the context of [[Borderline Personality Disorder]], the **twin anxieties** refer to a pair of mutually exclusive fears that are considered a key feature of the disorder: **abandonment anxiety** and **engulfment anxiety**. ^[yt-9h0eep4spmm.md:9]
+In the context of Borderline Personality Disorder, the **twin anxieties** refer to a pair of mutually exclusive fears that are considered a key feature of the disorder: **abandonment anxiety** and **engulfment anxiety**. ^[yt-9h0eep4spmm.md:9]
 
 ## Definition
 
@@ -29,22 +29,22 @@ The borderline individual is terrified of being abandoned and rejected — a fea
 
 ## Dynamics
 
-This pair of anxieties produces an [[Approach-Avoidance Conflict]] in relationships. The borderline may first fall in love, experiencing limerence, infatuation, and idealization. However, when the other person responds in kind — when intimacy is on offer and love is "in the air" — the borderline runs away, terrified of the outcome of intimacy. ^[yt-9h0eep4spmm.md:9]
+This pair of anxieties produces an Approach-Avoidance Conflict in relationships. The borderline may first fall in love, experiencing limerence, infatuation, and idealization. However, when the other person responds in kind — when intimacy is on offer and love is "in the air" — the borderline runs away, terrified of the outcome of intimacy. ^[yt-9h0eep4spmm.md:9]
 
 This dynamic is connected to the intense relationships seen in BPD, which involve highs and lows, cycles of idealization and devaluation of the partner, and the familiar refrain of "I love you / I hate you / don't leave me." ^[yt-9h0eep4spmm.md:9]
 
 ## Context
 
-The twin anxieties are described alongside other key features of borderline personality, including a sense of innate emptiness, [[Emotion Dysregulation]], constant suicidal ideation and self-harm, and chronic anger or rage. In contrast to narcissistic rage, which is reactive to challenge or undermining, the borderline's anger is described as background noise — always present. Not every person with BPD presents with all of these features. ^[yt-9h0eep4spmm.md:9]
+The twin anxieties are described alongside other key features of borderline personality, including a sense of innate emptiness, Emotion Dysregulation, constant suicidal ideation and self-harm, and chronic anger or rage. In contrast to narcissistic rage, which is reactive to challenge or undermining, the borderline's anger is described as background noise — always present. Not every person with BPD presents with all of these features. ^[yt-9h0eep4spmm.md:9]
 
 ## See also
 
-- [[Borderline Personality Disorder]]
-- [[Abandonment Anxiety]]
-- [[Engulfment Anxiety]]
-- [[Splitting]]
-- [[Idealization and Devaluation]]
-- [[Emotion Dysregulation]]
+- Borderline Personality Disorder
+- Abandonment Anxiety
+- Engulfment Anxiety
+- Splitting
+- Idealization and Devaluation
+- Emotion Dysregulation
 
 ## Sources
 

@@ -21,9 +21,9 @@ promptVersion: v1
 
 # Autoplastic vs Alloplastic Defenses
 
-**Autoplastic defenses** are defined as accepting responsibility for one’s own actions and for the consequences of those actions. **Alloplastic defenses**, by contrast, are patterns of blaming other people for everything that happens to us. The distinction is closely tied to [[locus of control]]: alloplastic blaming implies an [[external-locus-of-control|External Locus of Control]], while autoplastic responsibility implies an internal one. ^[yt-l7xhxkpxx0e.md:9]
+**Autoplastic defenses** are defined as accepting responsibility for one’s own actions and for the consequences of those actions. **Alloplastic defenses**, by contrast, are patterns of blaming other people for everything that happens to us. The distinction is closely tied to locus of control: alloplastic blaming implies an [[external-locus-of-control|External Locus of Control]], while autoplastic responsibility implies an internal one. ^[yt-l7xhxkpxx0e.md:9]
 
-The terms appear in guidance for partners of people with [[borderline personality disorder]]. The source explains that a person with borderline traits may “outsource” internal ego functions to an intimate partner, making the partner the source of regulation and holding that partner responsible for her moods, emotions, cognitions, and behavior. The source describes this outsourcing as unhealthy, counterfactual, and effectively a form of scapegoating. ^[yt-l7xhxkpxx0e.md:9]
+The terms appear in guidance for partners of people with borderline personality disorder. The source explains that a person with borderline traits may “outsource” internal ego functions to an intimate partner, making the partner the source of regulation and holding that partner responsible for her moods, emotions, cognitions, and behavior. The source describes this outsourcing as unhealthy, counterfactual, and effectively a form of scapegoating. ^[yt-l7xhxkpxx0e.md:9]
 
 ## Encouraging Autoplastic Defenses
 
@@ -33,9 +33,9 @@ A simple language exercise is offered as an example: if the person says, “I wa
 
 ## Relationship to Broader Skills
 
-The source places the autoplastic/alloplastic distinction within a broader set of techniques for helping a borderline partner self-regulate, including [[cognitive restructuring]], rigid communication protocols, labeling and verbalizing emotions, chair work, humor, physical activity, sleep schedules, and stress management. These techniques aim to reduce acting out, emotional dysregulation, and compensation by restoring reality testing and lowering reactive mood swings. ^[yt-l7xhxkpxx0e.md:9]
+The source places the autoplastic/alloplastic distinction within a broader set of techniques for helping a borderline partner self-regulate, including cognitive restructuring, rigid communication protocols, labeling and verbalizing emotions, chair work, humor, physical activity, sleep schedules, and stress management. These techniques aim to reduce acting out, emotional dysregulation, and compensation by restoring reality testing and lowering reactive mood swings. ^[yt-l7xhxkpxx0e.md:9]
 
-The source also links these dynamics to rapid [[idealization and devaluation]] cycles: a partner may be idealized as “God” and devalued as “the devil” several times a day, much faster than the cycles typically attributed to narcissistic personalities. ^[yt-l7xhxkpxx0e.md:9]
+The source also links these dynamics to rapid idealization and devaluation cycles: a partner may be idealized as “God” and devalued as “the devil” several times a day, much faster than the cycles typically attributed to narcissistic personalities. ^[yt-l7xhxkpxx0e.md:9]
 
 ## Sources
 

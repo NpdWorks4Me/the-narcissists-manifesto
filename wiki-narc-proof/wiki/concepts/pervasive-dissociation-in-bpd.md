@@ -39,14 +39,14 @@ In the source, pervasive dissociation is situated within a broader account of th
 
 ## See also
 
-- [[Borderline Personality Disorder]]
-- [[Identity Disturbance]]
-- [[Depersonalization]]
-- [[Derealization]]
-- [[Amnesia]]
-- [[Acting Out]]
-- [[Object Constancy]]
-- [[Abandonment Anxiety]]
+- Borderline Personality Disorder
+- Identity Disturbance
+- Depersonalization
+- Derealization
+- Amnesia
+- Acting Out
+- Object Constancy
+- Abandonment Anxiety
 
 ## Sources
 

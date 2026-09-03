@@ -49,9 +49,7 @@ LIMIT 15
 
 ## 💡 Ready-to-Build Content Ideas
 
-- [[loneliness]] — essay (conf 0.85)
-- [[narcissism-as-performance]] — guide (conf 0.82)
-- [[Narcissism]] — newsletter (conf 0.85)
+_No live candidates above 0.75 confidence — regenerate specs from active sources, or promote a workbook/DBT master concept._
 
 ```dataview
 TABLE content_potential.suggested_format as Format, content_potential.confidence_score as Confidence

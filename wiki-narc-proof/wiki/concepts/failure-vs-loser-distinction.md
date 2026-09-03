@@ -33,9 +33,9 @@ A loser is someone who fails to translate serial successes into long-lasting, lo
 
 ## Role in the discussion of narcissistic abuse
 
-Vaknin presents this distinction as a preliminary conceptual tool in a larger analysis of [[narcissistic supply]] and [[narcissistic abuse]]. He describes the narcissist as contemptuous of others yet dependent on them for attention and adulation, creating resentment and rage. The failure-versus-loser distinction is offered as a lens for understanding these dynamics, and the source does not explicitly classify the narcissist as either a failure or a loser. ^[yt-drlgalrra9k.md:9]
+Vaknin presents this distinction as a preliminary conceptual tool in a larger analysis of narcissistic supply and narcissistic abuse. He describes the narcissist as contemptuous of others yet dependent on them for attention and adulation, creating resentment and rage. The failure-versus-loser distinction is offered as a lens for understanding these dynamics, and the source does not explicitly classify the narcissist as either a failure or a loser. ^[yt-drlgalrra9k.md:9]
 
-Related concepts include [[narcissistic supply]], [[narcissistic abuse]], [[shared fantasy]], [[object constancy]], [[idealization and devaluation]], and [[borderline personality organization]].
+Related concepts include narcissistic supply, narcissistic abuse, shared fantasy, object constancy, idealization and devaluation, and borderline personality organization.
 
 ## Sources
 

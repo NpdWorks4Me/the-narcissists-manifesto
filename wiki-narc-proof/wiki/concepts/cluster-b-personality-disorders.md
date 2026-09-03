@@ -21,4 +21,4 @@ promptVersion: v1
 
 # Cluster B personality disorders
 
-**Cluster B personality disorders** are a group of conditions classified in the [[DSM|Diagnostic and Statistical Manual]] as the "erratic or dramatic" personality disorders. People with these disorders are described as
+**Cluster B personality disorders** are a group of conditions classified in the Diagnostic and Statistical Manual as the "erratic or dramatic" personality disorders. People with these disorders are described as

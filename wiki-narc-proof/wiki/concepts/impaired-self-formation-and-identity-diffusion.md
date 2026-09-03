@@ -23,11 +23,11 @@ promptVersion: v1
 
 # Impaired self-formation and identity diffusion
 
-**Impaired self-formation** refers to a lifelong disruption in the development of a cohesive self, described in the source material in the context of [[cluster B personality disorders]]. People with these disorders are described as “selfless” in the sense that they lack a functional self or [[ego]]; rather than having a core identity, they exhibit what is called [[identity diffusion]] or identity disturbance. ^[yt-jkybqlinfei.md:9]
+**Impaired self-formation** refers to a lifelong disruption in the development of a cohesive self, described in the source material in the context of cluster B personality disorders. People with these disorders are described as “selfless” in the sense that they lack a functional self or ego; rather than having a core identity, they exhibit what is called identity diffusion or identity disturbance. ^[yt-jkybqlinfei.md:9]
 
 ## The self and its components
 
-The source defines the self as having two components. The first is a sense of continuity — the felt sense that “this is me” across changes in circumstances, relationships, and environment. The second is the capacity to establish [[boundaries]]: knowing where the self stops and the world begins. Impaired self-formation involves a massive disruption of both components, because the child is not allowed to develop boundaries, separate from caregivers, explore the world, or grow. ^[yt-jkybqlinfei.md:9]
+The source defines the self as having two components. The first is a sense of continuity — the felt sense that “this is me” across changes in circumstances, relationships, and environment. The second is the capacity to establish boundaries: knowing where the self stops and the world begins. Impaired self-formation involves a massive disruption of both components, because the child is not allowed to develop boundaries, separate from caregivers, explore the world, or grow. ^[yt-jkybqlinfei.md:9]
 
 ## Etiology: nurture and developmental pathways
 
@@ -41,7 +41,7 @@ In the second, more classical pathway, the child experiences abuse or neglect: p
 
 Objectification by the parents is internalized and introjected by the child. The individual then proceeds through life self-objectifying and objectifying others; objectification becomes the only mode of relating to self and others. The child is punished for signs of separateness, personal autonomy, independence, or agency. The implicit parental message is: “I love you only if and when you don’t exist.” ^[yt-jkybqlinfei.md:9]
 
-To preserve the relationship with the parent, the child learns to suspend existence and become an emptiness or absence. One classical mechanism for this is [[dissociation]]: whereas healthy children learn to integrate, this child learns that integration, emergence, and having a self are dangerous because they threaten the parent and risk punishment or abandonment. Development is therefore stunted or arrested. ^[yt-jkybqlinfei.md:9]
+To preserve the relationship with the parent, the child learns to suspend existence and become an emptiness or absence. One classical mechanism for this is dissociation: whereas healthy children learn to integrate, this child learns that integration, emergence, and having a self are dangerous because they threaten the parent and risk punishment or abandonment. Development is therefore stunted or arrested. ^[yt-jkybqlinfei.md:9]
 
 ## Consequences
 
@@ -49,16 +49,16 @@ Because boundaries never form and the child is not allowed to become an individu
 
 ## Related concepts
 
-- [[cluster B personality disorders]]
-- [[narcissistic personality disorder]]
-- [[borderline personality disorder]]
-- [[identity diffusion]]
-- [[self]]
-- [[boundaries]]
-- [[objectification]]
-- [[dissociation]]
-- [[parentification]]
-- [[narcissism]]
+- cluster B personality disorders
+- narcissistic personality disorder
+- borderline personality disorder
+- identity diffusion
+- self
+- boundaries
+- objectification
+- dissociation
+- parentification
+- narcissism
 
 ## Sources
 

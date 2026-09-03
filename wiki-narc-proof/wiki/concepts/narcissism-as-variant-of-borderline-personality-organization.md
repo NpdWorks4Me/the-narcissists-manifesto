@@ -22,7 +22,7 @@ promptVersion: v1
 
 # Narcissism as Variant of Borderline Personality Organization
 
-Pathological narcissism, according to Sam Vaknin, is not a separate dynamic but a more rigid and structured form of the borderline dynamic — what Otto Kernberg called the [[borderline personality organization]]. In the borderline pattern, the dynamics lead toward idealizing the partner, clinging, and depending on the partner as an external regulator; in the narcissistic pattern, the same dynamics lead toward abuse of the partner. ^[yt-drlgalrra9k.md:9]
+Pathological narcissism, according to Sam Vaknin, is not a separate dynamic but a more rigid and structured form of the borderline dynamic — what Otto Kernberg called the borderline personality organization. In the borderline pattern, the dynamics lead toward idealizing the partner, clinging, and depending on the partner as an external regulator; in the narcissistic pattern, the same dynamics lead toward abuse of the partner. ^[yt-drlgalrra9k.md:9]
 
 ## Borderline personality organization
 
@@ -30,7 +30,7 @@ Many modern scholars fail to appreciate that narcissistic character disorders an
 
 ## Narcissistic supply and humiliating dependence
 
-The narcissist is addicted to [[narcissistic supply]] — attention, sex, power, and money — in a way that is almost physiological. In the absence of supply, the narcissist cannot regulate emotions or moods and becomes disregulated, effectively resembling a borderline, even becoming suicidal in the wake of mortification. Supply is therefore a matter of survival, not vanity. ^[yt-drlgalrra9k.md:9]
+The narcissist is addicted to narcissistic supply — attention, sex, power, and money — in a way that is almost physiological. In the absence of supply, the narcissist cannot regulate emotions or moods and becomes disregulated, effectively resembling a borderline, even becoming suicidal in the wake of mortification. Supply is therefore a matter of survival, not vanity. ^[yt-drlgalrra9k.md:9]
 
 To obtain supply, the narcissist must act, fake, supplicate, beg, and grovel. He is forced into the company of people he holds in contempt, people he considers immeasurably inferior, yet he cannot survive without their input. This creates a dissonant state: the narcissist sees himself as godlike and superior, yet must solicit attention and adulation from others. The constant kowtowing is humiliating and amounts to a massive narcissistic injury. ^[yt-drlgalrra9k.md:9]
 
@@ -42,9 +42,9 @@ Narcissistic abuse restores a semblance of balance and buttresses the narcissist
 
 ## Functions of narcissistic abuse
 
-Narcissistic abuse fulfills many functions. It tests whether a partner’s love is unconditional, and it tests [[object constancy]]. It is also used to devalue people, either to discard them or to feel superior to them. Abuse is thus intimately connected to the process of obtaining narcissistic supply and is an integral part of the idealization phase. ^[yt-drlgalrra9k.md:9]
+Narcissistic abuse fulfills many functions. It tests whether a partner’s love is unconditional, and it tests object constancy. It is also used to devalue people, either to discard them or to feel superior to them. Abuse is thus intimately connected to the process of obtaining narcissistic supply and is an integral part of the idealization phase. ^[yt-drlgalrra9k.md:9]
 
-The cycle produces [[intermittent reinforcement]]: the narcissist is hot and cold, loving and hateful, idealizing and devaluing, needy and rejecting. This pattern is itself a borderline dynamic, but in the narcissist it manifests as abuse rather than approach-avoidance repetition compulsion. ^[yt-drlgalrra9k.md:9]
+The cycle produces intermittent reinforcement: the narcissist is hot and cold, loving and hateful, idealizing and devaluing, needy and rejecting. This pattern is itself a borderline dynamic, but in the narcissist it manifests as abuse rather than approach-avoidance repetition compulsion. ^[yt-drlgalrra9k.md:9]
 
 ## Co-idealization through abuse
 

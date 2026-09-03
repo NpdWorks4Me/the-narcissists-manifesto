@@ -26,7 +26,7 @@ This page summarizes the account of narcissistic abuse, narcissistic supply, and
 
 ## Overview
 
-Narcissistic abuse is described as an inevitable feature of the narcissist’s interpersonal relationships, played out within a “shared fantasy.” Vaknin proposes that the narcissist’s addiction to [[narcissistic supply]] is the main engine behind narcissistically abusive behavior. The need for supply — attention, adulation, validation — forces the narcissist into dependence on other people, and that dependence generates the dissonance and resentment that drive abuse.^[yt-drlgalrra9k.md:9]
+Narcissistic abuse is described as an inevitable feature of the narcissist’s interpersonal relationships, played out within a “shared fantasy.” Vaknin proposes that the narcissist’s addiction to narcissistic supply is the main engine behind narcissistically abusive behavior. The need for supply — attention, adulation, validation — forces the narcissist into dependence on other people, and that dependence generates the dissonance and resentment that drive abuse.^[yt-drlgalrra9k.md:9]
 
 ## Context: failure and loser
 

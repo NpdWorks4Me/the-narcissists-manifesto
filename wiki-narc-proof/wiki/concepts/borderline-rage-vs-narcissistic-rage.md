@@ -27,9 +27,9 @@ According to the source transcript, rage appears in both borderline personality 
 
 ## Borderline Rage
 
-In [[Borderline Personality Disorder]], anger is one of the core features. The transcript describes a “rage and fury” that is always simmering underneath: the borderline is “always angry, always on the verge of fury.” This rage is not necessarily triggered by a specific interpersonal challenge — it can erupt unexpectedly, as in the described example of a mother suddenly slamming a pan and cursing during an otherwise quiet evening. ^[yt-9h0eep4spmm.md:9]
+In Borderline Personality Disorder, anger is one of the core features. The transcript describes a “rage and fury” that is always simmering underneath: the borderline is “always angry, always on the verge of fury.” This rage is not necessarily triggered by a specific interpersonal challenge — it can erupt unexpectedly, as in the described example of a mother suddenly slamming a pan and cursing during an otherwise quiet evening. ^[yt-9h0eep4spmm.md:9]
 
-Borderline rage often coexists with unstable relational dynamics, including [[Splitting]], triangulation between family members, and contradictory cycles of “I hate you, don’t leave me.” The transcript also notes that not every borderline individual presents with every trait. ^[yt-9h0eep4spmm.md:9]
+Borderline rage often coexists with unstable relational dynamics, including Splitting, triangulation between family members, and contradictory cycles of “I hate you, don’t leave me.” The transcript also notes that not every borderline individual presents with every trait. ^[yt-9h0eep4spmm.md:9]
 
 ## Narcissistic Rage
 
@@ -37,9 +37,9 @@ Narcissistic rage, by contrast, is described as **reactive**. It occurs when a n
 
 ## Related Borderline Features
 
-The transcript places borderline rage within a broader pattern of borderline features: an innate sense of emptiness, [[Emotional Dysregulation]], constant suicidal ideation, self-harm, intense relationships with [[Idealization and Devaluation]] cycles, and “twin anxieties” — abandonment anxiety and [[engulfment-anxiety|Engulfment Anxiety]]. These features help contextualize borderline rage as part of an unstable inner and interpersonal world. ^[yt-9h0eep4spmm.md:9]
+The transcript places borderline rage within a broader pattern of borderline features: an innate sense of emptiness, Emotional Dysregulation, constant suicidal ideation, self-harm, intense relationships with Idealization and Devaluation cycles, and “twin anxieties” — abandonment anxiety and [[engulfment-anxiety|Engulfment Anxiety]]. These features help contextualize borderline rage as part of an unstable inner and interpersonal world. ^[yt-9h0eep4spmm.md:9]
 
-See also: [[Narcissistic Rage]], [[Splitting]], [[Abandonment Anxiety]], [[Self-Harm]], [[Suicidal Ideation]].
+See also: Narcissistic Rage, Splitting, Abandonment Anxiety, Self-Harm, Suicidal Ideation.
 
 ## Sources
 

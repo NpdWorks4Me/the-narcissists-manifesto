@@ -22,11 +22,11 @@ promptVersion: v1
 
 # Co-morbidity of Borderline Personality Disorder and Psychopathy
 
-**Co-morbidity of [[Borderline Personality Disorder]] and [[Psychopathy]]** refers to the co-occurrence of the two conditions in the same person. In a clinical discussion, it is noted that psychopathy is “very common” alongside borderline personality disorder and that, when borderline features soften with age, the remaining psychopathic features can become more visible. The borderline presentation is described as an “invisibility cloak” that, once removed, reveals the underlying narcissistic, histrionic, or psychopathic traits. ^[yt-urqzjiu3li4.md:9]
+**Co-morbidity of Borderline Personality Disorder and Psychopathy** refers to the co-occurrence of the two conditions in the same person. In a clinical discussion, it is noted that psychopathy is “very common” alongside borderline personality disorder and that, when borderline features soften with age, the remaining psychopathic features can become more visible. The borderline presentation is described as an “invisibility cloak” that, once removed, reveals the underlying narcissistic, histrionic, or psychopathic traits. ^[yt-urqzjiu3li4.md:9]
 
 ## Prevalence
 
-The co-morbidity between borderline personality disorder and [[Antisocial Personality Disorder]] — described in the source as the clinical name for psychopathy — is “pretty high.” According to the discussion, some learned estimates suggest that about **one in three** individuals with borderline personality disorder would also qualify as psychopathic. ^[yt-urqzjiu3li4.md:9]
+The co-morbidity between borderline personality disorder and Antisocial Personality Disorder — described in the source as the clinical name for psychopathy — is “pretty high.” According to the discussion, some learned estimates suggest that about **one in three** individuals with borderline personality disorder would also qualify as psychopathic. ^[yt-urqzjiu3li4.md:9]
 
 ## Psychopathy as a spectrum
 
@@ -34,11 +34,11 @@ Psychopathy exists on a spectrum, and the overwhelming majority of psychopaths h
 
 ## Clinical presentation: superficial charm
 
-One of the key diagnostic and clinical features of psychopathy is **superficial charm and glibness**. This feature also appears in [[Narcissistic Personality Disorder]], but to a much lesser extent; the antisocial dimension of narcissism is described as definitely psychopathic. The discussion warns that a person who appears charming and magnetic in public but is cruel behind closed doors may be better described as psychopathic rather than purely borderline. ^[yt-urqzjiu3li4.md:9]
+One of the key diagnostic and clinical features of psychopathy is **superficial charm and glibness**. This feature also appears in Narcissistic Personality Disorder, but to a much lesser extent; the antisocial dimension of narcissism is described as definitely psychopathic. The discussion warns that a person who appears charming and magnetic in public but is cruel behind closed doors may be better described as psychopathic rather than purely borderline. ^[yt-urqzjiu3li4.md:9]
 
 ## Course with age and dementia
 
-Borderline personality disorder may soften, ameliorate, or mitigate with age, but co-morbid conditions do not necessarily improve. Narcissism generally worsens with age — with the exception of antisocial behaviors — and histrionic personality disorder is also common alongside borderline features. The same pattern appears in [[Dementia]]: [[cluster-b-personality-disorders|Cluster B personality disorders]] can become accentuated, so a person with narcissistic personality disorder who develops dementia may show more egregious narcissistic traits. In this view, the borderline part may be “shed” while narcissism, psychopathy, and histrionic features survive. ^[yt-urqzjiu3li4.md:9]
+Borderline personality disorder may soften, ameliorate, or mitigate with age, but co-morbid conditions do not necessarily improve. Narcissism generally worsens with age — with the exception of antisocial behaviors — and histrionic personality disorder is also common alongside borderline features. The same pattern appears in Dementia: [[cluster-b-personality-disorders|Cluster B personality disorders]] can become accentuated, so a person with narcissistic personality disorder who develops dementia may show more egregious narcissistic traits. In this view, the borderline part may be “shed” while narcissism, psychopathy, and histrionic features survive. ^[yt-urqzjiu3li4.md:9]
 
 ## Impact on children
 

@@ -22,7 +22,7 @@ promptVersion: v1
 
 # Identity Disturbance in Borderline Personality Organization
 
-Identity disturbance is a central dynamic in [[Borderline Personality Organization]], described in the source material as the third of several internal processes that motivate avoidant behavior. It refers to a fluctuating state in which a person moves between mutually exclusive, incompatible beliefs, values, behavior patterns, cognitions, and emotions. ^[yt-q1kj8o1cc-u.md:9]
+Identity disturbance is a central dynamic in Borderline Personality Organization, described in the source material as the third of several internal processes that motivate avoidant behavior. It refers to a fluctuating state in which a person moves between mutually exclusive, incompatible beliefs, values, behavior patterns, cognitions, and emotions. ^[yt-q1kj8o1cc-u.md:9]
 
 ## Definition and Clinical Picture
 
@@ -36,11 +36,11 @@ The source draws a direct parallel between borderline and narcissistic condition
 
 ## Link to Pervasive Dissociation
 
-Identity disturbance is said to be closely connected to [[Pervasive Dissociation]]. The source describes bouts of amnesia, derealization, and depersonalization in borderline individuals, who may feel empty, unreal, and "on autopilot." These experiences are particularly pronounced when the person is alone or during acting-out sex, such as cheating or promiscuity, when the individual may feel detached from their own body or perceive events as dreamlike and unreal. ^[yt-q1kj8o1cc-u.md:9]
+Identity disturbance is said to be closely connected to Pervasive Dissociation. The source describes bouts of amnesia, derealization, and depersonalization in borderline individuals, who may feel empty, unreal, and "on autopilot." These experiences are particularly pronounced when the person is alone or during acting-out sex, such as cheating or promiscuity, when the individual may feel detached from their own body or perceive events as dreamlike and unreal. ^[yt-q1kj8o1cc-u.md:9]
 
 ## Role in Borderline Avoidance
 
-Within the source's framework, identity disturbance is one of several processes underlying the borderline's avoidance, alongside [[Introject Inconstancy]], transitional or comfort objectifying, and pervasive dissociation. These dynamics are presented as part of a broader pattern of decompensation, acting out, and subclinical psychopathy in some cases. ^[yt-q1kj8o1cc-u.md:9]
+Within the source's framework, identity disturbance is one of several processes underlying the borderline's avoidance, alongside Introject Inconstancy, transitional or comfort objectifying, and pervasive dissociation. These dynamics are presented as part of a broader pattern of decompensation, acting out, and subclinical psychopathy in some cases. ^[yt-q1kj8o1cc-u.md:9]
 
 ## Sources
 

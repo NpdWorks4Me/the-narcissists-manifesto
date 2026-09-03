@@ -21,7 +21,7 @@ promptVersion: v1
 
 ## Overview
 
-In relationships with a partner who has [[Borderline Personality Disorder]], the non-borderline partner may develop a temporary, transient, situational form of [[Narcissism]]. Even healthy partners begin interacting with an internal image of the borderline rather than with the real person, a stance the source describes as becoming "temporarily, transiently, situationally, narcissists." This happens because interacting with the actual borderline requires what psychology calls "high-effort coping," and the internal object becomes a self-preservation strategy. ^[yt-vjdkwbh4fzy.md:9]
+In relationships with a partner who has Borderline Personality Disorder, the non-borderline partner may develop a temporary, transient, situational form of Narcissism. Even healthy partners begin interacting with an internal image of the borderline rather than with the real person, a stance the source describes as becoming "temporarily, transiently, situationally, narcissists." This happens because interacting with the actual borderline requires what psychology calls "high-effort coping," and the internal object becomes a self-preservation strategy. ^[yt-vjdkwbh4fzy.md:9]
 
 ## The Internal Object
 
@@ -33,15 +33,15 @@ The borderline is described as being like a "seismograph": hypervigilant, consta
 
 ## The Demand to "Freeze" the Partner
 
-In a desperate, doomed attempt to ensure [[Object Constancy]], the borderline tries to freeze the partner — preventing him from evolving, growing, traveling, talking to others, having friends, or paying attention to anyone but her. The source compares this to a baby crying when its mother leaves the room. The motivation differs from the narcissist: the narcissist freezes the partner to protect an introject, while the borderline freezes the partner out of fear of abandonment and loss. This objectification denies the partner agency and reduces the partner to an external regulator whose purpose is to manage the borderline's moods and emotions. ^[yt-vjdkwbh4fzy.md:9]
+In a desperate, doomed attempt to ensure Object Constancy, the borderline tries to freeze the partner — preventing him from evolving, growing, traveling, talking to others, having friends, or paying attention to anyone but her. The source compares this to a baby crying when its mother leaves the room. The motivation differs from the narcissist: the narcissist freezes the partner to protect an introject, while the borderline freezes the partner out of fear of abandonment and loss. This objectification denies the partner agency and reduces the partner to an external regulator whose purpose is to manage the borderline's moods and emotions. ^[yt-vjdkwbh4fzy.md:9]
 
 ## Effects on the Partner
 
-The partner experiences what the source calls [[engulfment-anxiety|Engulfment Anxiety]]. They feel treated as an object, subjected to emotional blackmail, forced to walk on eggshells, and denied agency and control over their own life. In response, partners develop both narcissistic defenses, such as [[Introjection]] and introject constancy, and borderline-like defenses, such as decompensation, avoidant behavior, and approach-avoidance dynamics. They also develop anxiety about both the external object and the internal object — "introject anxiety." The source states that even healthy partners are driven "clinically to become personality disordered" by this dynamic. ^[yt-vjdkwbh4fzy.md:9]
+The partner experiences what the source calls [[engulfment-anxiety|Engulfment Anxiety]]. They feel treated as an object, subjected to emotional blackmail, forced to walk on eggshells, and denied agency and control over their own life. In response, partners develop both narcissistic defenses, such as Introjection and introject constancy, and borderline-like defenses, such as decompensation, avoidant behavior, and approach-avoidance dynamics. They also develop anxiety about both the external object and the internal object — "introject anxiety." The source states that even healthy partners are driven "clinically to become personality disordered" by this dynamic. ^[yt-vjdkwbh4fzy.md:9]
 
 ## The Approach-Avoidance Cycle
 
-The partner's withdrawal provokes the borderline's [[Abandonment Anxiety]]. This feeds an ongoing [[Approach-Avoidance Cycle]]: the borderline approaches, intimacy is created, then the borderline fears being engulfed and withdraws, then feels abandoned again and reapproaches. The partner mirrors the cycle. By avoiding the external object, even healthy partners undermine their own object constancy, while their need to maintain a stable internal object keeps them caught in the same dynamic. ^[yt-vjdkwbh4fzy.md:9]
+The partner's withdrawal provokes the borderline's Abandonment Anxiety. This feeds an ongoing Approach-Avoidance Cycle: the borderline approaches, intimacy is created, then the borderline fears being engulfed and withdraws, then feels abandoned again and reapproaches. The partner mirrors the cycle. By avoiding the external object, even healthy partners undermine their own object constancy, while their need to maintain a stable internal object keeps them caught in the same dynamic. ^[yt-vjdkwbh4fzy.md:9]
 
 ## Sources
 

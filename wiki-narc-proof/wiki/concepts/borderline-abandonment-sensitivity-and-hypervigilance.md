@@ -22,7 +22,7 @@ promptVersion: v1
 
 ## Overview
 
-The transcript describes a pattern in which a person with [[Borderline Personality Disorder]] is chronically [[Hypervigilance|hypervigilant]] for signs of [[Abandonment Anxiety|abandonment or rejection]]. The borderline is compared to a "seismograph" because she constantly monitors the partner, catastrophizes, overinterprets, and mislabels perfectly normal behavior as abandonment. ^[yt-vjdkwbh4fzy.md:9]
+The transcript describes a pattern in which a person with Borderline Personality Disorder is chronically hypervigilant for signs of abandonment or rejection. The borderline is compared to a "seismograph" because she constantly monitors the partner, catastrophizes, overinterprets, and mislabels perfectly normal behavior as abandonment. ^[yt-vjdkwbh4fzy.md:9]
 
 ## Hypervigilance and decompensation
 
@@ -32,14 +32,14 @@ When the borderline feels abandoned or rejected, her defenses crumble. She decom
 
 ## The partner's internal object
 
-Because interacting with a dysregulated borderline requires what the source calls "high-effort coping," partners may develop an [[Internal Object]] — a snapshot or representation of the borderline — and interact with that internal image rather than with the real person. This is described as a transient, situational narcissistic dynamic. The hypervigilant borderline detects this withdrawal and realizes that her partner is interacting with an "avatar" or "icon" of her, not with her, which deepens her sense of abandonment. ^[yt-vjdkwbh4fzy.md:9]
+Because interacting with a dysregulated borderline requires what the source calls "high-effort coping," partners may develop an Internal Object — a snapshot or representation of the borderline — and interact with that internal image rather than with the real person. This is described as a transient, situational narcissistic dynamic. The hypervigilant borderline detects this withdrawal and realizes that her partner is interacting with an "avatar" or "icon" of her, not with her, which deepens her sense of abandonment. ^[yt-vjdkwbh4fzy.md:9]
 
 ## Freezing the partner
 
-To ensure [[Object Constancy]], the borderline tries to "freeze" the partner, like "an ancient Egyptian mummy." Unlike the narcissist, who freezes a partner to preserve an [[Introject]], the borderline does so to prevent any change that might lead to abandonment. She demands that the partner not evolve, not have friends, not travel, not pay attention to anyone else, and respond instantly to her. The result is an engulfing, suffocating dynamic compared to a baby crying when its mother leaves the room. ^[yt-vjdkwbh4fzy.md:9]
+To ensure Object Constancy, the borderline tries to "freeze" the partner, like "an ancient Egyptian mummy." Unlike the narcissist, who freezes a partner to preserve an Introject, the borderline does so to prevent any change that might lead to abandonment. She demands that the partner not evolve, not have friends, not travel, not pay attention to anyone else, and respond instantly to her. The result is an engulfing, suffocating dynamic compared to a baby crying when its mother leaves the room. ^[yt-vjdkwbh4fzy.md:9]
 
 ## Effects on the partner
 
-This objectification provokes the partner, who does not want to be deactivated, lose agency, be treated as property, walk on eggshells, or endure constant [[Emotional Blackmail]]. The partner feels what the source calls [[Engulfment Anxiety]]. In response, partners may develop narcissistic defenses such as introjection and introject constancy, along with borderline-like defenses such as decompensation, avoidant behavior, and an [[Approach-Avoidance Cycle|approach-avoidance pattern]]. The partner is treated as an "external regulator" whose job is to manage the borderline's moods and emotions. ^[yt-vjdkwbh4fzy.md:9]
+This objectification provokes the partner, who does not want to be deactivated, lose agency, be treated as property, walk on eggshells, or endure constant Emotional Blackmail. The partner feels what the source calls Engulfment Anxiety. In response, partners may develop narcissistic defenses such as introjection and introject constancy, along with borderline-like defenses such as decompensation, avoidant behavior, and an approach-avoidance pattern. The partner is treated as an "external regulator" whose job is to manage the borderline's moods and emotions. ^[yt-vjdkwbh4fzy.md:9]
 
 By withdrawing and avoiding the real external object, even healthy partners undermine their own object constancy and may be "driven clinically to become personality disordered." The broader dynamic then provokes the borderline

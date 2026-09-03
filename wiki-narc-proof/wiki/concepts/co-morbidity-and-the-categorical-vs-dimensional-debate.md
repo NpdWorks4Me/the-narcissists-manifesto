@@ -23,4 +23,4 @@ promptVersion: v1
 
 # Co-morbidity and the categorical vs. dimensional debate
 
-The [[categorical approach]] to personality disorder diagnosis treats disorders as distinct clinical entities. In the [[Diagnostic and Statistical Manual]] (DSM), [[Cluster B personality disorders]] are divided into four separate diagnoses: [[narcissistic personality disorder]], [[borderline personality disorder]], [[antisocial personality disorder]] (whose extreme form is known as psychopathy), and [[histrionic personality disorder]]. The source lecture describes a
+The categorical approach to personality disorder diagnosis treats disorders as distinct clinical entities. In the Diagnostic and Statistical Manual (DSM), Cluster B personality disorders are divided into four separate diagnoses: narcissistic personality disorder, borderline personality disorder, antisocial personality disorder (whose extreme form is known as psychopathy), and histrionic personality disorder. The source lecture describes a
