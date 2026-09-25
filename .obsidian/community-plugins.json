@@ -6,6 +6,9 @@
   "obsidian-kanban",
   "obsidian-linter",
   "obsidian-git",
-  "copilot",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "terminal",
+  "copilot"
 ]

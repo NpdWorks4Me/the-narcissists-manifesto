@@ -1,5 +1,15 @@
 {
   "enabledCssSnippets": [
     "hide-system"
-  ]
+  ],
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "translucency": true,
+  "textFontFamily": "Tahoma",
+  "monospaceFontFamily": "Inter",
+  "accentColor": "",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }

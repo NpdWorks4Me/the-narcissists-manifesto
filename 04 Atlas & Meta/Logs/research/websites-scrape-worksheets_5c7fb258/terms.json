@@ -1,0 +1,121 @@
+{
+  "terms": [
+    "DBT skills",
+    "worksheet",
+    "Images",
+    "Software",
+    "Texts",
+    "Video",
+    "Mobile Apps",
+    "Browser Extensions",
+    "Archive-It Subscription",
+    "Save Page Now",
+    "Adult Attachment, Stress, and Romantic Relationships",
+    "Jeffry A Simpson",
+    "W Steven Rholes",
+    "Alexander J O'Donovan",
+    "Hector Cardiel Sam",
+    "Abbas Alameddine",
+    "Regression: Diagnosis, Evaluation, and Management",
+    "Hermioni N Lokko , MD, MPP",
+    "Theodore A Stern , MD",
+    "Skills Training Manual",
+    "Handouts And Worksheets",
+    "Upload \n\n\n\n\n\nSearch",
+    "Video\n\n\n\n\n\n\n\n\n\n\n\n\nSearch",
+    "Lock \n\nLocked",
+    "Minnesota \nFind"
+  ],
+  "claims": [
+    {
+      "claim": "DBT skills",
+      "source": "https://archive.org/details/dbt-skills-handouts-and-worksheets",
+      "assetId": "9334176d",
+      "category": "rare"
+    },
+    {
+      "claim": "worksheet",
+      "source": "https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf",
+      "assetId": "652ac5a2",
+      "category": "tool"
+    },
+    {
+      "claim": "Images",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4845754/",
+      "assetId": "82c07efb",
+      "category": "page"
+    },
+    {
+      "claim": "Software",
+      "source": "https://health.uark.edu/mental-health/resources/caps-resources-anxiety-depression-reduction-workbook.pdf",
+      "assetId": "79af5699",
+      "category": "tool"
+    },
+    {
+      "claim": "Texts",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8918204/",
+      "assetId": "074d408d",
+      "category": "page"
+    },
+    {
+      "claim": "Video",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12145200/",
+      "assetId": "61bf6d96",
+      "category": "page"
+    },
+    {
+      "claim": "Mobile Apps",
+      "source": "https://www.betweensessions.com/wp-content/uploads/2020/02/DBT_Assignment_Workbook_F0220.pdf",
+      "assetId": "c6bf433d",
+      "category": "tool"
+    },
+    {
+      "claim": "Browser Extensions",
+      "source": "https://www.betweensessions.com/wp-content/uploads/2020/12/Helping_the_Anxious_Teen_120620.pdf",
+      "assetId": "8f3f83b4",
+      "category": "tool"
+    },
+    {
+      "claim": "Archive-It Subscription",
+      "source": "https://www.dbsalliance.org/wp-content/uploads/2019/03/LS_plan_workbook.pdf",
+      "assetId": "a349f530",
+      "category": "tool"
+    },
+    {
+      "claim": "Save Page Now",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578899/",
+      "assetId": "ac4258a8",
+      "category": "page"
+    },
+    {
+      "claim": "Adult Attachment, Stress, and Romantic Relationships",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/1951790/",
+      "assetId": "e84e234b",
+      "category": "page"
+    },
+    {
+      "claim": "Jeffry A Simpson",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5305663/",
+      "assetId": "0e9074ae",
+      "category": "page"
+    },
+    {
+      "claim": "Worksheet/Workbook: %PDF-1.6\r%����\r",
+      "source": "https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf",
+      "assetId": "652ac5a2",
+      "category": "tool"
+    },
+    {
+      "claim": "Worksheet/Workbook: %PDF-1.7\r%����\r",
+      "source": "https://health.uark.edu/mental-health/resources/caps-resources-anxiety-depression-reduction-workbook.pdf",
+      "assetId": "79af5699",
+      "category": "tool"
+    },
+    {
+      "claim": "Worksheet/Workbook: %PDF-1.3",
+      "source": "https://www.betweensessions.com/wp-content/uploads/2020/02/DBT_Assignment_Workbook_F0220.pdf",
+      "assetId": "c6bf433d",
+      "category": "tool"
+    }
+  ]
+}

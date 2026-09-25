@@ -21,3 +21,6 @@ date,note_id,title,type,status,wip_count,orphan_count,broken_links,confidence,ev
 2026-09-02,engine-a,Engine A hygiene,system,active,6,1,0,0,hygiene_scan
 2026-09-02,engine-a,Engine A hygiene,system,active,5,1,0,0,hygiene_scan
 2026-09-02,engine-b,Engine B synthesis,system,active,0,0,0,0.2,synthesis insights=0 atomics=0 specs=0
+2026-09-02,70aaa928,websites-scrape worksheets resources,hyperfixation,active,2,0,0,0.75,websites-scrape 70aaa928 urls=14 assets=5 failed=0
+2026-09-02,5c7fb258,websites-scrape worksheets resources,hyperfixation,active,2,0,0,0.85,websites-scrape 5c7fb258 urls=14 assets=14 failed=0
+2026-09-02,7e15970d,workbook loops,inbox,raw,5,0,0,0.75,workbook-loops rounds=26 created=5 elapsed=19.2m

@@ -1,6 +1,6 @@
 /**
  * vaultd — daemon runner: watches 00 Inbox, schedules daily/nightly/weekly
- * Extended 5-phase nightly (OKM-aligned): close day → reconcile → synthesize → heal → reindex
+ * Extended 6-phase nightly (OKM-aligned): close day → reconcile → synthesize → wiki-compile → heal → reindex
  * Usage: npm run vault:daemon [-- --once] [-- --dry-run] [-- --nightly]
  */
 import { watch } from "chokidar";
@@ -71,8 +71,17 @@ async function phaseSynthesize() {
   }
 }
 
+async function phaseWikiCompile() {
+  console.log("\n📚 [4/6] Wiki Compile — masters → wiki");
+  try {
+    await runScript("05 Backend/src/vault/wikiCompile.ts", dryRunFlag ? [dryRunFlag] : []);
+  } catch (e) {
+    console.warn("  ⚠ wiki compile failed", e);
+  }
+}
+
 async function phaseHeal() {
-  console.log("\n🩹 [4/5] Heal — orphan auto-link");
+  console.log("\n🩹 [5/6] Heal — orphan auto-link");
   try {
     await runScript("05 Backend/src/vault/heal.ts", dryRunFlag ? [dryRunFlag] : ["--apply"]);
   } catch (e) {
@@ -82,7 +91,7 @@ async function phaseHeal() {
 }
 
 async function phaseReindex() {
-  console.log("\n🔎 [5/5] Reindex — semantic index");
+  console.log("\n🔎 [6/6] Reindex — semantic index");
   try {
     await runScript("05 Backend/src/vault/reindex.ts", dryRunFlag ? [dryRunFlag] : ["--apply"]);
   } catch (e) {
@@ -92,7 +101,7 @@ async function phaseReindex() {
 
 async function runNightly() {
   const start = Date.now();
-  console.log("\n🌙🌙🌙 Nightly 5-phase starting @ " + new Date().toISOString() + (dryRunFlag ? " (dry-run)" : ""));
+  console.log("\n🌙🌙🌙 Nightly 6-phase starting @ " + new Date().toISOString() + (dryRunFlag ? " (dry-run)" : ""));
   const logDir = join(vaultRoot, CONFIG.FOLDERS.logs);
   mkdirSync(logDir, { recursive: true });
   const nightlyLog = join(logDir, "nightly.log");
@@ -100,6 +109,7 @@ async function runNightly() {
     await phaseCloseDay();
     await phaseReconcile();
     await phaseSynthesize();
+    await phaseWikiCompile();
     await phaseHeal();
     await phaseReindex();
     const elapsed = ((Date.now() - start) / 1000).toFixed(1);

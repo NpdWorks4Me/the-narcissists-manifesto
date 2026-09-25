@@ -1,0 +1,37 @@
+[
+  {
+    "assetId": "652ac5a2",
+    "sourceUrl": "https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf",
+    "score": 0.4575,
+    "category": "tool",
+    "localPath": null
+  },
+  {
+    "assetId": "79af5699",
+    "sourceUrl": "https://health.uark.edu/mental-health/resources/caps-resources-anxiety-depression-reduction-workbook.pdf",
+    "score": 0.405,
+    "category": "tool",
+    "localPath": "/Users/npdworks4me/Desktop/the-narcissists-manifesto/04 Atlas & Meta/Logs/research/websites-scrape-worksheets_70aaa928/assets/79af5699_caps-resources-anxie.pdf"
+  },
+  {
+    "assetId": "074d408d",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8918204/",
+    "score": 0.3950000000000001,
+    "category": "page",
+    "localPath": null
+  },
+  {
+    "assetId": "61bf6d96",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12145200/",
+    "score": 0.3950000000000001,
+    "category": "page",
+    "localPath": null
+  },
+  {
+    "assetId": "ac4258a8",
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578899/",
+    "score": 0.37500000000000006,
+    "category": "page",
+    "localPath": null
+  }
+]

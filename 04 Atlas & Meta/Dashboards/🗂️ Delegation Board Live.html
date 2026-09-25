@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>🗂️ Delegation Board — Live</title>
+<style>
+  :root{--bg:#0f0f12;--card:#1a1a1f;--muted:#9aa0aa;--text:#e8e8ea;--accent:#7c6cff;--border:#2a2a32;--radius:14px}
+  @media(prefers-color-scheme:light){:root{--bg:#f6f7f9;--card:#fff;--text:#1a1a1f;--muted:#6b7280;--border:#e5e7eb}}
+  *{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui;background:var(--bg);color:var(--text);line-height:1.5}
+  .wrap{max-width:1100px;margin:0 auto;padding:28px 20px 40px}
+  header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between}
+  h1{font-size:24px;margin:0}
+  .sub{color:var(--muted);font-size:13px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px;margin-top:16px}
+  .card h2{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+  .kanban{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+  @media(max-width:700px){.kanban{grid-template-columns:1fr}}
+  .col{background:var(--bg);border:1px solid var(--border);border-radius:12px;padding:10px}
+  .col h3{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+  .task{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:10px;margin-bottom:8px;font-size:14px}
+  .task.done{opacity:.6;text-decoration:line-through}
+  .btn{display:inline-flex;gap:8px;background:var(--accent);color:#fff;border:0;border-radius:999px;padding:8px 14px;font-size:13px;font-weight:600;text-decoration:none}
+  .btn.secondary{background:var(--card);color:var(--text);border:1px solid var(--border)}
+  a{color:var(--accent)}
+  .nav{display:flex;gap:8px;flex-wrap:wrap}
+  .foot{margin-top:18px;color:var(--muted);font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>🗂️ Delegation Board — Live</h1>
+      <div class="sub">3 columns • Keep <strong>Doing</strong> to 1–2 max • <a href="./🏠 Command Center Live.html">← Back to Command Center</a> • <a href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FDashboards%2F%F0%9F%97%82%EF%B8%8F%20Delegation%20Board.md">Open .md Kanban (drag)</a></div>
+    </div>
+    <div class="nav">
+      <a class="btn" href="./🏠 Command Center Live.html">🏠 Command Center</a>
+      <a class="btn secondary" href="./📈 Knowledge Graph Intelligence Live.html">📈 KGI</a>
+    </div>
+  </header>
+
+  <div class="card">
+    <div class="kanban">
+      <div class="col"><h3>To Do — 2</h3>
+        <div class="task">Write 1 sentence in <a href="../../01 Hyperfixations/loneliness Live.html">loneliness</a> under ## Synthesis<br><span style="color:var(--muted);font-size:12px">📅 2026-09-03 • <a href="obsidian://open?vault=the-narcissists-manifesto&file=01%20Hyperfixations%2Floneliness.md">edit in Obsidian</a></span></div>
+        <div class="task">Open <a href="../../01 Hyperfixations/narcissism-as-performance Live.html">narcissism-as-performance</a> and add 1 note to ## Raw Capture<br><span style="color:var(--muted);font-size:12px">📅 2026-09-03</span></div>
+      </div>
+      <div class="col"><h3>Doing — 1 max</h3>
+        <div class="task" style="border-style:dashed; color:var(--muted)"><em>drag one card here to start</em><br><span style="font-size:12px">In Obsidian Kanban, drag To Do → Doing</span></div>
+      </div>
+      <div class="col"><h3>Done</h3>
+        <div class="task done">Board set up ✅ 2026-09-02</div>
+      </div>
+    </div>
+    <div class="sub" style="margin-top:10px">HTML preview is read-only — drag in the <a href="obsidian://open?vault=the-narcissists-manifesto&file=04%20Atlas%20%26%20Meta%2FDashboards%2F%F0%9F%97%82%EF%B8%8F%20Delegation%20Board.md">.md Kanban</a> in Obsidian, then reload this HTML.</div>
+  </div>
+
+  <div class="card">
+    <h2>How to use</h2>
+    <div class="sub">This HTML stays in the same browser tab as Command Center. Links to <a href="../../01 Hyperfixations/loneliness Live.html">loneliness Live.html</a> and <a href="../../01 Hyperfixations/narcissism-as-performance Live.html">narcissism-as-performance Live.html</a> also open as HTML in the same webviewer. To actually move cards, open the <code>.md</code> Kanban in Obsidian.</div>
+  </div>
+
+  <div class="foot">Vault: the-narcissists-manifesto • Kanban 3 cols • HTML preview mirrors <code>🗂️ Delegation Board.md</code>. Generated 2026-09-02.</div>
+</div>
+</body>
+</html>

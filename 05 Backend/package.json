@@ -20,6 +20,7 @@
     "vault:reconcile": "tsx src/vault/reconcile.ts --apply",
     "vault:synthesize": "tsx src/vault/synthesize.ts --apply",
     "vault:heal": "tsx src/vault/heal.ts --apply",
+    "wiki:compile": "tsx src/vault/wikiCompile.ts",
     "vault:challenge": "tsx src/vault/challenge.ts",
     "vault:emerge": "tsx src/vault/emerge.ts",
     "vault:recall": "tsx src/vault/recall.ts",
@@ -29,6 +30,7 @@
     "research:watch": "tsx src/research/watch.ts",
     "research:25min": "tsx src/research/orchestrator.ts",
     "research:10min": "tsx src/research/orchestrator.ts",
+    "research:scrape-websites": "tsx src/research/scrapeWebsites.ts",
     "test": "vitest run",
     "test:watch": "vitest"
   },
@@ -39,6 +41,7 @@
     "dotenv": "^17.4.2",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
+    "pdf-parse": "^1.1.1",
     "zod": "^3.25.0"
   },
   "devDependencies": {

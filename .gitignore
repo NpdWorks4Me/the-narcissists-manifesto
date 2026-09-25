@@ -35,6 +35,14 @@ research-engine/.cache/
 # Env
 .env
 .env.local
+.webui_secret_key
+
+# Obsidian plugin credentials (contains live API keys + licence tokens)
+.obsidian/plugins/*/data-v3-credentials-backup-*.json
+.obsidian/plugins/*/data.json
+
+# Plugin caches
+.copilot/model-catalog-cache.json
 
 # Build
 05 Backend/dist/
@@ -42,3 +50,6 @@ dist/
 
 # dsh-memory (Lingshu) agent memory database
 05 Backend/data/
+
+# Astro site — separate git repo, manages its own history
+pink-parallax/

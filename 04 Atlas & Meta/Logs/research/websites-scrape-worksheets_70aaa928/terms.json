@@ -1,0 +1,113 @@
+{
+  "terms": [
+    "Alexander J O'Donovan",
+    "Hector Cardiel Sam",
+    "Abbas Alameddine",
+    "Regression: Diagnosis, Evaluation, and Management",
+    "Hermioni N Lokko , MD, MPP",
+    "Theodore A Stern , MD",
+    "Voluntary Age Regression Entering",
+    "Child With Post",
+    "Stress Disorder",
+    "United States",
+    "Lock \n\nLocked",
+    "Stress Disorder\n\n\nAlexander",
+    "Adolescent Psychiatry",
+    "Penn State College",
+    "Penn State Health Milton",
+    "Hershey Medical Center",
+    "Scandinavian Journal",
+    "Child Adolesc Psychiatr Psychol",
+    "Dieu De France",
+    "Lebanon \nFind",
+    "The Primary Care Companion",
+    "Prim Care Companion",
+    "Management\n\n\nHermioni"
+  ],
+  "claims": [
+    {
+      "claim": "Alexander J O'Donovan",
+      "source": "https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf",
+      "assetId": "652ac5a2",
+      "category": "tool"
+    },
+    {
+      "claim": "Hector Cardiel Sam",
+      "source": "https://health.uark.edu/mental-health/resources/caps-resources-anxiety-depression-reduction-workbook.pdf",
+      "assetId": "79af5699",
+      "category": "tool"
+    },
+    {
+      "claim": "Abbas Alameddine",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8918204/",
+      "assetId": "074d408d",
+      "category": "page"
+    },
+    {
+      "claim": "Regression: Diagnosis, Evaluation, and Management",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12145200/",
+      "assetId": "61bf6d96",
+      "category": "page"
+    },
+    {
+      "claim": "Hermioni N Lokko , MD, MPP",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578899/",
+      "assetId": "ac4258a8",
+      "category": "page"
+    },
+    {
+      "claim": "Theodore A Stern , MD",
+      "source": "https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf",
+      "assetId": "652ac5a2",
+      "category": "tool"
+    },
+    {
+      "claim": "Voluntary Age Regression Entering",
+      "source": "https://health.uark.edu/mental-health/resources/caps-resources-anxiety-depression-reduction-workbook.pdf",
+      "assetId": "79af5699",
+      "category": "tool"
+    },
+    {
+      "claim": "Child With Post",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8918204/",
+      "assetId": "074d408d",
+      "category": "page"
+    },
+    {
+      "claim": "Stress Disorder",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12145200/",
+      "assetId": "61bf6d96",
+      "category": "page"
+    },
+    {
+      "claim": "United States",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578899/",
+      "assetId": "ac4258a8",
+      "category": "page"
+    },
+    {
+      "claim": "Lock \n\nLocked",
+      "source": "https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf",
+      "assetId": "652ac5a2",
+      "category": "tool"
+    },
+    {
+      "claim": "Stress Disorder\n\n\nAlexander",
+      "source": "https://health.uark.edu/mental-health/resources/caps-resources-anxiety-depression-reduction-workbook.pdf",
+      "assetId": "79af5699",
+      "category": "tool"
+    },
+    {
+      "claim": "Worksheet/Workbook: %PDF-1.6\r%����\r",
+      "source": "https://www.flinders.edu.au/content/dam/documents/engage/community/cbt/2-behavioural-activation.pdf",
+      "assetId": "652ac5a2",
+      "category": "tool"
+    },
+    {
+      "claim": "Worksheet/Workbook: %PDF-1.7\r%����\r",
+      "source": "https://health.uark.edu/mental-health/resources/caps-resources-anxiety-depression-reduction-workbook.pdf",
+      "assetId": "79af5699",
+      "category": "tool"
+    }
+  ]
+}
